@@ -1,0 +1,15 @@
+{
+    "font_id": "numans",
+    "font_family": "Numans",
+    "font_css_file": "numans.css",
+    "font_license": "license\/numans.txt",
+    "font_css_class": "font-numans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/numans-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

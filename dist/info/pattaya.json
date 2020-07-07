@@ -1,0 +1,15 @@
+{
+    "font_id": "pattaya",
+    "font_family": "Pattaya",
+    "font_css_file": "pattaya.css",
+    "font_license": "license\/pattaya.txt",
+    "font_css_class": "font-pattaya",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pattaya-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

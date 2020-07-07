@@ -1,0 +1,15 @@
+{
+    "font_id": "eagle-lake",
+    "font_family": "Eagle Lake",
+    "font_css_file": "eagle-lake.css",
+    "font_license": "license\/eagle-lake.txt",
+    "font_css_class": "font-eagle-lake",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/eagle-lake-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

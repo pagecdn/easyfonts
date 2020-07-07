@@ -1,0 +1,15 @@
+{
+    "font_id": "varela",
+    "font_family": "Varela",
+    "font_css_file": "varela.css",
+    "font_license": "license\/varela.txt",
+    "font_css_class": "font-varela",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/varela-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "abel",
+    "font_family": "Abel",
+    "font_css_file": "abel.css",
+    "font_license": "license\/abel.txt",
+    "font_css_class": "font-abel",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/abel-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

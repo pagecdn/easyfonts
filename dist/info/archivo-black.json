@@ -1,0 +1,15 @@
+{
+    "font_id": "archivo-black",
+    "font_family": "Archivo Black",
+    "font_css_file": "archivo-black.css",
+    "font_license": "license\/archivo-black.txt",
+    "font_css_class": "font-archivo-black",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/archivo-black-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

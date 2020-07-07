@@ -1,0 +1,33 @@
+{
+    "font_id": "amaranth",
+    "font_family": "Amaranth",
+    "font_css_file": "amaranth.css",
+    "font_license": "license\/amaranth.txt",
+    "font_css_class": "font-amaranth",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/amaranth-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/amaranth-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/amaranth-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/amaranth-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

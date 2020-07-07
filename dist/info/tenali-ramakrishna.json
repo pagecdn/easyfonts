@@ -1,0 +1,15 @@
+{
+    "font_id": "tenali-ramakrishna",
+    "font_family": "Tenali Ramakrishna",
+    "font_css_file": "tenali-ramakrishna.css",
+    "font_license": "license\/tenali-ramakrishna.txt",
+    "font_css_class": "font-tenali-ramakrishna",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/tenali-ramakrishna-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

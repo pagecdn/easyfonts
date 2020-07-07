@@ -1,0 +1,15 @@
+{
+    "font_id": "quando",
+    "font_family": "Quando",
+    "font_css_file": "quando.css",
+    "font_license": "license\/quando.txt",
+    "font_css_class": "font-quando",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/quando-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

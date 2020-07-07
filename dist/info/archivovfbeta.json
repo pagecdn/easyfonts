@@ -1,0 +1,21 @@
+{
+    "font_id": "archivovfbeta",
+    "font_family": "archivovfbeta",
+    "font_css_file": "archivovfbeta.css",
+    "font_license": "license\/archivovfbeta.txt",
+    "font_css_class": "font-archivovfbeta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/archivovfbeta-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/archivovfbeta-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

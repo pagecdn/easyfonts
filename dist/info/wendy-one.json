@@ -1,0 +1,15 @@
+{
+    "font_id": "wendy-one",
+    "font_family": "Wendy One",
+    "font_css_file": "wendy-one.css",
+    "font_license": "license\/wendy-one.txt",
+    "font_css_class": "font-wendy-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/wendy-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

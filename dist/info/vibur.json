@@ -1,0 +1,15 @@
+{
+    "font_id": "vibur",
+    "font_family": "Vibur",
+    "font_css_file": "vibur.css",
+    "font_license": "license\/vibur.txt",
+    "font_css_class": "font-vibur",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/vibur-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

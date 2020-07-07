@@ -1,0 +1,15 @@
+{
+    "font_id": "mr-de-haviland",
+    "font_family": "Mr De Haviland",
+    "font_css_file": "mr-de-haviland.css",
+    "font_license": "license\/mr-de-haviland.txt",
+    "font_css_class": "font-mr-de-haviland",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mr-de-haviland-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

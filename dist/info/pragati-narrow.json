@@ -1,0 +1,21 @@
+{
+    "font_id": "pragati-narrow",
+    "font_family": "Pragati Narrow",
+    "font_css_file": "pragati-narrow.css",
+    "font_license": "license\/pragati-narrow.txt",
+    "font_css_class": "font-pragati-narrow",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pragati-narrow-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/pragati-narrow-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

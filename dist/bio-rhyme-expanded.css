@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/bio-rhyme-expanded.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'bio rhyme expanded';font-weight:800;src:url(fonts/bio-rhyme-expanded-800.ttf)}
+@font-face{font-display:swap;font-family:'bio rhyme expanded';src:url(fonts/bio-rhyme-expanded-400.ttf)}
+@font-face{font-display:swap;font-family:'bio rhyme expanded';font-weight:700;src:url(fonts/bio-rhyme-expanded-700.ttf)}
+@font-face{font-display:swap;font-family:'bio rhyme expanded';font-weight:300;src:url(fonts/bio-rhyme-expanded-300.ttf)}
+@font-face{font-display:swap;font-family:'bio rhyme expanded';font-weight:200;src:url(fonts/bio-rhyme-expanded-200.ttf)}
+
+
+.font-bio-rhyme-expanded{font-family:'bio rhyme expanded'}
+.w800{font-weight:800;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w200{font-weight:200;font-style:normal}

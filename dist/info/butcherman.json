@@ -1,0 +1,15 @@
+{
+    "font_id": "butcherman",
+    "font_family": "Butcherman",
+    "font_css_file": "butcherman.css",
+    "font_license": "license\/butcherman.txt",
+    "font_css_class": "font-butcherman",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/butcherman-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

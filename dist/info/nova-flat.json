@@ -1,0 +1,15 @@
+{
+    "font_id": "nova-flat",
+    "font_family": "Nova Flat",
+    "font_css_file": "nova-flat.css",
+    "font_license": "license\/nova-flat.txt",
+    "font_css_class": "font-nova-flat",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nova-flat-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

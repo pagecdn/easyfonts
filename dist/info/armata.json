@@ -1,0 +1,15 @@
+{
+    "font_id": "armata",
+    "font_family": "Armata",
+    "font_css_file": "armata.css",
+    "font_license": "license\/armata.txt",
+    "font_css_class": "font-armata",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/armata-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

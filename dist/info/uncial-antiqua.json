@@ -1,0 +1,15 @@
+{
+    "font_id": "uncial-antiqua",
+    "font_family": "Uncial Antiqua",
+    "font_css_file": "uncial-antiqua.css",
+    "font_license": "license\/uncial-antiqua.txt",
+    "font_css_class": "font-uncial-antiqua",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/uncial-antiqua-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

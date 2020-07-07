@@ -1,0 +1,15 @@
+{
+    "font_id": "flavors",
+    "font_family": "Flavors",
+    "font_css_file": "flavors.css",
+    "font_license": "license\/flavors.txt",
+    "font_css_class": "font-flavors",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/flavors-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

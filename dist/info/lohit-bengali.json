@@ -1,0 +1,15 @@
+{
+    "font_id": "lohit-bengali",
+    "font_family": "Lohit Bengali",
+    "font_css_file": "lohit-bengali.css",
+    "font_license": "license\/lohit-bengali.txt",
+    "font_css_class": "font-lohit-bengali",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lohit-bengali.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

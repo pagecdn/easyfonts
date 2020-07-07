@@ -1,0 +1,15 @@
+{
+    "font_id": "black-han-sans",
+    "font_family": "Black Han Sans",
+    "font_css_file": "black-han-sans.css",
+    "font_license": "license\/black-han-sans.txt",
+    "font_css_class": "font-black-han-sans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/black-han-sans-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

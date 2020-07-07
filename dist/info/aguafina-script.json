@@ -1,0 +1,15 @@
+{
+    "font_id": "aguafina-script",
+    "font_family": "Aguafina Script",
+    "font_css_file": "aguafina-script.css",
+    "font_license": "license\/aguafina-script.txt",
+    "font_css_class": "font-aguafina-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/aguafina-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

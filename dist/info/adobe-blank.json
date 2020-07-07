@@ -1,0 +1,15 @@
+{
+    "font_id": "adobe-blank",
+    "font_family": "Adobe Blank",
+    "font_css_file": "adobe-blank.css",
+    "font_license": "license\/adobe-blank.txt",
+    "font_css_class": "font-adobe-blank",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/adobe-blank-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

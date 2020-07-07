@@ -1,0 +1,15 @@
+{
+    "font_id": "fauna-one",
+    "font_family": "Fauna One",
+    "font_css_file": "fauna-one.css",
+    "font_license": "license\/fauna-one.txt",
+    "font_css_class": "font-fauna-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fauna-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/open-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'open sans';font-style:italic;font-weight:800;src:url(fonts/open-sans-800i.ttf)}
+@font-face{font-display:swap;font-family:'open sans';font-style:italic;font-weight:600;src:url(fonts/open-sans-600i.ttf)}
+@font-face{font-display:swap;font-family:'open sans';font-weight:700;src:url(fonts/open-sans-700.ttf)}
+@font-face{font-display:swap;font-family:'open sans';font-style:italic;src:url(fonts/open-sans-400i.ttf)}
+@font-face{font-display:swap;font-family:'open sans';font-weight:300;src:url(fonts/open-sans-300.ttf)}
+@font-face{font-display:swap;font-family:'open sans';font-weight:600;src:url(fonts/open-sans-600.ttf)}
+@font-face{font-display:swap;font-family:'open sans';font-weight:800;src:url(fonts/open-sans-800.ttf)}
+@font-face{font-display:swap;font-family:'open sans';font-style:italic;font-weight:300;src:url(fonts/open-sans-300i.ttf)}
+@font-face{font-display:swap;font-family:'open sans';src:url(fonts/open-sans-400.ttf)}
+@font-face{font-display:swap;font-family:'open sans';font-style:italic;font-weight:700;src:url(fonts/open-sans-700i.ttf)}
+
+
+.font-open-sans{font-family:'open sans'}
+.w800i{font-weight:800;font-style:italic}
+.w600i{font-weight:600;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w300{font-weight:300;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w800{font-weight:800;font-style:normal}
+.w300i{font-weight:300;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w700i{font-weight:700;font-style:italic}

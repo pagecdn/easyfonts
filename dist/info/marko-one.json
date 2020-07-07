@@ -1,0 +1,15 @@
+{
+    "font_id": "marko-one",
+    "font_family": "Marko One",
+    "font_css_file": "marko-one.css",
+    "font_license": "license\/marko-one.txt",
+    "font_css_class": "font-marko-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/marko-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

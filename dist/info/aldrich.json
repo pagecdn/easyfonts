@@ -1,0 +1,15 @@
+{
+    "font_id": "aldrich",
+    "font_family": "Aldrich",
+    "font_css_file": "aldrich.css",
+    "font_license": "license\/aldrich.txt",
+    "font_css_class": "font-aldrich",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/aldrich-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

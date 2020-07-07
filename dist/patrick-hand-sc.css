@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/patrick-hand-sc.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'patrick hand sc';src:url(fonts/patrick-hand-sc-400.ttf)}
+
+
+.font-patrick-hand-sc{font-family:'patrick hand sc'}
+.w400{font-weight:400;font-style:normal}

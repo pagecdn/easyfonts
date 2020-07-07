@@ -1,0 +1,15 @@
+{
+    "font_id": "swanky-and-moo-moo",
+    "font_family": "Swanky and Moo Moo",
+    "font_css_file": "swanky-and-moo-moo.css",
+    "font_license": "license\/swanky-and-moo-moo.txt",
+    "font_css_class": "font-swanky-and-moo-moo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/swanky-and-moo-moo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

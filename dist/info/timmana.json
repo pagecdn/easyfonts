@@ -1,0 +1,15 @@
+{
+    "font_id": "timmana",
+    "font_family": "Timmana",
+    "font_css_file": "timmana.css",
+    "font_license": "license\/timmana.txt",
+    "font_css_class": "font-timmana",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/timmana-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

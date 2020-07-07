@@ -1,0 +1,21 @@
+{
+    "font_id": "mina",
+    "font_family": "Mina",
+    "font_css_file": "mina.css",
+    "font_license": "license\/mina.txt",
+    "font_css_class": "font-mina",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mina-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/mina-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "headland-one",
+    "font_family": "Headland One",
+    "font_css_file": "headland-one.css",
+    "font_license": "license\/headland-one.txt",
+    "font_css_class": "font-headland-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/headland-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

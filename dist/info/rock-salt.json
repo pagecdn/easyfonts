@@ -1,0 +1,15 @@
+{
+    "font_id": "rock-salt",
+    "font_family": "Rock Salt",
+    "font_css_file": "rock-salt.css",
+    "font_license": "license\/rock-salt.txt",
+    "font_css_class": "font-rock-salt",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rock-salt-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

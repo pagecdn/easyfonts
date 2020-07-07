@@ -1,0 +1,15 @@
+{
+    "font_id": "raleway-dots",
+    "font_family": "Raleway Dots",
+    "font_css_file": "raleway-dots.css",
+    "font_license": "license\/raleway-dots.txt",
+    "font_css_class": "font-raleway-dots",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/raleway-dots-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

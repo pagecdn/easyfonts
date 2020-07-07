@@ -1,0 +1,15 @@
+{
+    "font_id": "monsieur-la-doulaise",
+    "font_family": "Monsieur La Doulaise",
+    "font_css_file": "monsieur-la-doulaise.css",
+    "font_license": "license\/monsieur-la-doulaise.txt",
+    "font_css_class": "font-monsieur-la-doulaise",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/monsieur-la-doulaise-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/chau-philomene-one.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'chau philomene one';src:url(fonts/chau-philomene-one-400.ttf)}
+@font-face{font-display:swap;font-family:'chau philomene one';font-style:italic;src:url(fonts/chau-philomene-one-400i.ttf)}
+
+
+.font-chau-philomene-one{font-family:'chau philomene one'}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}

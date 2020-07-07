@@ -1,0 +1,33 @@
+{
+    "font_id": "signika-negative",
+    "font_family": "Signika Negative",
+    "font_css_file": "signika-negative.css",
+    "font_license": "license\/signika-negative.txt",
+    "font_css_class": "font-signika-negative",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/signika-negative-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/signika-negative-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/signika-negative-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/signika-negative-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

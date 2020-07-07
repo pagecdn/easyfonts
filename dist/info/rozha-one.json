@@ -1,0 +1,15 @@
+{
+    "font_id": "rozha-one",
+    "font_family": "Rozha One",
+    "font_css_file": "rozha-one.css",
+    "font_license": "license\/rozha-one.txt",
+    "font_css_class": "font-rozha-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rozha-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

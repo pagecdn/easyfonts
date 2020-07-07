@@ -1,0 +1,18 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/dm-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'dm sans';font-style:italic;font-weight:500;src:url(fonts/dm-sans-500i.ttf)}
+@font-face{font-display:swap;font-family:'dm sans';font-weight:700;src:url(fonts/dm-sans-700.ttf)}
+@font-face{font-display:swap;font-family:'dm sans';font-style:italic;src:url(fonts/dm-sans-400i.ttf)}
+@font-face{font-display:swap;font-family:'dm sans';font-style:italic;font-weight:700;src:url(fonts/dm-sans-700i.ttf)}
+@font-face{font-display:swap;font-family:'dm sans';font-weight:500;src:url(fonts/dm-sans-500.ttf)}
+@font-face{font-display:swap;font-family:'dm sans';src:url(fonts/dm-sans-400.ttf)}
+
+
+.font-dm-sans{font-family:'dm sans'}
+.w500i{font-weight:500;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w500{font-weight:500;font-style:normal}
+.w400{font-weight:400;font-style:normal}

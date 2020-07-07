@@ -1,0 +1,15 @@
+{
+    "font_id": "molengo",
+    "font_family": "Molengo",
+    "font_css_file": "molengo.css",
+    "font_license": "license\/molengo.txt",
+    "font_css_class": "font-molengo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/molengo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

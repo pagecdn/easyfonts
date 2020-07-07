@@ -1,0 +1,15 @@
+{
+    "font_id": "montaga",
+    "font_family": "Montaga",
+    "font_css_file": "montaga.css",
+    "font_license": "license\/montaga.txt",
+    "font_css_class": "font-montaga",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/montaga-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

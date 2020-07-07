@@ -1,0 +1,21 @@
+{
+    "font_id": "merienda",
+    "font_family": "Merienda",
+    "font_css_file": "merienda.css",
+    "font_license": "license\/merienda.txt",
+    "font_css_class": "font-merienda",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/merienda-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/merienda-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

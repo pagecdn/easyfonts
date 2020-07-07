@@ -1,0 +1,15 @@
+{
+    "font_id": "mouse-memoirs",
+    "font_family": "Mouse Memoirs",
+    "font_css_file": "mouse-memoirs.css",
+    "font_license": "license\/mouse-memoirs.txt",
+    "font_css_class": "font-mouse-memoirs",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mouse-memoirs-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

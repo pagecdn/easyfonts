@@ -1,0 +1,20 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/inknut-antiqua.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'inknut antiqua';font-weight:700;src:url(fonts/inknut-antiqua-700.ttf)}
+@font-face{font-display:swap;font-family:'inknut antiqua';font-weight:600;src:url(fonts/inknut-antiqua-600.ttf)}
+@font-face{font-display:swap;font-family:'inknut antiqua';src:url(fonts/inknut-antiqua-400.ttf)}
+@font-face{font-display:swap;font-family:'inknut antiqua';font-weight:900;src:url(fonts/inknut-antiqua-900.ttf)}
+@font-face{font-display:swap;font-family:'inknut antiqua';font-weight:300;src:url(fonts/inknut-antiqua-300.ttf)}
+@font-face{font-display:swap;font-family:'inknut antiqua';font-weight:800;src:url(fonts/inknut-antiqua-800.ttf)}
+@font-face{font-display:swap;font-family:'inknut antiqua';font-weight:500;src:url(fonts/inknut-antiqua-500.ttf)}
+
+
+.font-inknut-antiqua{font-family:'inknut antiqua'}
+.w700{font-weight:700;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w900{font-weight:900;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w800{font-weight:800;font-style:normal}
+.w500{font-weight:500;font-style:normal}

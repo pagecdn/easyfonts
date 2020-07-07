@@ -1,0 +1,15 @@
+{
+    "font_id": "alfa-slab-one",
+    "font_family": "Alfa Slab One",
+    "font_css_file": "alfa-slab-one.css",
+    "font_license": "license\/alfa-slab-one.txt",
+    "font_css_class": "font-alfa-slab-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alfa-slab-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

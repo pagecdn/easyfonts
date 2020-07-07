@@ -1,0 +1,15 @@
+{
+    "font_id": "gentium-book-basic",
+    "font_family": "Gentium Book Basic",
+    "font_css_file": "gentium-book-basic.css",
+    "font_license": "license\/gentium-book-basic.txt",
+    "font_css_class": "font-gentium-book-basic",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gentium-book-basic-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/geo.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:geo;font-style:italic;src:url(fonts/geo-400i.ttf)}
+@font-face{font-display:swap;font-family:geo;src:url(fonts/geo-400.ttf)}
+
+
+.font-geo{font-family:geo}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}

@@ -1,0 +1,18 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/neuton.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:neuton;font-weight:700;src:url(fonts/neuton-700.ttf)}
+@font-face{font-display:swap;font-family:neuton;font-weight:800;src:url(fonts/neuton-800.ttf)}
+@font-face{font-display:swap;font-family:neuton;font-weight:200;src:url(fonts/neuton-200.ttf)}
+@font-face{font-display:swap;font-family:neuton;font-style:italic;src:url(fonts/neuton-400i.ttf)}
+@font-face{font-display:swap;font-family:neuton;src:url(fonts/neuton-400.ttf)}
+@font-face{font-display:swap;font-family:neuton;font-weight:300;src:url(fonts/neuton-300.ttf)}
+
+
+.font-neuton{font-family:neuton}
+.w700{font-weight:700;font-style:normal}
+.w800{font-weight:800;font-style:normal}
+.w200{font-weight:200;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w300{font-weight:300;font-style:normal}

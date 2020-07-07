@@ -1,0 +1,21 @@
+{
+    "font_id": "radley",
+    "font_family": "Radley",
+    "font_css_file": "radley.css",
+    "font_license": "license\/radley.txt",
+    "font_css_class": "font-radley",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/radley-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/radley-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "nosifer",
+    "font_family": "Nosifer",
+    "font_css_file": "nosifer.css",
+    "font_license": "license\/nosifer.txt",
+    "font_css_class": "font-nosifer",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nosifer-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

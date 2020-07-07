@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/hermeneus-one.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'hermeneus one';src:url(fonts/hermeneus-one-400.ttf)}
+
+
+.font-hermeneus-one{font-family:'hermeneus one'}
+.w400{font-weight:400;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "alike-angular",
+    "font_family": "Alike Angular",
+    "font_css_file": "alike-angular.css",
+    "font_license": "license\/alike-angular.txt",
+    "font_css_class": "font-alike-angular",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alike-angular-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

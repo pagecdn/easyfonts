@@ -1,0 +1,15 @@
+{
+    "font_id": "nova-script",
+    "font_family": "Nova Script",
+    "font_css_file": "nova-script.css",
+    "font_license": "license\/nova-script.txt",
+    "font_css_class": "font-nova-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nova-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

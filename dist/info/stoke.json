@@ -1,0 +1,21 @@
+{
+    "font_id": "stoke",
+    "font_family": "Stoke",
+    "font_css_file": "stoke.css",
+    "font_license": "license\/stoke.txt",
+    "font_css_class": "font-stoke",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/stoke-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/stoke-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

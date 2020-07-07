@@ -1,0 +1,27 @@
+{
+    "font_id": "passion-one",
+    "font_family": "Passion One",
+    "font_css_file": "passion-one.css",
+    "font_license": "license\/passion-one.txt",
+    "font_css_class": "font-passion-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/passion-one-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/passion-one-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/passion-one-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

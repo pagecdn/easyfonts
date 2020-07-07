@@ -1,0 +1,33 @@
+{
+    "font_id": "yanone-kaffeesatz",
+    "font_family": "Yanone Kaffeesatz",
+    "font_css_file": "yanone-kaffeesatz.css",
+    "font_license": "license\/yanone-kaffeesatz.txt",
+    "font_css_class": "font-yanone-kaffeesatz",
+    "font_variants": [
+        {
+            "weight": "200",
+            "style": "regular",
+            "file": "fonts\/yanone-kaffeesatz-200.ttf",
+            "css_class": "w200"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/yanone-kaffeesatz-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/yanone-kaffeesatz-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/yanone-kaffeesatz-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

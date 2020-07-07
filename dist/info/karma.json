@@ -1,0 +1,39 @@
+{
+    "font_id": "karma",
+    "font_family": "Karma",
+    "font_css_file": "karma.css",
+    "font_license": "license\/karma.txt",
+    "font_css_class": "font-karma",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/karma-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/karma-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/karma-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/karma-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/karma-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

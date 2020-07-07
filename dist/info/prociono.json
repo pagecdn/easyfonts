@@ -1,0 +1,15 @@
+{
+    "font_id": "prociono",
+    "font_family": "Prociono",
+    "font_css_file": "prociono.css",
+    "font_license": "license\/prociono.txt",
+    "font_css_class": "font-prociono",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/prociono-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

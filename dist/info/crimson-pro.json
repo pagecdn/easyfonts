@@ -1,0 +1,21 @@
+{
+    "font_id": "crimson-pro",
+    "font_family": "Crimson Pro",
+    "font_css_file": "crimson-pro.css",
+    "font_license": "license\/crimson-pro.txt",
+    "font_css_class": "font-crimson-pro",
+    "font_variants": [
+        {
+            "weight": "200",
+            "style": "regular",
+            "file": "fonts\/crimson-pro-200.ttf",
+            "css_class": "w200"
+        },
+        {
+            "weight": "200",
+            "style": "italic",
+            "file": "fonts\/crimson-pro-200i.ttf",
+            "css_class": "w200i"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "font_id": "flamenco",
+    "font_family": "Flamenco",
+    "font_css_file": "flamenco.css",
+    "font_license": "license\/flamenco.txt",
+    "font_css_class": "font-flamenco",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/flamenco-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/flamenco-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

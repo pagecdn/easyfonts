@@ -1,0 +1,15 @@
+{
+    "font_id": "nanum-brush-script",
+    "font_family": "Nanum Brush Script",
+    "font_css_file": "nanum-brush-script.css",
+    "font_license": "license\/nanum-brush-script.txt",
+    "font_css_class": "font-nanum-brush-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nanum-brush-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "nats",
+    "font_family": "NATS",
+    "font_css_file": "nats.css",
+    "font_license": "license\/nats.txt",
+    "font_css_class": "font-nats",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nats-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

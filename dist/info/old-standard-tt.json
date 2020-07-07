@@ -1,0 +1,27 @@
+{
+    "font_id": "old-standard-tt",
+    "font_family": "Old Standard TT",
+    "font_css_file": "old-standard-tt.css",
+    "font_license": "license\/old-standard-tt.txt",
+    "font_css_class": "font-old-standard-tt",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/old-standard-tt-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/old-standard-tt-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/old-standard-tt-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

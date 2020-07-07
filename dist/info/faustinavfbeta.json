@@ -1,0 +1,21 @@
+{
+    "font_id": "faustinavfbeta",
+    "font_family": "faustinavfbeta",
+    "font_css_file": "faustinavfbeta.css",
+    "font_license": "license\/faustinavfbeta.txt",
+    "font_css_class": "font-faustinavfbeta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/faustinavfbeta-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/faustinavfbeta-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

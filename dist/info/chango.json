@@ -1,0 +1,15 @@
+{
+    "font_id": "chango",
+    "font_family": "Chango",
+    "font_css_file": "chango.css",
+    "font_license": "license\/chango.txt",
+    "font_css_class": "font-chango",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chango-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

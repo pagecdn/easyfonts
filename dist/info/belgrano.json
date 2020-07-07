@@ -1,0 +1,15 @@
+{
+    "font_id": "belgrano",
+    "font_family": "Belgrano",
+    "font_css_file": "belgrano.css",
+    "font_license": "license\/belgrano.txt",
+    "font_css_class": "font-belgrano",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/belgrano-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

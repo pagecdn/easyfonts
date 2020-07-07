@@ -1,0 +1,15 @@
+{
+    "font_id": "metamorphous",
+    "font_family": "Metamorphous",
+    "font_css_file": "metamorphous.css",
+    "font_license": "license\/metamorphous.txt",
+    "font_css_class": "font-metamorphous",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/metamorphous-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

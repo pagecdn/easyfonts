@@ -1,0 +1,15 @@
+{
+    "font_id": "just-me-again-down-here",
+    "font_family": "Just Me Again Down Here",
+    "font_css_file": "just-me-again-down-here.css",
+    "font_license": "license\/just-me-again-down-here.txt",
+    "font_css_class": "font-just-me-again-down-here",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/just-me-again-down-here-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

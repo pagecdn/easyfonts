@@ -1,0 +1,15 @@
+{
+    "font_id": "freehand",
+    "font_family": "Freehand",
+    "font_css_file": "freehand.css",
+    "font_license": "license\/freehand.txt",
+    "font_css_class": "font-freehand",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/freehand-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

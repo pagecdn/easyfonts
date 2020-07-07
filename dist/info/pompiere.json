@@ -1,0 +1,15 @@
+{
+    "font_id": "pompiere",
+    "font_family": "Pompiere",
+    "font_css_file": "pompiere.css",
+    "font_license": "license\/pompiere.txt",
+    "font_css_class": "font-pompiere",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pompiere-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

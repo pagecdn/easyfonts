@@ -1,0 +1,15 @@
+{
+    "font_id": "tharlon",
+    "font_family": "tharlon",
+    "font_css_file": "tharlon.css",
+    "font_license": "license\/tharlon.txt",
+    "font_css_class": "font-tharlon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/tharlon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

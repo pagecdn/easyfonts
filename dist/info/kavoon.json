@@ -1,0 +1,15 @@
+{
+    "font_id": "kavoon",
+    "font_family": "Kavoon",
+    "font_css_file": "kavoon.css",
+    "font_license": "license\/kavoon.txt",
+    "font_css_class": "font-kavoon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kavoon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

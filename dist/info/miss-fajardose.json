@@ -1,0 +1,15 @@
+{
+    "font_id": "miss-fajardose",
+    "font_family": "Miss Fajardose",
+    "font_css_file": "miss-fajardose.css",
+    "font_license": "license\/miss-fajardose.txt",
+    "font_css_class": "font-miss-fajardose",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/miss-fajardose-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

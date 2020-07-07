@@ -1,0 +1,15 @@
+{
+    "font_id": "bentham",
+    "font_family": "Bentham",
+    "font_css_file": "bentham.css",
+    "font_license": "license\/bentham.txt",
+    "font_css_class": "font-bentham",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bentham-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

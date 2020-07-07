@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/hind-madurai.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'hind madurai';src:url(fonts/hind-madurai-400.ttf)}
+@font-face{font-display:swap;font-family:'hind madurai';font-weight:300;src:url(fonts/hind-madurai-300.ttf)}
+@font-face{font-display:swap;font-family:'hind madurai';font-weight:500;src:url(fonts/hind-madurai-500.ttf)}
+@font-face{font-display:swap;font-family:'hind madurai';font-weight:700;src:url(fonts/hind-madurai-700.ttf)}
+@font-face{font-display:swap;font-family:'hind madurai';font-weight:600;src:url(fonts/hind-madurai-600.ttf)}
+
+
+.font-hind-madurai{font-family:'hind madurai'}
+.w400{font-weight:400;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w600{font-weight:600;font-style:normal}

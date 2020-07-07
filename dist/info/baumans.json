@@ -1,0 +1,15 @@
+{
+    "font_id": "baumans",
+    "font_family": "Baumans",
+    "font_css_file": "baumans.css",
+    "font_license": "license\/baumans.txt",
+    "font_css_class": "font-baumans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/baumans-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

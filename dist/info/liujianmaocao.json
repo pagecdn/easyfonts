@@ -1,0 +1,15 @@
+{
+    "font_id": "liujianmaocao",
+    "font_family": "LiuJianMaoCao",
+    "font_css_file": "liujianmaocao.css",
+    "font_license": "license\/liujianmaocao.txt",
+    "font_css_class": "font-liujianmaocao",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/liujianmaocao-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

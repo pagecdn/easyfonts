@@ -1,0 +1,15 @@
+{
+    "font_id": "kaushan-script",
+    "font_family": "Kaushan Script",
+    "font_css_file": "kaushan-script.css",
+    "font_license": "license\/kaushan-script.txt",
+    "font_css_class": "font-kaushan-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kaushan-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

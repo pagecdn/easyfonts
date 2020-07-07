@@ -1,0 +1,15 @@
+{
+    "font_id": "secular-one",
+    "font_family": "Secular One",
+    "font_css_file": "secular-one.css",
+    "font_license": "license\/secular-one.txt",
+    "font_css_class": "font-secular-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/secular-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

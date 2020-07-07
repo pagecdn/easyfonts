@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/crafty-girls.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'crafty girls';src:url(fonts/crafty-girls-400.ttf)}
+
+
+.font-crafty-girls{font-family:'crafty girls'}
+.w400{font-weight:400;font-style:normal}

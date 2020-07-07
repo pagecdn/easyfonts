@@ -1,0 +1,15 @@
+{
+    "font_id": "ruge-boogie",
+    "font_family": "Ruge Boogie",
+    "font_css_file": "ruge-boogie.css",
+    "font_license": "license\/ruge-boogie.txt",
+    "font_css_class": "font-ruge-boogie",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ruge-boogie-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "redressed",
+    "font_family": "Redressed",
+    "font_css_file": "redressed.css",
+    "font_license": "license\/redressed.txt",
+    "font_css_class": "font-redressed",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/redressed-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

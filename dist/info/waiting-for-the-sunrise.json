@@ -1,0 +1,15 @@
+{
+    "font_id": "waiting-for-the-sunrise",
+    "font_family": "Waiting for the Sunrise",
+    "font_css_file": "waiting-for-the-sunrise.css",
+    "font_license": "license\/waiting-for-the-sunrise.txt",
+    "font_css_class": "font-waiting-for-the-sunrise",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/waiting-for-the-sunrise-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

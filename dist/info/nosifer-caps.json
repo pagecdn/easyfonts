@@ -1,0 +1,15 @@
+{
+    "font_id": "nosifer-caps",
+    "font_family": "Nosifer Caps",
+    "font_css_file": "nosifer-caps.css",
+    "font_license": "license\/nosifer-caps.txt",
+    "font_css_class": "font-nosifer-caps",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nosifer-caps-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

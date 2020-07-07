@@ -1,0 +1,15 @@
+{
+    "font_id": "balthazar",
+    "font_family": "Balthazar",
+    "font_css_file": "balthazar.css",
+    "font_license": "license\/balthazar.txt",
+    "font_css_class": "font-balthazar",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/balthazar-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

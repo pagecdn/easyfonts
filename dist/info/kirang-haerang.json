@@ -1,0 +1,15 @@
+{
+    "font_id": "kirang-haerang",
+    "font_family": "Kirang Haerang",
+    "font_css_file": "kirang-haerang.css",
+    "font_license": "license\/kirang-haerang.txt",
+    "font_css_class": "font-kirang-haerang",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kirang-haerang-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

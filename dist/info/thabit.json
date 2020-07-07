@@ -1,0 +1,33 @@
+{
+    "font_id": "thabit",
+    "font_family": "Thabit",
+    "font_css_file": "thabit.css",
+    "font_license": "license\/thabit.txt",
+    "font_css_class": "font-thabit",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/thabit-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/thabit-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/thabit-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/thabit-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

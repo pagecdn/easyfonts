@@ -1,0 +1,27 @@
+{
+    "font_id": "benchnine",
+    "font_family": "BenchNine",
+    "font_css_file": "benchnine.css",
+    "font_license": "license\/benchnine.txt",
+    "font_css_class": "font-benchnine",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/benchnine-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/benchnine-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/benchnine-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

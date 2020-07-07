@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/ofl-sorts-mill-goudy-tt.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'ofl sorts mill goudy tt';font-style:italic;src:url(fonts/ofl-sorts-mill-goudy-tt-400i.ttf)}
+@font-face{font-display:swap;font-family:'ofl sorts mill goudy tt';src:url(fonts/ofl-sorts-mill-goudy-tt-400.ttf)}
+
+
+.font-ofl-sorts-mill-goudy-tt{font-family:'ofl sorts mill goudy tt'}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}

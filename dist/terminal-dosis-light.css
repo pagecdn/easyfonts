@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/terminal-dosis-light.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'terminal dosis light';font-weight:300;src:url(fonts/terminal-dosis-light-300.ttf)}
+
+
+.font-terminal-dosis-light{font-family:'terminal dosis light'}
+.w300{font-weight:300;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "rochester",
+    "font_family": "Rochester",
+    "font_css_file": "rochester.css",
+    "font_license": "license\/rochester.txt",
+    "font_css_class": "font-rochester",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rochester-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

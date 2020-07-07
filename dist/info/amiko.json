@@ -1,0 +1,27 @@
+{
+    "font_id": "amiko",
+    "font_family": "Amiko",
+    "font_css_file": "amiko.css",
+    "font_license": "license\/amiko.txt",
+    "font_css_class": "font-amiko",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/amiko-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/amiko-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/amiko-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

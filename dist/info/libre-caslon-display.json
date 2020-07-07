@@ -1,0 +1,15 @@
+{
+    "font_id": "libre-caslon-display",
+    "font_family": "Libre Caslon Display",
+    "font_css_file": "libre-caslon-display.css",
+    "font_license": "license\/libre-caslon-display.txt",
+    "font_css_class": "font-libre-caslon-display",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/libre-caslon-display-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

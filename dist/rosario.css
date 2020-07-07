@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/rosario.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:rosario;src:url(fonts/rosario-400.ttf)}
+@font-face{font-display:swap;font-family:rosario;font-style:italic;font-weight:700;src:url(fonts/rosario-700i.ttf)}
+@font-face{font-display:swap;font-family:rosario;font-style:italic;src:url(fonts/rosario-400i.ttf)}
+@font-face{font-display:swap;font-family:rosario;font-weight:700;src:url(fonts/rosario-700.ttf)}
+
+
+.font-rosario{font-family:rosario}
+.w400{font-weight:400;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w400i{font-weight:400;font-style:italic}
+.w700{font-weight:700;font-style:normal}

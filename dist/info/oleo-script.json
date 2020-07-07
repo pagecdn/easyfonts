@@ -1,0 +1,21 @@
+{
+    "font_id": "oleo-script",
+    "font_family": "Oleo Script",
+    "font_css_file": "oleo-script.css",
+    "font_license": "license\/oleo-script.txt",
+    "font_css_class": "font-oleo-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/oleo-script-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/oleo-script-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

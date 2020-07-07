@@ -1,0 +1,15 @@
+{
+    "font_id": "baloo-chettan",
+    "font_family": "Baloo Chettan",
+    "font_css_file": "baloo-chettan.css",
+    "font_license": "license\/baloo-chettan.txt",
+    "font_css_class": "font-baloo-chettan",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/baloo-chettan-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

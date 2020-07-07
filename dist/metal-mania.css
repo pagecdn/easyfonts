@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/metal-mania.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'metal mania';src:url(fonts/metal-mania-400.ttf)}
+
+
+.font-metal-mania{font-family:'metal mania'}
+.w400{font-weight:400;font-style:normal}

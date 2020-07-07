@@ -1,0 +1,15 @@
+{
+    "font_id": "saira-stencil-one",
+    "font_family": "Saira Stencil One",
+    "font_css_file": "saira-stencil-one.css",
+    "font_license": "license\/saira-stencil-one.txt",
+    "font_css_class": "font-saira-stencil-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/saira-stencil-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

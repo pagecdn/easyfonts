@@ -1,0 +1,15 @@
+{
+    "font_id": "hermeneus-one",
+    "font_family": "Hermeneus One",
+    "font_css_file": "hermeneus-one.css",
+    "font_license": "license\/hermeneus-one.txt",
+    "font_css_class": "font-hermeneus-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hermeneus-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

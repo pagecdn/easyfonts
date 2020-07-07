@@ -1,0 +1,27 @@
+{
+    "font_id": "trochut",
+    "font_family": "Trochut",
+    "font_css_file": "trochut.css",
+    "font_license": "license\/trochut.txt",
+    "font_css_class": "font-trochut",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/trochut-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/trochut-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/trochut-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

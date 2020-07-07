@@ -1,0 +1,12 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/ruda.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:ruda;font-weight:900;src:url(fonts/ruda-900.ttf)}
+@font-face{font-display:swap;font-family:ruda;src:url(fonts/ruda-400.ttf)}
+@font-face{font-display:swap;font-family:ruda;font-weight:700;src:url(fonts/ruda-700.ttf)}
+
+
+.font-ruda{font-family:ruda}
+.w900{font-weight:900;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

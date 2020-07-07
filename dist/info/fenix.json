@@ -1,0 +1,15 @@
+{
+    "font_id": "fenix",
+    "font_family": "Fenix",
+    "font_css_file": "fenix.css",
+    "font_license": "license\/fenix.txt",
+    "font_css_class": "font-fenix",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fenix-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "meddon",
+    "font_family": "Meddon",
+    "font_css_file": "meddon.css",
+    "font_license": "license\/meddon.txt",
+    "font_css_class": "font-meddon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/meddon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

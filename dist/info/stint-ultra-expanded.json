@@ -1,0 +1,15 @@
+{
+    "font_id": "stint-ultra-expanded",
+    "font_family": "Stint Ultra Expanded",
+    "font_css_file": "stint-ultra-expanded.css",
+    "font_license": "license\/stint-ultra-expanded.txt",
+    "font_css_class": "font-stint-ultra-expanded",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/stint-ultra-expanded-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

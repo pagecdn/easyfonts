@@ -1,0 +1,15 @@
+{
+    "font_id": "ledger",
+    "font_family": "Ledger",
+    "font_css_file": "ledger.css",
+    "font_license": "license\/ledger.txt",
+    "font_css_class": "font-ledger",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ledger-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

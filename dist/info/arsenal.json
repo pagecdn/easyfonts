@@ -1,0 +1,33 @@
+{
+    "font_id": "arsenal",
+    "font_family": "Arsenal",
+    "font_css_file": "arsenal.css",
+    "font_license": "license\/arsenal.txt",
+    "font_css_class": "font-arsenal",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/arsenal-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/arsenal-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/arsenal-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/arsenal-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

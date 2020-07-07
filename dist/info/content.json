@@ -1,0 +1,21 @@
+{
+    "font_id": "content",
+    "font_family": "Content",
+    "font_css_file": "content.css",
+    "font_license": "license\/content.txt",
+    "font_css_class": "font-content",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/content-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/content-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "jockey-one",
+    "font_family": "Jockey One",
+    "font_css_file": "jockey-one.css",
+    "font_license": "license\/jockey-one.txt",
+    "font_css_class": "font-jockey-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jockey-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

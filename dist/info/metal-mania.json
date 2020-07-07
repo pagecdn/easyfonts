@@ -1,0 +1,15 @@
+{
+    "font_id": "metal-mania",
+    "font_family": "Metal Mania",
+    "font_css_file": "metal-mania.css",
+    "font_license": "license\/metal-mania.txt",
+    "font_css_class": "font-metal-mania",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/metal-mania-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

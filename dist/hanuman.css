@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/hanuman.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:hanuman;font-weight:700;src:url(fonts/hanuman-700.ttf)}
+@font-face{font-display:swap;font-family:hanuman;src:url(fonts/hanuman-400.ttf)}
+
+
+.font-hanuman{font-family:hanuman}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

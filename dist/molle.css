@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/molle.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:molle;src:url(fonts/molle-400.ttf)}
+
+
+.font-molle{font-family:molle}
+.w400{font-weight:400;font-style:normal}

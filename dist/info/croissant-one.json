@@ -1,0 +1,15 @@
+{
+    "font_id": "croissant-one",
+    "font_family": "Croissant One",
+    "font_css_file": "croissant-one.css",
+    "font_license": "license\/croissant-one.txt",
+    "font_css_class": "font-croissant-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/croissant-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "font_id": "geo",
+    "font_family": "Geo",
+    "font_css_file": "geo.css",
+    "font_license": "license\/geo.txt",
+    "font_css_class": "font-geo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/geo-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/geo-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

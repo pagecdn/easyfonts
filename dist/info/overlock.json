@@ -1,0 +1,45 @@
+{
+    "font_id": "overlock",
+    "font_family": "Overlock",
+    "font_css_file": "overlock.css",
+    "font_license": "license\/overlock.txt",
+    "font_css_class": "font-overlock",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/overlock-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/overlock-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/overlock-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/overlock-700i.ttf",
+            "css_class": "w700i"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/overlock-900.ttf",
+            "css_class": "w900"
+        },
+        {
+            "weight": "900",
+            "style": "italic",
+            "file": "fonts\/overlock-900i.ttf",
+            "css_class": "w900i"
+        }
+    ]
+}

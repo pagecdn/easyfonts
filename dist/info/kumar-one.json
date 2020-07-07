@@ -1,0 +1,15 @@
+{
+    "font_id": "kumar-one",
+    "font_family": "Kumar One",
+    "font_css_file": "kumar-one.css",
+    "font_license": "license\/kumar-one.txt",
+    "font_css_class": "font-kumar-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kumar-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

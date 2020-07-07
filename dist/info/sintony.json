@@ -1,0 +1,21 @@
+{
+    "font_id": "sintony",
+    "font_family": "Sintony",
+    "font_css_file": "sintony.css",
+    "font_license": "license\/sintony.txt",
+    "font_css_class": "font-sintony",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sintony-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/sintony-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

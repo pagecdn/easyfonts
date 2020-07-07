@@ -1,0 +1,21 @@
+{
+    "font_id": "abeezee",
+    "font_family": "ABeeZee",
+    "font_css_file": "abeezee.css",
+    "font_license": "license\/abeezee.txt",
+    "font_css_class": "font-abeezee",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/abeezee-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/abeezee-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

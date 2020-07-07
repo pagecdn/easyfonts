@@ -1,0 +1,15 @@
+{
+    "font_id": "kotta-one",
+    "font_family": "Kotta One",
+    "font_css_file": "kotta-one.css",
+    "font_license": "license\/kotta-one.txt",
+    "font_css_class": "font-kotta-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kotta-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

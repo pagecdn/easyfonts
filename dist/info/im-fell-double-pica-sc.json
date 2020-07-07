@@ -1,0 +1,15 @@
+{
+    "font_id": "im-fell-double-pica-sc",
+    "font_family": "IM Fell Double Pica SC",
+    "font_css_file": "im-fell-double-pica-sc.css",
+    "font_license": "license\/im-fell-double-pica-sc.txt",
+    "font_css_class": "font-im-fell-double-pica-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/im-fell-double-pica-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

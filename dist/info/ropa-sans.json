@@ -1,0 +1,21 @@
+{
+    "font_id": "ropa-sans",
+    "font_family": "Ropa Sans",
+    "font_css_file": "ropa-sans.css",
+    "font_license": "license\/ropa-sans.txt",
+    "font_css_class": "font-ropa-sans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ropa-sans-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/ropa-sans-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

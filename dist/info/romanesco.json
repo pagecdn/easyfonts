@@ -1,0 +1,15 @@
+{
+    "font_id": "romanesco",
+    "font_family": "Romanesco",
+    "font_css_file": "romanesco.css",
+    "font_license": "license\/romanesco.txt",
+    "font_css_class": "font-romanesco",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/romanesco-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

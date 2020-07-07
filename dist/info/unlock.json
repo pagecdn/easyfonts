@@ -1,0 +1,15 @@
+{
+    "font_id": "unlock",
+    "font_family": "Unlock",
+    "font_css_file": "unlock.css",
+    "font_license": "license\/unlock.txt",
+    "font_css_class": "font-unlock",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/unlock-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

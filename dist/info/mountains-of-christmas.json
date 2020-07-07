@@ -1,0 +1,21 @@
+{
+    "font_id": "mountains-of-christmas",
+    "font_family": "Mountains of Christmas",
+    "font_css_file": "mountains-of-christmas.css",
+    "font_license": "license\/mountains-of-christmas.txt",
+    "font_css_class": "font-mountains-of-christmas",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mountains-of-christmas-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/mountains-of-christmas-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

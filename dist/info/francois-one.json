@@ -1,0 +1,15 @@
+{
+    "font_id": "francois-one",
+    "font_family": "Francois One",
+    "font_css_file": "francois-one.css",
+    "font_license": "license\/francois-one.txt",
+    "font_css_class": "font-francois-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/francois-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

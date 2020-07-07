@@ -1,0 +1,33 @@
+{
+    "font_id": "lemonada",
+    "font_family": "Lemonada",
+    "font_css_file": "lemonada.css",
+    "font_license": "license\/lemonada.txt",
+    "font_css_class": "font-lemonada",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/lemonada-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lemonada-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/lemonada-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/lemonada-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

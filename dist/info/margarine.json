@@ -1,0 +1,15 @@
+{
+    "font_id": "margarine",
+    "font_family": "Margarine",
+    "font_css_file": "margarine.css",
+    "font_license": "license\/margarine.txt",
+    "font_css_class": "font-margarine",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/margarine-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

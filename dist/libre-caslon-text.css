@@ -1,0 +1,12 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/libre-caslon-text.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'libre caslon text';src:url(fonts/libre-caslon-text-400.ttf)}
+@font-face{font-display:swap;font-family:'libre caslon text';font-style:italic;src:url(fonts/libre-caslon-text-400i.ttf)}
+@font-face{font-display:swap;font-family:'libre caslon text';font-weight:700;src:url(fonts/libre-caslon-text-700.ttf)}
+
+
+.font-libre-caslon-text{font-family:'libre caslon text'}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w700{font-weight:700;font-style:normal}

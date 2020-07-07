@@ -1,0 +1,15 @@
+{
+    "font_id": "telex",
+    "font_family": "Telex",
+    "font_css_file": "telex.css",
+    "font_license": "license\/telex.txt",
+    "font_css_class": "font-telex",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/telex-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

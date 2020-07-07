@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/signika-negative.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'signika negative';src:url(fonts/signika-negative-400.ttf)}
+@font-face{font-display:swap;font-family:'signika negative';font-weight:700;src:url(fonts/signika-negative-700.ttf)}
+@font-face{font-display:swap;font-family:'signika negative';font-weight:300;src:url(fonts/signika-negative-300.ttf)}
+@font-face{font-display:swap;font-family:'signika negative';font-weight:600;src:url(fonts/signika-negative-600.ttf)}
+
+
+.font-signika-negative{font-family:'signika negative'}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w600{font-weight:600;font-style:normal}

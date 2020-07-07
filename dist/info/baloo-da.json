@@ -1,0 +1,15 @@
+{
+    "font_id": "baloo-da",
+    "font_family": "Baloo Da",
+    "font_css_file": "baloo-da.css",
+    "font_license": "license\/baloo-da.txt",
+    "font_css_class": "font-baloo-da",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/baloo-da-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

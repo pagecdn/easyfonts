@@ -1,0 +1,15 @@
+{
+    "font_id": "candal",
+    "font_family": "Candal",
+    "font_css_file": "candal.css",
+    "font_license": "license\/candal.txt",
+    "font_css_class": "font-candal",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/candal-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

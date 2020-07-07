@@ -1,0 +1,21 @@
+{
+    "font_id": "gorditas",
+    "font_family": "Gorditas",
+    "font_css_file": "gorditas.css",
+    "font_license": "license\/gorditas.txt",
+    "font_css_class": "font-gorditas",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gorditas-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/gorditas-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

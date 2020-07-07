@@ -1,0 +1,15 @@
+{
+    "font_id": "medievalsharp",
+    "font_family": "MedievalSharp",
+    "font_css_file": "medievalsharp.css",
+    "font_license": "license\/medievalsharp.txt",
+    "font_css_class": "font-medievalsharp",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/medievalsharp-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

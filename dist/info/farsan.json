@@ -1,0 +1,15 @@
+{
+    "font_id": "farsan",
+    "font_family": "Farsan",
+    "font_css_file": "farsan.css",
+    "font_license": "license\/farsan.txt",
+    "font_css_class": "font-farsan",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/farsan-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

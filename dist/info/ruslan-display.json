@@ -1,0 +1,15 @@
+{
+    "font_id": "ruslan-display",
+    "font_family": "Ruslan Display",
+    "font_css_file": "ruslan-display.css",
+    "font_license": "license\/ruslan-display.txt",
+    "font_css_class": "font-ruslan-display",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ruslan-display-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

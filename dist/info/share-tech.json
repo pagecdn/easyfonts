@@ -1,0 +1,15 @@
+{
+    "font_id": "share-tech",
+    "font_family": "Share Tech",
+    "font_css_file": "share-tech.css",
+    "font_license": "license\/share-tech.txt",
+    "font_css_class": "font-share-tech",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/share-tech-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "rhodium-libre",
+    "font_family": "Rhodium Libre",
+    "font_css_file": "rhodium-libre.css",
+    "font_license": "license\/rhodium-libre.txt",
+    "font_css_class": "font-rhodium-libre",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rhodium-libre-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

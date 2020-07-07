@@ -1,0 +1,15 @@
+{
+    "font_id": "gamja-flower",
+    "font_family": "Gamja Flower",
+    "font_css_file": "gamja-flower.css",
+    "font_license": "license\/gamja-flower.txt",
+    "font_css_class": "font-gamja-flower",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gamja-flower-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

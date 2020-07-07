@@ -1,0 +1,15 @@
+{
+    "font_id": "molle",
+    "font_family": "Molle",
+    "font_css_file": "molle.css",
+    "font_license": "license\/molle.txt",
+    "font_css_class": "font-molle",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/molle-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

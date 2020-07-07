@@ -1,0 +1,15 @@
+{
+    "font_id": "special-elite",
+    "font_family": "Special Elite",
+    "font_css_file": "special-elite.css",
+    "font_license": "license\/special-elite.txt",
+    "font_css_class": "font-special-elite",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/special-elite-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

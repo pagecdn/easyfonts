@@ -1,0 +1,15 @@
+{
+    "font_id": "oranienbaum",
+    "font_family": "Oranienbaum",
+    "font_css_file": "oranienbaum.css",
+    "font_license": "license\/oranienbaum.txt",
+    "font_css_class": "font-oranienbaum",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/oranienbaum-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

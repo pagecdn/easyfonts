@@ -1,0 +1,15 @@
+{
+    "font_id": "bilbo",
+    "font_family": "Bilbo",
+    "font_css_file": "bilbo.css",
+    "font_license": "license\/bilbo.txt",
+    "font_css_class": "font-bilbo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bilbo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

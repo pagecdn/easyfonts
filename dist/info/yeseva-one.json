@@ -1,0 +1,15 @@
+{
+    "font_id": "yeseva-one",
+    "font_family": "Yeseva One",
+    "font_css_file": "yeseva-one.css",
+    "font_license": "license\/yeseva-one.txt",
+    "font_css_class": "font-yeseva-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/yeseva-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

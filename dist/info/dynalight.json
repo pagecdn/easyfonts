@@ -1,0 +1,15 @@
+{
+    "font_id": "dynalight",
+    "font_family": "Dynalight",
+    "font_css_file": "dynalight.css",
+    "font_license": "license\/dynalight.txt",
+    "font_css_class": "font-dynalight",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dynalight-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

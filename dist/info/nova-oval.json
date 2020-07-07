@@ -1,0 +1,15 @@
+{
+    "font_id": "nova-oval",
+    "font_family": "Nova Oval",
+    "font_css_file": "nova-oval.css",
+    "font_license": "license\/nova-oval.txt",
+    "font_css_class": "font-nova-oval",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nova-oval-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

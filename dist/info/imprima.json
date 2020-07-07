@@ -1,0 +1,15 @@
+{
+    "font_id": "imprima",
+    "font_family": "Imprima",
+    "font_css_file": "imprima.css",
+    "font_license": "license\/imprima.txt",
+    "font_css_class": "font-imprima",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/imprima-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

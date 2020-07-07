@@ -1,0 +1,15 @@
+{
+    "font_id": "almendra-sc",
+    "font_family": "Almendra SC",
+    "font_css_file": "almendra-sc.css",
+    "font_license": "license\/almendra-sc.txt",
+    "font_css_class": "font-almendra-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/almendra-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

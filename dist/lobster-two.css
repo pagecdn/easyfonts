@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/lobster-two.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'lobster two';font-style:italic;src:url(fonts/lobster-two-400i.ttf)}
+@font-face{font-display:swap;font-family:'lobster two';font-style:italic;font-weight:700;src:url(fonts/lobster-two-700i.ttf)}
+@font-face{font-display:swap;font-family:'lobster two';src:url(fonts/lobster-two-400.ttf)}
+@font-face{font-display:swap;font-family:'lobster two';font-weight:700;src:url(fonts/lobster-two-700.ttf)}
+
+
+.font-lobster-two{font-family:'lobster two'}
+.w400i{font-weight:400;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

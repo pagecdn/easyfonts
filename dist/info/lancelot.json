@@ -1,0 +1,15 @@
+{
+    "font_id": "lancelot",
+    "font_family": "Lancelot",
+    "font_css_file": "lancelot.css",
+    "font_license": "license\/lancelot.txt",
+    "font_css_class": "font-lancelot",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lancelot-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

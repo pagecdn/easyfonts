@@ -1,0 +1,15 @@
+{
+    "font_id": "patrick-hand",
+    "font_family": "Patrick Hand",
+    "font_css_file": "patrick-hand.css",
+    "font_license": "license\/patrick-hand.txt",
+    "font_css_class": "font-patrick-hand",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/patrick-hand-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

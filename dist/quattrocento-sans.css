@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/quattrocento-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'quattrocento sans';font-style:italic;src:url(fonts/quattrocento-sans-400i.ttf)}
+@font-face{font-display:swap;font-family:'quattrocento sans';src:url(fonts/quattrocento-sans-400.ttf)}
+@font-face{font-display:swap;font-family:'quattrocento sans';font-weight:700;src:url(fonts/quattrocento-sans-700.ttf)}
+@font-face{font-display:swap;font-family:'quattrocento sans';font-style:italic;font-weight:700;src:url(fonts/quattrocento-sans-700i.ttf)}
+
+
+.font-quattrocento-sans{font-family:'quattrocento sans'}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w700i{font-weight:700;font-style:italic}

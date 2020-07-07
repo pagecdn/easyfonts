@@ -1,0 +1,20 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/source-code-pro.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'source code pro';font-weight:300;src:url(fonts/source-code-pro-300.ttf)}
+@font-face{font-display:swap;font-family:'source code pro';font-weight:200;src:url(fonts/source-code-pro-200.ttf)}
+@font-face{font-display:swap;font-family:'source code pro';font-weight:900;src:url(fonts/source-code-pro-900.ttf)}
+@font-face{font-display:swap;font-family:'source code pro';font-weight:500;src:url(fonts/source-code-pro-500.ttf)}
+@font-face{font-display:swap;font-family:'source code pro';src:url(fonts/source-code-pro-400.ttf)}
+@font-face{font-display:swap;font-family:'source code pro';font-weight:600;src:url(fonts/source-code-pro-600.ttf)}
+@font-face{font-display:swap;font-family:'source code pro';font-weight:700;src:url(fonts/source-code-pro-700.ttf)}
+
+
+.font-source-code-pro{font-family:'source code pro'}
+.w300{font-weight:300;font-style:normal}
+.w200{font-weight:200;font-style:normal}
+.w900{font-weight:900;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w700{font-weight:700;font-style:normal}

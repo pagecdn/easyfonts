@@ -1,0 +1,15 @@
+{
+    "font_id": "cookie",
+    "font_family": "Cookie",
+    "font_css_file": "cookie.css",
+    "font_license": "license\/cookie.txt",
+    "font_css_class": "font-cookie",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cookie-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "pushster",
+    "font_family": "Pushster",
+    "font_css_file": "pushster.css",
+    "font_license": "license\/pushster.txt",
+    "font_css_class": "font-pushster",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pushster-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

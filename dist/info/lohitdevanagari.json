@@ -1,0 +1,15 @@
+{
+    "font_id": "lohitdevanagari",
+    "font_family": "lohitdevanagari",
+    "font_css_file": "lohitdevanagari.css",
+    "font_license": "license\/lohitdevanagari.txt",
+    "font_css_class": "font-lohitdevanagari",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lohitdevanagari.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

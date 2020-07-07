@@ -1,0 +1,15 @@
+{
+    "font_id": "salsa",
+    "font_family": "Salsa",
+    "font_css_file": "salsa.css",
+    "font_license": "license\/salsa.txt",
+    "font_css_class": "font-salsa",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/salsa-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

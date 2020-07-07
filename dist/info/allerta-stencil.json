@@ -1,0 +1,15 @@
+{
+    "font_id": "allerta-stencil",
+    "font_family": "Allerta Stencil",
+    "font_css_file": "allerta-stencil.css",
+    "font_license": "license\/allerta-stencil.txt",
+    "font_css_class": "font-allerta-stencil",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/allerta-stencil-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

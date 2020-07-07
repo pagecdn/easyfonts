@@ -1,0 +1,15 @@
+{
+    "font_id": "meera-inimai",
+    "font_family": "Meera Inimai",
+    "font_css_file": "meera-inimai.css",
+    "font_license": "license\/meera-inimai.txt",
+    "font_css_class": "font-meera-inimai",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/meera-inimai-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

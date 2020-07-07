@@ -1,0 +1,15 @@
+{
+    "font_id": "jim-nightshade",
+    "font_family": "Jim Nightshade",
+    "font_css_file": "jim-nightshade.css",
+    "font_license": "license\/jim-nightshade.txt",
+    "font_css_class": "font-jim-nightshade",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jim-nightshade-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

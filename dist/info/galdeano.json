@@ -1,0 +1,15 @@
+{
+    "font_id": "galdeano",
+    "font_family": "Galdeano",
+    "font_css_file": "galdeano.css",
+    "font_license": "license\/galdeano.txt",
+    "font_css_class": "font-galdeano",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/galdeano-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

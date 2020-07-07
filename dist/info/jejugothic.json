@@ -1,0 +1,15 @@
+{
+    "font_id": "jejugothic",
+    "font_family": "jejugothic",
+    "font_css_file": "jejugothic.css",
+    "font_license": "license\/jejugothic.txt",
+    "font_css_class": "font-jejugothic",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jejugothic-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

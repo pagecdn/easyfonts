@@ -1,0 +1,21 @@
+{
+    "font_id": "arya",
+    "font_family": "Arya",
+    "font_css_file": "arya.css",
+    "font_license": "license\/arya.txt",
+    "font_css_class": "font-arya",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/arya-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/arya-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

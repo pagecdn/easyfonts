@@ -1,0 +1,15 @@
+{
+    "font_id": "poller-one",
+    "font_family": "Poller One",
+    "font_css_file": "poller-one.css",
+    "font_license": "license\/poller-one.txt",
+    "font_css_class": "font-poller-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/poller-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

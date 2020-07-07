@@ -1,0 +1,15 @@
+{
+    "font_id": "kristi",
+    "font_family": "Kristi",
+    "font_css_file": "kristi.css",
+    "font_license": "license\/kristi.txt",
+    "font_css_class": "font-kristi",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kristi-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "sedgwick-ave",
+    "font_family": "Sedgwick Ave",
+    "font_css_file": "sedgwick-ave.css",
+    "font_license": "license\/sedgwick-ave.txt",
+    "font_css_class": "font-sedgwick-ave",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sedgwick-ave-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

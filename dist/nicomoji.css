@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/nicomoji.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:nicomoji;src:url(fonts/nicomoji-400.ttf)}
+
+
+.font-nicomoji{font-family:nicomoji}
+.w400{font-weight:400;font-style:normal}

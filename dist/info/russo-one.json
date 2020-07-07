@@ -1,0 +1,15 @@
+{
+    "font_id": "russo-one",
+    "font_family": "Russo One",
+    "font_css_file": "russo-one.css",
+    "font_license": "license\/russo-one.txt",
+    "font_css_class": "font-russo-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/russo-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

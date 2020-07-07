@@ -1,0 +1,15 @@
+{
+    "font_id": "laosanspro",
+    "font_family": "laosanspro",
+    "font_css_file": "laosanspro.css",
+    "font_license": "license\/laosanspro.txt",
+    "font_css_class": "font-laosanspro",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/laosanspro-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

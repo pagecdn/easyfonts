@@ -1,0 +1,15 @@
+{
+    "font_id": "herr-von-muellerhoff",
+    "font_family": "Herr Von Muellerhoff",
+    "font_css_file": "herr-von-muellerhoff.css",
+    "font_license": "license\/herr-von-muellerhoff.txt",
+    "font_css_class": "font-herr-von-muellerhoff",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/herr-von-muellerhoff-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

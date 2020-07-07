@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/flamenco.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:flamenco;font-weight:300;src:url(fonts/flamenco-300.ttf)}
+@font-face{font-display:swap;font-family:flamenco;src:url(fonts/flamenco-400.ttf)}
+
+
+.font-flamenco{font-family:flamenco}
+.w300{font-weight:300;font-style:normal}
+.w400{font-weight:400;font-style:normal}

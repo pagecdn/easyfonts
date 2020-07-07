@@ -1,0 +1,15 @@
+{
+    "font_id": "annie-use-your-telescope",
+    "font_family": "Annie Use Your Telescope",
+    "font_css_file": "annie-use-your-telescope.css",
+    "font_license": "license\/annie-use-your-telescope.txt",
+    "font_css_class": "font-annie-use-your-telescope",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/annie-use-your-telescope-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

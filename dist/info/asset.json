@@ -1,0 +1,15 @@
+{
+    "font_id": "asset",
+    "font_family": "Asset",
+    "font_css_file": "asset.css",
+    "font_license": "license\/asset.txt",
+    "font_css_class": "font-asset",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/asset-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

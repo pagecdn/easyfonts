@@ -1,0 +1,15 @@
+{
+    "font_id": "notable",
+    "font_family": "Notable",
+    "font_css_file": "notable.css",
+    "font_license": "license\/notable.txt",
+    "font_css_class": "font-notable",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/notable-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

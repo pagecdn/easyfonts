@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/enriqueta.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:enriqueta;font-weight:700;src:url(fonts/enriqueta-700.ttf)}
+@font-face{font-display:swap;font-family:enriqueta;src:url(fonts/enriqueta-400.ttf)}
+@font-face{font-display:swap;font-family:enriqueta;font-weight:600;src:url(fonts/enriqueta-600.ttf)}
+@font-face{font-display:swap;font-family:enriqueta;font-weight:500;src:url(fonts/enriqueta-500.ttf)}
+
+
+.font-enriqueta{font-family:enriqueta}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w500{font-weight:500;font-style:normal}

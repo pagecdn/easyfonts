@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/abeezee.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:abeezee;src:url(fonts/abeezee-400.ttf)}
+@font-face{font-display:swap;font-family:abeezee;font-style:italic;src:url(fonts/abeezee-400i.ttf)}
+
+
+.font-abeezee{font-family:abeezee}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}

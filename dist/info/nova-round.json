@@ -1,0 +1,15 @@
+{
+    "font_id": "nova-round",
+    "font_family": "Nova Round",
+    "font_css_file": "nova-round.css",
+    "font_license": "license\/nova-round.txt",
+    "font_css_class": "font-nova-round",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nova-round-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

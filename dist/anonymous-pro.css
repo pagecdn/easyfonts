@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/anonymous-pro.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'anonymous pro';src:url(fonts/anonymous-pro-400.ttf)}
+@font-face{font-display:swap;font-family:'anonymous pro';font-style:italic;font-weight:700;src:url(fonts/anonymous-pro-700i.ttf)}
+@font-face{font-display:swap;font-family:'anonymous pro';font-weight:700;src:url(fonts/anonymous-pro-700.ttf)}
+@font-face{font-display:swap;font-family:'anonymous pro';font-style:italic;src:url(fonts/anonymous-pro-400i.ttf)}
+
+
+.font-anonymous-pro{font-family:'anonymous pro'}
+.w400{font-weight:400;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w400i{font-weight:400;font-style:italic}

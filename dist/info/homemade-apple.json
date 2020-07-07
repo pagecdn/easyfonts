@@ -1,0 +1,15 @@
+{
+    "font_id": "homemade-apple",
+    "font_family": "Homemade Apple",
+    "font_css_file": "homemade-apple.css",
+    "font_license": "license\/homemade-apple.txt",
+    "font_css_class": "font-homemade-apple",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/homemade-apple-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

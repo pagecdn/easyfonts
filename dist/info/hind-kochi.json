@@ -1,0 +1,39 @@
+{
+    "font_id": "hind-kochi",
+    "font_family": "Hind Kochi",
+    "font_css_file": "hind-kochi.css",
+    "font_license": "license\/hind-kochi.txt",
+    "font_css_class": "font-hind-kochi",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/hind-kochi-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hind-kochi-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/hind-kochi-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/hind-kochi-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/hind-kochi-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

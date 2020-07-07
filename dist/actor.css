@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/actor.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:actor;src:url(fonts/actor-400.ttf)}
+
+
+.font-actor{font-family:actor}
+.w400{font-weight:400;font-style:normal}

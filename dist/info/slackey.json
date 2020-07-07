@@ -1,0 +1,15 @@
+{
+    "font_id": "slackey",
+    "font_family": "Slackey",
+    "font_css_file": "slackey.css",
+    "font_license": "license\/slackey.txt",
+    "font_css_class": "font-slackey",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/slackey-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

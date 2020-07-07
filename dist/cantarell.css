@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/cantarell.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:cantarell;src:url(fonts/cantarell-400.ttf)}
+@font-face{font-display:swap;font-family:cantarell;font-weight:700;src:url(fonts/cantarell-700.ttf)}
+@font-face{font-display:swap;font-family:cantarell;font-style:italic;src:url(fonts/cantarell-400i.ttf)}
+@font-face{font-display:swap;font-family:cantarell;font-style:italic;font-weight:700;src:url(fonts/cantarell-700i.ttf)}
+
+
+.font-cantarell{font-family:cantarell}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w700i{font-weight:700;font-style:italic}

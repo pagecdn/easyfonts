@@ -1,0 +1,21 @@
+{
+    "font_id": "dancing-script",
+    "font_family": "Dancing Script",
+    "font_css_file": "dancing-script.css",
+    "font_license": "license\/dancing-script.txt",
+    "font_css_class": "font-dancing-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dancing-script-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/dancing-script-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

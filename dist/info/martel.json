@@ -1,0 +1,45 @@
+{
+    "font_id": "martel",
+    "font_family": "Martel",
+    "font_css_file": "martel.css",
+    "font_license": "license\/martel.txt",
+    "font_css_class": "font-martel",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/martel-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/martel-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/martel-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/martel-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/martel-800.ttf",
+            "css_class": "w800"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/martel.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

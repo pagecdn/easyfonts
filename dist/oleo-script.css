@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/oleo-script.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'oleo script';src:url(fonts/oleo-script-400.ttf)}
+@font-face{font-display:swap;font-family:'oleo script';font-weight:700;src:url(fonts/oleo-script-700.ttf)}
+
+
+.font-oleo-script{font-family:'oleo script'}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

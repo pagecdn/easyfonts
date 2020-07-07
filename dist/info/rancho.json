@@ -1,0 +1,15 @@
+{
+    "font_id": "rancho",
+    "font_family": "Rancho",
+    "font_css_file": "rancho.css",
+    "font_license": "license\/rancho.txt",
+    "font_css_class": "font-rancho",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rancho-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

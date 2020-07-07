@@ -1,0 +1,15 @@
+{
+    "font_id": "gugi",
+    "font_family": "Gugi",
+    "font_css_file": "gugi.css",
+    "font_license": "license\/gugi.txt",
+    "font_css_class": "font-gugi",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gugi-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

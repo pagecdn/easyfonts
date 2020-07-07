@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/shojumaru.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:shojumaru;src:url(fonts/shojumaru-400.ttf)}
+
+
+.font-shojumaru{font-family:shojumaru}
+.w400{font-weight:400;font-style:normal}

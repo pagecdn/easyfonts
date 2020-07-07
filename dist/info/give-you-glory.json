@@ -1,0 +1,15 @@
+{
+    "font_id": "give-you-glory",
+    "font_family": "Give You Glory",
+    "font_css_file": "give-you-glory.css",
+    "font_license": "license\/give-you-glory.txt",
+    "font_css_class": "font-give-you-glory",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/give-you-glory-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

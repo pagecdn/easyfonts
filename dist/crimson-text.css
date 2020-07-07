@@ -1,0 +1,18 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/crimson-text.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'crimson text';src:url(fonts/crimson-text-400.ttf)}
+@font-face{font-display:swap;font-family:'crimson text';font-style:italic;font-weight:700;src:url(fonts/crimson-text-700i.ttf)}
+@font-face{font-display:swap;font-family:'crimson text';font-style:italic;font-weight:600;src:url(fonts/crimson-text-600i.ttf)}
+@font-face{font-display:swap;font-family:'crimson text';font-style:italic;src:url(fonts/crimson-text-400i.ttf)}
+@font-face{font-display:swap;font-family:'crimson text';font-weight:700;src:url(fonts/crimson-text-700.ttf)}
+@font-face{font-display:swap;font-family:'crimson text';font-weight:600;src:url(fonts/crimson-text-600.ttf)}
+
+
+.font-crimson-text{font-family:'crimson text'}
+.w400{font-weight:400;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w600i{font-weight:600;font-style:italic}
+.w400i{font-weight:400;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w600{font-weight:600;font-style:normal}

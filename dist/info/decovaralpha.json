@@ -1,0 +1,15 @@
+{
+    "font_id": "decovaralpha",
+    "font_family": "decovaralpha",
+    "font_css_file": "decovaralpha.css",
+    "font_license": "license\/decovaralpha.txt",
+    "font_css_class": "font-decovaralpha",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/decovaralpha.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

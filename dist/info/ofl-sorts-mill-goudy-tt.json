@@ -1,0 +1,21 @@
+{
+    "font_id": "ofl-sorts-mill-goudy-tt",
+    "font_family": "OFL Sorts Mill Goudy TT",
+    "font_css_file": "ofl-sorts-mill-goudy-tt.css",
+    "font_license": "license\/ofl-sorts-mill-goudy-tt.txt",
+    "font_css_class": "font-ofl-sorts-mill-goudy-tt",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ofl-sorts-mill-goudy-tt-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/ofl-sorts-mill-goudy-tt-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "major-mono-display",
+    "font_family": "Major Mono Display",
+    "font_css_file": "major-mono-display.css",
+    "font_license": "license\/major-mono-display.txt",
+    "font_css_class": "font-major-mono-display",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/major-mono-display-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

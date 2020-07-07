@@ -1,0 +1,15 @@
+{
+    "font_id": "trade-winds",
+    "font_family": "Trade Winds",
+    "font_css_file": "trade-winds.css",
+    "font_license": "license\/trade-winds.txt",
+    "font_css_class": "font-trade-winds",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/trade-winds-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

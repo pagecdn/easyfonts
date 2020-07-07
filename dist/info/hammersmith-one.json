@@ -1,0 +1,15 @@
+{
+    "font_id": "hammersmith-one",
+    "font_family": "Hammersmith One",
+    "font_css_file": "hammersmith-one.css",
+    "font_license": "license\/hammersmith-one.txt",
+    "font_css_class": "font-hammersmith-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hammersmith-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

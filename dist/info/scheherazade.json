@@ -1,0 +1,21 @@
+{
+    "font_id": "scheherazade",
+    "font_family": "Scheherazade",
+    "font_css_file": "scheherazade.css",
+    "font_license": "license\/scheherazade.txt",
+    "font_css_class": "font-scheherazade",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/scheherazade-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/scheherazade-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

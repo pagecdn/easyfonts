@@ -1,0 +1,15 @@
+{
+    "font_id": "crafty-girls",
+    "font_family": "Crafty Girls",
+    "font_css_file": "crafty-girls.css",
+    "font_license": "license\/crafty-girls.txt",
+    "font_css_class": "font-crafty-girls",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/crafty-girls-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

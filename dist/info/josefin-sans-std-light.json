@@ -1,0 +1,15 @@
+{
+    "font_id": "josefin-sans-std-light",
+    "font_family": "Josefin Sans Std Light",
+    "font_css_file": "josefin-sans-std-light.css",
+    "font_license": "license\/josefin-sans-std-light.txt",
+    "font_css_class": "font-josefin-sans-std-light",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/josefin-sans-std-light-300.ttf",
+            "css_class": "w300"
+        }
+    ]
+}

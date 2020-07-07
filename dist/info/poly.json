@@ -1,0 +1,21 @@
+{
+    "font_id": "poly",
+    "font_family": "Poly",
+    "font_css_file": "poly.css",
+    "font_license": "license\/poly.txt",
+    "font_css_class": "font-poly",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/poly-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/poly-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

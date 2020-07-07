@@ -1,0 +1,27 @@
+{
+    "font_id": "manjari",
+    "font_family": "Manjari",
+    "font_css_file": "manjari.css",
+    "font_license": "license\/manjari.txt",
+    "font_css_class": "font-manjari",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/manjari-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/manjari-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/manjari-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

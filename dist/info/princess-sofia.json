@@ -1,0 +1,15 @@
+{
+    "font_id": "princess-sofia",
+    "font_family": "Princess Sofia",
+    "font_css_file": "princess-sofia.css",
+    "font_license": "license\/princess-sofia.txt",
+    "font_css_class": "font-princess-sofia",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/princess-sofia-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

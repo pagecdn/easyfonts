@@ -1,0 +1,15 @@
+{
+    "font_id": "gilda-display",
+    "font_family": "Gilda Display",
+    "font_css_file": "gilda-display.css",
+    "font_license": "license\/gilda-display.txt",
+    "font_css_class": "font-gilda-display",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gilda-display-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

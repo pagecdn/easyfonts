@@ -1,0 +1,15 @@
+{
+    "font_id": "warnes",
+    "font_family": "Warnes",
+    "font_css_file": "warnes.css",
+    "font_license": "license\/warnes.txt",
+    "font_css_class": "font-warnes",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/warnes-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "baloo-bhaijaan",
+    "font_family": "Baloo Bhaijaan",
+    "font_css_file": "baloo-bhaijaan.css",
+    "font_license": "license\/baloo-bhaijaan.txt",
+    "font_css_class": "font-baloo-bhaijaan",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/baloo-bhaijaan-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

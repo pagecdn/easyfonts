@@ -1,0 +1,15 @@
+{
+    "font_id": "spinnaker",
+    "font_family": "Spinnaker",
+    "font_css_file": "spinnaker.css",
+    "font_license": "license\/spinnaker.txt",
+    "font_css_class": "font-spinnaker",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/spinnaker-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

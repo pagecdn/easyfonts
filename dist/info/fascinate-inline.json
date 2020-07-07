@@ -1,0 +1,15 @@
+{
+    "font_id": "fascinate-inline",
+    "font_family": "Fascinate Inline",
+    "font_css_file": "fascinate-inline.css",
+    "font_license": "license\/fascinate-inline.txt",
+    "font_css_class": "font-fascinate-inline",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fascinate-inline-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

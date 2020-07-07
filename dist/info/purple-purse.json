@@ -1,0 +1,15 @@
+{
+    "font_id": "purple-purse",
+    "font_family": "Purple Purse",
+    "font_css_file": "purple-purse.css",
+    "font_license": "license\/purple-purse.txt",
+    "font_css_class": "font-purple-purse",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/purple-purse-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

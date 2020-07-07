@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/easyfonts/license/mashanzheng.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:mashanzheng;src:url(fonts/mashanzheng-400.ttf)}
+
+
+.font-mashanzheng{font-family:mashanzheng}
+.w400{font-weight:400;font-style:normal}

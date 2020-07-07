@@ -1,0 +1,15 @@
+{
+    "font_id": "keania-one",
+    "font_family": "Keania One",
+    "font_css_file": "keania-one.css",
+    "font_license": "license\/keania-one.txt",
+    "font_css_class": "font-keania-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/keania-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

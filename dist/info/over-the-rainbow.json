@@ -1,0 +1,15 @@
+{
+    "font_id": "over-the-rainbow",
+    "font_family": "Over the Rainbow",
+    "font_css_file": "over-the-rainbow.css",
+    "font_license": "license\/over-the-rainbow.txt",
+    "font_css_class": "font-over-the-rainbow",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/over-the-rainbow-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

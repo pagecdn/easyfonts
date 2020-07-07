@@ -1,0 +1,15 @@
+{
+    "font_id": "redacted",
+    "font_family": "Redacted",
+    "font_css_file": "redacted.css",
+    "font_license": "license\/redacted.txt",
+    "font_css_class": "font-redacted",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/redacted-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "emblema-one",
+    "font_family": "Emblema One",
+    "font_css_file": "emblema-one.css",
+    "font_license": "license\/emblema-one.txt",
+    "font_css_class": "font-emblema-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/emblema-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

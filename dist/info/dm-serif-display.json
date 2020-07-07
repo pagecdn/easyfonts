@@ -1,0 +1,21 @@
+{
+    "font_id": "dm-serif-display",
+    "font_family": "DM Serif Display",
+    "font_css_file": "dm-serif-display.css",
+    "font_license": "license\/dm-serif-display.txt",
+    "font_css_class": "font-dm-serif-display",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dm-serif-display-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/dm-serif-display-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

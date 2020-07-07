@@ -1,0 +1,15 @@
+{
+    "font_id": "caveat-brush",
+    "font_family": "Caveat Brush",
+    "font_css_file": "caveat-brush.css",
+    "font_license": "license\/caveat-brush.txt",
+    "font_css_class": "font-caveat-brush",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/caveat-brush-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

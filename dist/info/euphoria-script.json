@@ -1,0 +1,15 @@
+{
+    "font_id": "euphoria-script",
+    "font_family": "Euphoria Script",
+    "font_css_file": "euphoria-script.css",
+    "font_license": "license\/euphoria-script.txt",
+    "font_css_class": "font-euphoria-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/euphoria-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

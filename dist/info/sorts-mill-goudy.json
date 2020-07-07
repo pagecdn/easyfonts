@@ -1,0 +1,21 @@
+{
+    "font_id": "sorts-mill-goudy",
+    "font_family": "Sorts Mill Goudy",
+    "font_css_file": "sorts-mill-goudy.css",
+    "font_license": "license\/sorts-mill-goudy.txt",
+    "font_css_class": "font-sorts-mill-goudy",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sorts-mill-goudy-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/sorts-mill-goudy-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

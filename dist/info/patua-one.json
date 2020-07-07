@@ -1,0 +1,15 @@
+{
+    "font_id": "patua-one",
+    "font_family": "Patua One",
+    "font_css_file": "patua-one.css",
+    "font_license": "license\/patua-one.txt",
+    "font_css_class": "font-patua-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/patua-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

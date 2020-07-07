@@ -1,0 +1,15 @@
+{
+    "font_id": "averia-gruesa-libre",
+    "font_family": "Averia Gruesa Libre",
+    "font_css_file": "averia-gruesa-libre.css",
+    "font_license": "license\/averia-gruesa-libre.txt",
+    "font_css_class": "font-averia-gruesa-libre",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/averia-gruesa-libre-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

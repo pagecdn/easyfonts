@@ -1,0 +1,15 @@
+{
+    "font_id": "viga",
+    "font_family": "Viga",
+    "font_css_file": "viga.css",
+    "font_license": "license\/viga.txt",
+    "font_css_class": "font-viga",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/viga-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

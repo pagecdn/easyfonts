@@ -1,0 +1,15 @@
+{
+    "font_id": "adamina",
+    "font_family": "Adamina",
+    "font_css_file": "adamina.css",
+    "font_license": "license\/adamina.txt",
+    "font_css_class": "font-adamina",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/adamina-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

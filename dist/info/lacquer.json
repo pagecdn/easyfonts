@@ -1,0 +1,15 @@
+{
+    "font_id": "lacquer",
+    "font_family": "Lacquer",
+    "font_css_file": "lacquer.css",
+    "font_license": "license\/lacquer.txt",
+    "font_css_class": "font-lacquer",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lacquer-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

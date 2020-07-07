@@ -1,0 +1,15 @@
+{
+    "font_id": "concert-one",
+    "font_family": "Concert One",
+    "font_css_file": "concert-one.css",
+    "font_license": "license\/concert-one.txt",
+    "font_css_class": "font-concert-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/concert-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

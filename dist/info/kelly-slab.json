@@ -1,0 +1,15 @@
+{
+    "font_id": "kelly-slab",
+    "font_family": "Kelly Slab",
+    "font_css_file": "kelly-slab.css",
+    "font_license": "license\/kelly-slab.txt",
+    "font_css_class": "font-kelly-slab",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kelly-slab-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

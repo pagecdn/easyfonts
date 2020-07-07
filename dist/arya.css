@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/arya.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:arya;font-weight:700;src:url(fonts/arya-700.ttf)}
+@font-face{font-display:swap;font-family:arya;src:url(fonts/arya-400.ttf)}
+
+
+.font-arya{font-family:arya}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

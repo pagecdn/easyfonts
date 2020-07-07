@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/orbitron.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:orbitron;src:url(fonts/orbitron-400.ttf)}
+@font-face{font-display:swap;font-family:orbitron;font-weight:900;src:url(fonts/orbitron-900.ttf)}
+@font-face{font-display:swap;font-family:orbitron;font-weight:700;src:url(fonts/orbitron-700.ttf)}
+@font-face{font-display:swap;font-family:orbitron;src:url(fonts/orbitron-400.ttf)}
+@font-face{font-display:swap;font-family:orbitron;font-weight:500;src:url(fonts/orbitron-500.ttf)}
+
+
+.font-orbitron{font-family:orbitron}
+.w400{font-weight:400;font-style:normal}
+.w900{font-weight:900;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w500{font-weight:500;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "dorsa",
+    "font_family": "Dorsa",
+    "font_css_file": "dorsa.css",
+    "font_license": "license\/dorsa.txt",
+    "font_css_class": "font-dorsa",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dorsa-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

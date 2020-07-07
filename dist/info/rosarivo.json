@@ -1,0 +1,21 @@
+{
+    "font_id": "rosarivo",
+    "font_family": "Rosarivo",
+    "font_css_file": "rosarivo.css",
+    "font_license": "license\/rosarivo.txt",
+    "font_css_class": "font-rosarivo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rosarivo-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/rosarivo-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

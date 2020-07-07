@@ -1,0 +1,15 @@
+{
+    "font_id": "fresca",
+    "font_family": "Fresca",
+    "font_css_file": "fresca.css",
+    "font_license": "license\/fresca.txt",
+    "font_css_class": "font-fresca",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fresca-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

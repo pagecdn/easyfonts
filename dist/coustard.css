@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/coustard.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:coustard;src:url(fonts/coustard-400.ttf)}
+@font-face{font-display:swap;font-family:coustard;font-weight:900;src:url(fonts/coustard-900.ttf)}
+
+
+.font-coustard{font-family:coustard}
+.w400{font-weight:400;font-style:normal}
+.w900{font-weight:900;font-style:normal}

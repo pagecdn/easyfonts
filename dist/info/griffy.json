@@ -1,0 +1,15 @@
+{
+    "font_id": "griffy",
+    "font_family": "Griffy",
+    "font_css_file": "griffy.css",
+    "font_license": "license\/griffy.txt",
+    "font_css_class": "font-griffy",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/griffy-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

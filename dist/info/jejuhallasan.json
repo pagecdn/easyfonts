@@ -1,0 +1,15 @@
+{
+    "font_id": "jejuhallasan",
+    "font_family": "jejuhallasan",
+    "font_css_file": "jejuhallasan.css",
+    "font_license": "license\/jejuhallasan.txt",
+    "font_css_class": "font-jejuhallasan",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jejuhallasan-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "sacramento",
+    "font_family": "Sacramento",
+    "font_css_file": "sacramento.css",
+    "font_license": "license\/sacramento.txt",
+    "font_css_class": "font-sacramento",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sacramento-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

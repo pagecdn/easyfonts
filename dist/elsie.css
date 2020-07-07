@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/elsie.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:elsie;src:url(fonts/elsie-400.ttf)}
+@font-face{font-display:swap;font-family:elsie;font-weight:900;src:url(fonts/elsie-900.ttf)}
+
+
+.font-elsie{font-family:elsie}
+.w400{font-weight:400;font-style:normal}
+.w900{font-weight:900;font-style:normal}

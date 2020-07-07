@@ -1,0 +1,15 @@
+{
+    "font_id": "cedarville-cursive",
+    "font_family": "Cedarville Cursive",
+    "font_css_file": "cedarville-cursive.css",
+    "font_license": "license\/cedarville-cursive.txt",
+    "font_css_class": "font-cedarville-cursive",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cedarville-cursive.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

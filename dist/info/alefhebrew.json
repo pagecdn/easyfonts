@@ -1,0 +1,21 @@
+{
+    "font_id": "alefhebrew",
+    "font_family": "alefhebrew",
+    "font_css_file": "alefhebrew.css",
+    "font_license": "license\/alefhebrew.txt",
+    "font_css_class": "font-alefhebrew",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alefhebrew-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/alefhebrew-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

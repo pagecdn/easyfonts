@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/lilita-one.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'lilita one';src:url(fonts/lilita-one-400.ttf)}
+
+
+.font-lilita-one{font-family:'lilita one'}
+.w400{font-weight:400;font-style:normal}

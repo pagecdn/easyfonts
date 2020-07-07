@@ -1,0 +1,15 @@
+{
+    "font_id": "zhi-mang-xing",
+    "font_family": "Zhi Mang Xing",
+    "font_css_file": "zhi-mang-xing.css",
+    "font_license": "license\/zhi-mang-xing.txt",
+    "font_css_class": "font-zhi-mang-xing",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/zhi-mang-xing-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

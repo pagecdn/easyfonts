@@ -1,0 +1,21 @@
+{
+    "font_id": "pt-serif-caption",
+    "font_family": "PT Serif Caption",
+    "font_css_file": "pt-serif-caption.css",
+    "font_license": "license\/pt-serif-caption.txt",
+    "font_css_class": "font-pt-serif-caption",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pt-serif-caption-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/pt-serif-caption-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

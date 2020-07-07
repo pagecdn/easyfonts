@@ -1,0 +1,15 @@
+{
+    "font_id": "liu-jian-mao-cao",
+    "font_family": "Liu Jian Mao Cao",
+    "font_css_file": "liu-jian-mao-cao.css",
+    "font_license": "license\/liu-jian-mao-cao.txt",
+    "font_css_class": "font-liu-jian-mao-cao",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/liu-jian-mao-cao-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

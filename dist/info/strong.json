@@ -1,0 +1,15 @@
+{
+    "font_id": "strong",
+    "font_family": "Strong",
+    "font_css_file": "strong.css",
+    "font_license": "license\/strong.txt",
+    "font_css_class": "font-strong",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/strong-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

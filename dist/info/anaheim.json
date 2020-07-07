@@ -1,0 +1,15 @@
+{
+    "font_id": "anaheim",
+    "font_family": "Anaheim",
+    "font_css_file": "anaheim.css",
+    "font_license": "license\/anaheim.txt",
+    "font_css_class": "font-anaheim",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/anaheim-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

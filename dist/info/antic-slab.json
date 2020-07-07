@@ -1,0 +1,15 @@
+{
+    "font_id": "antic-slab",
+    "font_family": "Antic Slab",
+    "font_css_file": "antic-slab.css",
+    "font_license": "license\/antic-slab.txt",
+    "font_css_class": "font-antic-slab",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/antic-slab-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

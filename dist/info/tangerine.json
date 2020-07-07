@@ -1,0 +1,21 @@
+{
+    "font_id": "tangerine",
+    "font_family": "Tangerine",
+    "font_css_file": "tangerine.css",
+    "font_license": "license\/tangerine.txt",
+    "font_css_class": "font-tangerine",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/tangerine-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/tangerine-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

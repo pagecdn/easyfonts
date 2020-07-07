@@ -1,0 +1,21 @@
+{
+    "font_id": "sedan",
+    "font_family": "Sedan",
+    "font_css_file": "sedan.css",
+    "font_license": "license\/sedan.txt",
+    "font_css_class": "font-sedan",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sedan-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/sedan-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

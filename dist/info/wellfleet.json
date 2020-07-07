@@ -1,0 +1,15 @@
+{
+    "font_id": "wellfleet",
+    "font_family": "Wellfleet",
+    "font_css_file": "wellfleet.css",
+    "font_license": "license\/wellfleet.txt",
+    "font_css_class": "font-wellfleet",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/wellfleet-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

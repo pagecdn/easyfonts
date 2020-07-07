@@ -1,0 +1,15 @@
+{
+    "font_id": "khmer",
+    "font_family": "Khmer",
+    "font_css_file": "khmer.css",
+    "font_license": "license\/khmer.txt",
+    "font_css_class": "font-khmer",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/khmer-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

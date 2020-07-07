@@ -1,0 +1,27 @@
+{
+    "font_id": "asapvfbeta",
+    "font_family": "asapvfbeta",
+    "font_css_file": "asapvfbeta.css",
+    "font_license": "license\/asapvfbeta.txt",
+    "font_css_class": "font-asapvfbeta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/asapvfbeta-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/asapvfbeta-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/asapvfbeta.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

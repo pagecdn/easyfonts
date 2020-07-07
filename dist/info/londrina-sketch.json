@@ -1,0 +1,15 @@
+{
+    "font_id": "londrina-sketch",
+    "font_family": "Londrina Sketch",
+    "font_css_file": "londrina-sketch.css",
+    "font_license": "license\/londrina-sketch.txt",
+    "font_css_class": "font-londrina-sketch",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/londrina-sketch-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

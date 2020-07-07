@@ -1,0 +1,15 @@
+{
+    "font_id": "moulpali",
+    "font_family": "Moulpali",
+    "font_css_file": "moulpali.css",
+    "font_license": "license\/moulpali.txt",
+    "font_css_class": "font-moulpali",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/moulpali-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

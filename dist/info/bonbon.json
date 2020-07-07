@@ -1,0 +1,15 @@
+{
+    "font_id": "bonbon",
+    "font_family": "Bonbon",
+    "font_css_file": "bonbon.css",
+    "font_license": "license\/bonbon.txt",
+    "font_css_class": "font-bonbon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bonbon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "font_id": "jaldi",
+    "font_family": "Jaldi",
+    "font_css_file": "jaldi.css",
+    "font_license": "license\/jaldi.txt",
+    "font_css_class": "font-jaldi",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jaldi-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/jaldi-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "creepster-caps",
+    "font_family": "Creepster Caps",
+    "font_css_file": "creepster-caps.css",
+    "font_license": "license\/creepster-caps.txt",
+    "font_css_class": "font-creepster-caps",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/creepster-caps-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

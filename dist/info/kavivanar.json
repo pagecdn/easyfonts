@@ -1,0 +1,15 @@
+{
+    "font_id": "kavivanar",
+    "font_family": "Kavivanar",
+    "font_css_file": "kavivanar.css",
+    "font_license": "license\/kavivanar.txt",
+    "font_css_class": "font-kavivanar",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kavivanar-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

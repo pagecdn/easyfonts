@@ -1,0 +1,21 @@
+{
+    "font_id": "play",
+    "font_family": "Play",
+    "font_css_file": "play.css",
+    "font_license": "license\/play.txt",
+    "font_css_class": "font-play",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/play-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/play-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

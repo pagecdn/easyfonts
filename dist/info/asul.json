@@ -1,0 +1,21 @@
+{
+    "font_id": "asul",
+    "font_family": "Asul",
+    "font_css_file": "asul.css",
+    "font_license": "license\/asul.txt",
+    "font_css_class": "font-asul",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/asul-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/asul-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

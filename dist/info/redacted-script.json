@@ -1,0 +1,21 @@
+{
+    "font_id": "redacted-script",
+    "font_family": "Redacted Script",
+    "font_css_file": "redacted-script.css",
+    "font_license": "license\/redacted-script.txt",
+    "font_css_class": "font-redacted-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/redacted-script-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/redacted-script-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

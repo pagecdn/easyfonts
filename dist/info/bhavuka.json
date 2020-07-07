@@ -1,0 +1,15 @@
+{
+    "font_id": "bhavuka",
+    "font_family": "Bhavuka",
+    "font_css_file": "bhavuka.css",
+    "font_license": "license\/bhavuka.txt",
+    "font_css_class": "font-bhavuka",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bhavuka-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

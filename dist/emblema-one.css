@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/emblema-one.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'emblema one';src:url(fonts/emblema-one-400.ttf)}
+
+
+.font-emblema-one{font-family:'emblema one'}
+.w400{font-weight:400;font-style:normal}

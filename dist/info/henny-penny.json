@@ -1,0 +1,15 @@
+{
+    "font_id": "henny-penny",
+    "font_family": "Henny Penny",
+    "font_css_file": "henny-penny.css",
+    "font_license": "license\/henny-penny.txt",
+    "font_css_class": "font-henny-penny",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/henny-penny-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "squada-one",
+    "font_family": "Squada One",
+    "font_css_file": "squada-one.css",
+    "font_license": "license\/squada-one.txt",
+    "font_css_class": "font-squada-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/squada-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

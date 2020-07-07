@@ -1,0 +1,15 @@
+{
+    "font_id": "laomuangdon",
+    "font_family": "laomuangdon",
+    "font_css_file": "laomuangdon.css",
+    "font_license": "license\/laomuangdon.txt",
+    "font_css_class": "font-laomuangdon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/laomuangdon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

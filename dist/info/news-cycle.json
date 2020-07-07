@@ -1,0 +1,21 @@
+{
+    "font_id": "news-cycle",
+    "font_family": "News Cycle",
+    "font_css_file": "news-cycle.css",
+    "font_license": "license\/news-cycle.txt",
+    "font_css_class": "font-news-cycle",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/news-cycle-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/news-cycle-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/faustinavfbeta.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:faustinavfbeta;src:url(fonts/faustinavfbeta-400.ttf)}
+@font-face{font-display:swap;font-family:faustinavfbeta;font-style:italic;src:url(fonts/faustinavfbeta-400i.ttf)}
+
+
+.font-faustinavfbeta{font-family:faustinavfbeta}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}

@@ -1,0 +1,15 @@
+{
+    "font_id": "stalinist-one",
+    "font_family": "Stalinist One",
+    "font_css_file": "stalinist-one.css",
+    "font_license": "license\/stalinist-one.txt",
+    "font_css_class": "font-stalinist-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/stalinist-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

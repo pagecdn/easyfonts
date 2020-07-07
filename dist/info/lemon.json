@@ -1,0 +1,15 @@
+{
+    "font_id": "lemon",
+    "font_family": "Lemon",
+    "font_css_file": "lemon.css",
+    "font_license": "license\/lemon.txt",
+    "font_css_class": "font-lemon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lemon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

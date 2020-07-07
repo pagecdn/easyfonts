@@ -1,0 +1,15 @@
+{
+    "font_id": "nanum-pen-script",
+    "font_family": "Nanum Pen Script",
+    "font_css_file": "nanum-pen-script.css",
+    "font_license": "license\/nanum-pen-script.txt",
+    "font_css_class": "font-nanum-pen-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nanum-pen-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

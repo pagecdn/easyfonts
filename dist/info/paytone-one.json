@@ -1,0 +1,15 @@
+{
+    "font_id": "paytone-one",
+    "font_family": "Paytone One",
+    "font_css_file": "paytone-one.css",
+    "font_license": "license\/paytone-one.txt",
+    "font_css_class": "font-paytone-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/paytone-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

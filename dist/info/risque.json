@@ -1,0 +1,15 @@
+{
+    "font_id": "risque",
+    "font_family": "Risque",
+    "font_css_file": "risque.css",
+    "font_license": "license\/risque.txt",
+    "font_css_class": "font-risque",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/risque-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

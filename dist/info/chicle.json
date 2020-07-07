@@ -1,0 +1,15 @@
+{
+    "font_id": "chicle",
+    "font_family": "Chicle",
+    "font_css_file": "chicle.css",
+    "font_license": "license\/chicle.txt",
+    "font_css_class": "font-chicle",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chicle-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

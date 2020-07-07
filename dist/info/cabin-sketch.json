@@ -1,0 +1,21 @@
+{
+    "font_id": "cabin-sketch",
+    "font_family": "Cabin Sketch",
+    "font_css_file": "cabin-sketch.css",
+    "font_license": "license\/cabin-sketch.txt",
+    "font_css_class": "font-cabin-sketch",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cabin-sketch-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/cabin-sketch-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

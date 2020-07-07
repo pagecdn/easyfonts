@@ -1,0 +1,57 @@
+{
+    "font_id": "opensanshebrew",
+    "font_family": "opensanshebrew",
+    "font_css_file": "opensanshebrew.css",
+    "font_license": "license\/opensanshebrew.txt",
+    "font_css_class": "font-opensanshebrew",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/opensanshebrew-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/opensanshebrew-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/opensanshebrew-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/opensanshebrew-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/opensanshebrew-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/opensanshebrew-700i.ttf",
+            "css_class": "w700i"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/opensanshebrew-800.ttf",
+            "css_class": "w800"
+        },
+        {
+            "weight": "800",
+            "style": "italic",
+            "file": "fonts\/opensanshebrew-800i.ttf",
+            "css_class": "w800i"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "font_id": "b612-mono",
+    "font_family": "B612 Mono",
+    "font_css_file": "b612-mono.css",
+    "font_license": "license\/b612-mono.txt",
+    "font_css_class": "font-b612-mono",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/b612-mono-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/b612-mono-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/b612-mono-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/b612-mono-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

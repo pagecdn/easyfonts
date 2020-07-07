@@ -1,0 +1,15 @@
+{
+    "font_id": "petit-formal-script",
+    "font_family": "Petit Formal Script",
+    "font_css_file": "petit-formal-script.css",
+    "font_license": "license\/petit-formal-script.txt",
+    "font_css_class": "font-petit-formal-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/petit-formal-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

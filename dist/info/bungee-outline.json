@@ -1,0 +1,15 @@
+{
+    "font_id": "bungee-outline",
+    "font_family": "Bungee Outline",
+    "font_css_file": "bungee-outline.css",
+    "font_license": "license\/bungee-outline.txt",
+    "font_css_class": "font-bungee-outline",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bungee-outline-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

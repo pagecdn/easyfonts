@@ -1,0 +1,69 @@
+{
+    "font_id": "alegreya",
+    "font_family": "Alegreya",
+    "font_css_file": "alegreya.css",
+    "font_license": "license\/alegreya.txt",
+    "font_css_class": "font-alegreya",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alegreya-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/alegreya-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/alegreya-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "500",
+            "style": "italic",
+            "file": "fonts\/alegreya-500i.ttf",
+            "css_class": "w500i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/alegreya-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/alegreya-700i.ttf",
+            "css_class": "w700i"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/alegreya-800.ttf",
+            "css_class": "w800"
+        },
+        {
+            "weight": "800",
+            "style": "italic",
+            "file": "fonts\/alegreya-800i.ttf",
+            "css_class": "w800i"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/alegreya-900.ttf",
+            "css_class": "w900"
+        },
+        {
+            "weight": "900",
+            "style": "italic",
+            "file": "fonts\/alegreya-900i.ttf",
+            "css_class": "w900i"
+        }
+    ]
+}

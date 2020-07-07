@@ -1,0 +1,15 @@
+{
+    "font_id": "im-fell-english",
+    "font_family": "IM Fell English",
+    "font_css_file": "im-fell-english.css",
+    "font_license": "license\/im-fell-english.txt",
+    "font_css_class": "font-im-fell-english",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/im-fell-english-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

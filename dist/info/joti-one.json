@@ -1,0 +1,15 @@
+{
+    "font_id": "joti-one",
+    "font_family": "Joti One",
+    "font_css_file": "joti-one.css",
+    "font_license": "license\/joti-one.txt",
+    "font_css_class": "font-joti-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/joti-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "lustria",
+    "font_family": "Lustria",
+    "font_css_file": "lustria.css",
+    "font_license": "license\/lustria.txt",
+    "font_css_class": "font-lustria",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lustria-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

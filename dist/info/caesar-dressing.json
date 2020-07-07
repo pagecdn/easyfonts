@@ -1,0 +1,15 @@
+{
+    "font_id": "caesar-dressing",
+    "font_family": "Caesar Dressing",
+    "font_css_file": "caesar-dressing.css",
+    "font_license": "license\/caesar-dressing.txt",
+    "font_css_class": "font-caesar-dressing",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/caesar-dressing-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

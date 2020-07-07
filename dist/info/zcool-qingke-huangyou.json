@@ -1,0 +1,15 @@
+{
+    "font_id": "zcool-qingke-huangyou",
+    "font_family": "ZCOOL QingKe HuangYou",
+    "font_css_file": "zcool-qingke-huangyou.css",
+    "font_license": "license\/zcool-qingke-huangyou.txt",
+    "font_css_class": "font-zcool-qingke-huangyou",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/zcool-qingke-huangyou-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

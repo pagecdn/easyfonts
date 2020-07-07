@@ -1,0 +1,57 @@
+{
+    "font_id": "chivo",
+    "font_family": "Chivo",
+    "font_css_file": "chivo.css",
+    "font_license": "license\/chivo.txt",
+    "font_css_class": "font-chivo",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/chivo-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/chivo-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chivo-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/chivo-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/chivo-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/chivo-700i.ttf",
+            "css_class": "w700i"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/chivo-900.ttf",
+            "css_class": "w900"
+        },
+        {
+            "weight": "900",
+            "style": "italic",
+            "file": "fonts\/chivo-900i.ttf",
+            "css_class": "w900i"
+        }
+    ]
+}

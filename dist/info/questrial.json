@@ -1,0 +1,15 @@
+{
+    "font_id": "questrial",
+    "font_family": "Questrial",
+    "font_css_file": "questrial.css",
+    "font_license": "license\/questrial.txt",
+    "font_css_class": "font-questrial",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/questrial-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

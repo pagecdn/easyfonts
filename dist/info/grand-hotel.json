@@ -1,0 +1,15 @@
+{
+    "font_id": "grand-hotel",
+    "font_family": "Grand Hotel",
+    "font_css_file": "grand-hotel.css",
+    "font_license": "license\/grand-hotel.txt",
+    "font_css_class": "font-grand-hotel",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/grand-hotel-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

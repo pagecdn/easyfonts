@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/bubblegum-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'bubblegum sans';src:url(fonts/bubblegum-sans-400.ttf)}
+
+
+.font-bubblegum-sans{font-family:'bubblegum sans'}
+.w400{font-weight:400;font-style:normal}

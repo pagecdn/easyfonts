@@ -1,0 +1,15 @@
+{
+    "font_id": "trocchi",
+    "font_family": "Trocchi",
+    "font_css_file": "trocchi.css",
+    "font_license": "license\/trocchi.txt",
+    "font_css_class": "font-trocchi",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/trocchi-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

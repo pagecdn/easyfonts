@@ -1,0 +1,15 @@
+{
+    "font_id": "smythe",
+    "font_family": "Smythe",
+    "font_css_file": "smythe.css",
+    "font_license": "license\/smythe.txt",
+    "font_css_class": "font-smythe",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/smythe-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

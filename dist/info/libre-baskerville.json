@@ -1,0 +1,27 @@
+{
+    "font_id": "libre-baskerville",
+    "font_family": "Libre Baskerville",
+    "font_css_file": "libre-baskerville.css",
+    "font_license": "license\/libre-baskerville.txt",
+    "font_css_class": "font-libre-baskerville",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/libre-baskerville-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/libre-baskerville-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/libre-baskerville-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

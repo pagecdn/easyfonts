@@ -1,0 +1,15 @@
+{
+    "font_id": "milonga",
+    "font_family": "Milonga",
+    "font_css_file": "milonga.css",
+    "font_license": "license\/milonga.txt",
+    "font_css_class": "font-milonga",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/milonga-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

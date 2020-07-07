@@ -1,0 +1,15 @@
+{
+    "font_id": "copse",
+    "font_family": "Copse",
+    "font_css_file": "copse.css",
+    "font_license": "license\/copse.txt",
+    "font_css_class": "font-copse",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/copse-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

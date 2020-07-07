@@ -1,0 +1,15 @@
+{
+    "font_id": "atomic-age",
+    "font_family": "Atomic Age",
+    "font_css_file": "atomic-age.css",
+    "font_license": "license\/atomic-age.txt",
+    "font_css_class": "font-atomic-age",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/atomic-age-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

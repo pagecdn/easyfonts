@@ -1,0 +1,15 @@
+{
+    "font_id": "do-hyeon",
+    "font_family": "Do Hyeon",
+    "font_css_file": "do-hyeon.css",
+    "font_license": "license\/do-hyeon.txt",
+    "font_css_class": "font-do-hyeon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/do-hyeon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

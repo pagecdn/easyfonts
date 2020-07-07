@@ -1,0 +1,21 @@
+{
+    "font_id": "montserrat-subrayada",
+    "font_family": "Montserrat Subrayada",
+    "font_css_file": "montserrat-subrayada.css",
+    "font_license": "license\/montserrat-subrayada.txt",
+    "font_css_class": "font-montserrat-subrayada",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/montserrat-subrayada-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/montserrat-subrayada-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "vt323",
+    "font_family": "VT323",
+    "font_css_file": "vt323.css",
+    "font_license": "license\/vt323.txt",
+    "font_css_class": "font-vt323",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/vt323-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

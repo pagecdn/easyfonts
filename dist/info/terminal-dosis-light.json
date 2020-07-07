@@ -1,0 +1,15 @@
+{
+    "font_id": "terminal-dosis-light",
+    "font_family": "Terminal Dosis Light",
+    "font_css_file": "terminal-dosis-light.css",
+    "font_license": "license\/terminal-dosis-light.txt",
+    "font_css_class": "font-terminal-dosis-light",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/terminal-dosis-light-300.ttf",
+            "css_class": "w300"
+        }
+    ]
+}

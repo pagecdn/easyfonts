@@ -1,0 +1,21 @@
+{
+    "font_id": "sarala",
+    "font_family": "Sarala",
+    "font_css_file": "sarala.css",
+    "font_license": "license\/sarala.txt",
+    "font_css_class": "font-sarala",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sarala-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/sarala-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

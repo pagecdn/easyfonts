@@ -1,0 +1,22 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/archivo.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:archivo;font-style:italic;font-weight:600;src:url(fonts/archivo-600i.ttf)}
+@font-face{font-display:swap;font-family:archivo;font-style:italic;src:url(fonts/archivo-400i.ttf)}
+@font-face{font-display:swap;font-family:archivo;font-weight:600;src:url(fonts/archivo-600.ttf)}
+@font-face{font-display:swap;font-family:archivo;font-weight:500;src:url(fonts/archivo-500.ttf)}
+@font-face{font-display:swap;font-family:archivo;font-style:italic;font-weight:700;src:url(fonts/archivo-700i.ttf)}
+@font-face{font-display:swap;font-family:archivo;font-style:italic;font-weight:500;src:url(fonts/archivo-500i.ttf)}
+@font-face{font-display:swap;font-family:archivo;src:url(fonts/archivo-400.ttf)}
+@font-face{font-display:swap;font-family:archivo;font-weight:700;src:url(fonts/archivo-700.ttf)}
+
+
+.font-archivo{font-family:archivo}
+.w600i{font-weight:600;font-style:italic}
+.w400i{font-weight:400;font-style:italic}
+.w600{font-weight:600;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w500i{font-weight:500;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

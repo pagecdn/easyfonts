@@ -1,0 +1,15 @@
+{
+    "font_id": "porter-sans-block",
+    "font_family": "Porter Sans Block",
+    "font_css_file": "porter-sans-block.css",
+    "font_license": "license\/porter-sans-block.txt",
+    "font_css_class": "font-porter-sans-block",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/porter-sans-block-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

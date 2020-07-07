@@ -1,0 +1,15 @@
+{
+    "font_id": "reem-kufi",
+    "font_family": "Reem Kufi",
+    "font_css_file": "reem-kufi.css",
+    "font_license": "license\/reem-kufi.txt",
+    "font_css_class": "font-reem-kufi",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/reem-kufi-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

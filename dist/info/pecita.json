@@ -1,0 +1,15 @@
+{
+    "font_id": "pecita",
+    "font_family": "Pecita",
+    "font_css_file": "pecita.css",
+    "font_license": "license\/pecita.txt",
+    "font_css_class": "font-pecita",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pecita-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

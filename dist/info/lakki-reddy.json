@@ -1,0 +1,15 @@
+{
+    "font_id": "lakki-reddy",
+    "font_family": "Lakki Reddy",
+    "font_css_file": "lakki-reddy.css",
+    "font_license": "license\/lakki-reddy.txt",
+    "font_css_class": "font-lakki-reddy",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lakki-reddy-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

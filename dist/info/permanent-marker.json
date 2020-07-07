@@ -1,0 +1,15 @@
+{
+    "font_id": "permanent-marker",
+    "font_family": "Permanent Marker",
+    "font_css_file": "permanent-marker.css",
+    "font_license": "license\/permanent-marker.txt",
+    "font_css_class": "font-permanent-marker",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/permanent-marker-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

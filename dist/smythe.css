@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/smythe.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:smythe;src:url(fonts/smythe-400.ttf)}
+
+
+.font-smythe{font-family:smythe}
+.w400{font-weight:400;font-style:normal}

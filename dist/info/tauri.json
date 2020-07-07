@@ -1,0 +1,15 @@
+{
+    "font_id": "tauri",
+    "font_family": "Tauri",
+    "font_css_file": "tauri.css",
+    "font_license": "license\/tauri.txt",
+    "font_css_class": "font-tauri",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/tauri-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

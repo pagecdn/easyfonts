@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/elsie-swash-caps.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'elsie swash caps';font-weight:900;src:url(fonts/elsie-swash-caps-900.ttf)}
+@font-face{font-display:swap;font-family:'elsie swash caps';src:url(fonts/elsie-swash-caps-400.ttf)}
+
+
+.font-elsie-swash-caps{font-family:'elsie swash caps'}
+.w900{font-weight:900;font-style:normal}
+.w400{font-weight:400;font-style:normal}

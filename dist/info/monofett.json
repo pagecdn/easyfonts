@@ -1,0 +1,15 @@
+{
+    "font_id": "monofett",
+    "font_family": "Monofett",
+    "font_css_file": "monofett.css",
+    "font_license": "license\/monofett.txt",
+    "font_css_class": "font-monofett",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/monofett-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

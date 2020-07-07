@@ -1,0 +1,15 @@
+{
+    "font_id": "mr-dafoe",
+    "font_family": "Mr Dafoe",
+    "font_css_file": "mr-dafoe.css",
+    "font_license": "license\/mr-dafoe.txt",
+    "font_css_class": "font-mr-dafoe",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mr-dafoe-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

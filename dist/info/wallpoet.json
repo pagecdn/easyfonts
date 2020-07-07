@@ -1,0 +1,15 @@
+{
+    "font_id": "wallpoet",
+    "font_family": "Wallpoet",
+    "font_css_file": "wallpoet.css",
+    "font_license": "license\/wallpoet.txt",
+    "font_css_class": "font-wallpoet",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/wallpoet-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

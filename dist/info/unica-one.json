@@ -1,0 +1,15 @@
+{
+    "font_id": "unica-one",
+    "font_family": "Unica One",
+    "font_css_file": "unica-one.css",
+    "font_license": "license\/unica-one.txt",
+    "font_css_class": "font-unica-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/unica-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

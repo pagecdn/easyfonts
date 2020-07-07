@@ -1,0 +1,15 @@
+{
+    "font_id": "overlock-sc",
+    "font_family": "Overlock SC",
+    "font_css_file": "overlock-sc.css",
+    "font_license": "license\/overlock-sc.txt",
+    "font_css_class": "font-overlock-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/overlock-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

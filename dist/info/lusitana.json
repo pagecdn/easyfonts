@@ -1,0 +1,21 @@
+{
+    "font_id": "lusitana",
+    "font_family": "Lusitana",
+    "font_css_file": "lusitana.css",
+    "font_license": "license\/lusitana.txt",
+    "font_css_class": "font-lusitana",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lusitana-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/lusitana-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

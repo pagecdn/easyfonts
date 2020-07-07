@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/seoulnamsancondensed.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:seoulnamsancondensed;font-weight:300;src:url(fonts/seoulnamsancondensed-300.ttf)}
+@font-face{font-display:swap;font-family:seoulnamsancondensed;font-weight:700;src:url(fonts/seoulnamsancondensed-700.ttf)}
+@font-face{font-display:swap;font-family:seoulnamsancondensed;font-weight:500;src:url(fonts/seoulnamsancondensed-500.ttf)}
+@font-face{font-display:swap;font-family:seoulnamsancondensed;font-weight:800;src:url(fonts/seoulnamsancondensed-800.ttf)}
+@font-face{font-display:swap;font-family:seoulnamsancondensed;font-weight:900;src:url(fonts/seoulnamsancondensed-900.ttf)}
+
+
+.font-seoulnamsancondensed{font-family:seoulnamsancondensed}
+.w300{font-weight:300;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w800{font-weight:800;font-style:normal}
+.w900{font-weight:900;font-style:normal}

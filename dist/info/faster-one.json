@@ -1,0 +1,15 @@
+{
+    "font_id": "faster-one",
+    "font_family": "Faster One",
+    "font_css_file": "faster-one.css",
+    "font_license": "license\/faster-one.txt",
+    "font_css_class": "font-faster-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/faster-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

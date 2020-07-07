@@ -1,0 +1,15 @@
+{
+    "font_id": "voltaire",
+    "font_family": "Voltaire",
+    "font_css_file": "voltaire.css",
+    "font_license": "license\/voltaire.txt",
+    "font_css_class": "font-voltaire",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/voltaire-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

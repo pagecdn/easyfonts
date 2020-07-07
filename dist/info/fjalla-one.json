@@ -1,0 +1,15 @@
+{
+    "font_id": "fjalla-one",
+    "font_family": "Fjalla One",
+    "font_css_file": "fjalla-one.css",
+    "font_license": "license\/fjalla-one.txt",
+    "font_css_class": "font-fjalla-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fjalla-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

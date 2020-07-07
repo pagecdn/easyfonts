@@ -1,0 +1,45 @@
+{
+    "font_id": "neuton",
+    "font_family": "Neuton",
+    "font_css_file": "neuton.css",
+    "font_license": "license\/neuton.txt",
+    "font_css_class": "font-neuton",
+    "font_variants": [
+        {
+            "weight": "200",
+            "style": "regular",
+            "file": "fonts\/neuton-200.ttf",
+            "css_class": "w200"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/neuton-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/neuton-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/neuton-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/neuton-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/neuton-800.ttf",
+            "css_class": "w800"
+        }
+    ]
+}

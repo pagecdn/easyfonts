@@ -1,0 +1,15 @@
+{
+    "font_id": "shojumaru",
+    "font_family": "Shojumaru",
+    "font_css_file": "shojumaru.css",
+    "font_license": "license\/shojumaru.txt",
+    "font_css_class": "font-shojumaru",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/shojumaru-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

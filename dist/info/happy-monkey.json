@@ -1,0 +1,15 @@
+{
+    "font_id": "happy-monkey",
+    "font_family": "Happy Monkey",
+    "font_css_file": "happy-monkey.css",
+    "font_license": "license\/happy-monkey.txt",
+    "font_css_class": "font-happy-monkey",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/happy-monkey-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

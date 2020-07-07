@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/im-fell-double-pica.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'im fell double pica';src:url(fonts/im-fell-double-pica-400.ttf)}
+@font-face{font-display:swap;font-family:'im fell double pica';font-style:italic;src:url(fonts/im-fell-double-pica-400i.ttf)}
+@font-face{font-display:swap;font-family:'im fell double pica';src:url(fonts/im-fell-double-pica-400.ttf)}
+@font-face{font-display:swap;font-family:'im fell double pica';src:url(fonts/im-fell-double-pica-400.ttf)}
+
+
+.font-im-fell-double-pica{font-family:'im fell double pica'}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w400{font-weight:400;font-style:normal}

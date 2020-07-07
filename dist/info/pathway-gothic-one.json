@@ -1,0 +1,15 @@
+{
+    "font_id": "pathway-gothic-one",
+    "font_family": "Pathway Gothic One",
+    "font_css_file": "pathway-gothic-one.css",
+    "font_license": "license\/pathway-gothic-one.txt",
+    "font_css_class": "font-pathway-gothic-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pathway-gothic-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

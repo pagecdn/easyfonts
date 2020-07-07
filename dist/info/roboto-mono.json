@@ -1,0 +1,69 @@
+{
+    "font_id": "roboto-mono",
+    "font_family": "Roboto Mono",
+    "font_css_file": "roboto-mono.css",
+    "font_license": "license\/roboto-mono.txt",
+    "font_css_class": "font-roboto-mono",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/roboto-mono-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "100",
+            "style": "italic",
+            "file": "fonts\/roboto-mono-100i.ttf",
+            "css_class": "w100i"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/roboto-mono-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/roboto-mono-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/roboto-mono-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/roboto-mono-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/roboto-mono-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "500",
+            "style": "italic",
+            "file": "fonts\/roboto-mono-500i.ttf",
+            "css_class": "w500i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/roboto-mono-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/roboto-mono-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

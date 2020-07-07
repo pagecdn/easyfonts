@@ -1,0 +1,15 @@
+{
+    "font_id": "zcool-xiaowei",
+    "font_family": "ZCOOL XiaoWei",
+    "font_css_file": "zcool-xiaowei.css",
+    "font_license": "license\/zcool-xiaowei.txt",
+    "font_css_class": "font-zcool-xiaowei",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/zcool-xiaowei-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

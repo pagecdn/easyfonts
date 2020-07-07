@@ -1,0 +1,21 @@
+{
+    "font_id": "dm-serif-text",
+    "font_family": "DM Serif Text",
+    "font_css_file": "dm-serif-text.css",
+    "font_license": "license\/dm-serif-text.txt",
+    "font_css_class": "font-dm-serif-text",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dm-serif-text-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/dm-serif-text-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

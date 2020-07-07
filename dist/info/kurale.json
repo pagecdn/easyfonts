@@ -1,0 +1,15 @@
+{
+    "font_id": "kurale",
+    "font_family": "Kurale",
+    "font_css_file": "kurale.css",
+    "font_license": "license\/kurale.txt",
+    "font_css_class": "font-kurale",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kurale-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "reenie-beanie",
+    "font_family": "Reenie Beanie",
+    "font_css_file": "reenie-beanie.css",
+    "font_license": "license\/reenie-beanie.txt",
+    "font_css_class": "font-reenie-beanie",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/reenie-beanie-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

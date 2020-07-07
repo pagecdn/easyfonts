@@ -1,0 +1,15 @@
+{
+    "font_id": "monoton",
+    "font_family": "Monoton",
+    "font_css_file": "monoton.css",
+    "font_license": "license\/monoton.txt",
+    "font_css_class": "font-monoton",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/monoton-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

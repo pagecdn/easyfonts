@@ -1,0 +1,15 @@
+{
+    "font_id": "gfs-didot",
+    "font_family": "GFS Didot",
+    "font_css_file": "gfs-didot.css",
+    "font_license": "license\/gfs-didot.txt",
+    "font_css_class": "font-gfs-didot",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gfs-didot-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

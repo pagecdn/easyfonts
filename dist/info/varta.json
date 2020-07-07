@@ -1,0 +1,33 @@
+{
+    "font_id": "varta",
+    "font_family": "Varta",
+    "font_css_file": "varta.css",
+    "font_license": "license\/varta.txt",
+    "font_css_class": "font-varta",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/varta-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/varta-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/varta-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/varta-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

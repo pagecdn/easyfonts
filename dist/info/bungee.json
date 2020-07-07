@@ -1,0 +1,15 @@
+{
+    "font_id": "bungee",
+    "font_family": "Bungee",
+    "font_css_file": "bungee.css",
+    "font_license": "license\/bungee.txt",
+    "font_css_class": "font-bungee",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bungee-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "suwannaphum",
+    "font_family": "Suwannaphum",
+    "font_css_file": "suwannaphum.css",
+    "font_license": "license\/suwannaphum.txt",
+    "font_css_class": "font-suwannaphum",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/suwannaphum-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "medula-one",
+    "font_family": "Medula One",
+    "font_css_file": "medula-one.css",
+    "font_license": "license\/medula-one.txt",
+    "font_css_class": "font-medula-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/medula-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

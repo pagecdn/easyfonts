@@ -1,0 +1,15 @@
+{
+    "font_id": "freckle-face",
+    "font_family": "Freckle Face",
+    "font_css_file": "freckle-face.css",
+    "font_license": "license\/freckle-face.txt",
+    "font_css_class": "font-freckle-face",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/freckle-face-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

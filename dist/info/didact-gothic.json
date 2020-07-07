@@ -1,0 +1,15 @@
+{
+    "font_id": "didact-gothic",
+    "font_family": "Didact Gothic",
+    "font_css_file": "didact-gothic.css",
+    "font_license": "license\/didact-gothic.txt",
+    "font_css_class": "font-didact-gothic",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/didact-gothic-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

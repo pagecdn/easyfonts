@@ -1,0 +1,39 @@
+{
+    "font_id": "bio-rhyme",
+    "font_family": "Bio Rhyme",
+    "font_css_file": "bio-rhyme.css",
+    "font_license": "license\/bio-rhyme.txt",
+    "font_css_class": "font-bio-rhyme",
+    "font_variants": [
+        {
+            "weight": "200",
+            "style": "regular",
+            "file": "fonts\/bio-rhyme-200.ttf",
+            "css_class": "w200"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/bio-rhyme-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bio-rhyme-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/bio-rhyme-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/bio-rhyme-800.ttf",
+            "css_class": "w800"
+        }
+    ]
+}

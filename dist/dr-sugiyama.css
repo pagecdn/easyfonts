@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/dr-sugiyama.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'dr sugiyama';src:url(fonts/dr-sugiyama-400.ttf)}
+
+
+.font-dr-sugiyama{font-family:'dr sugiyama'}
+.w400{font-weight:400;font-style:normal}

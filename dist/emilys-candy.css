@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/emilys-candy.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'emilys candy';src:url(fonts/emilys-candy-400.ttf)}
+
+
+.font-emilys-candy{font-family:'emilys candy'}
+.w400{font-weight:400;font-style:normal}

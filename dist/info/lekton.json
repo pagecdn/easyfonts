@@ -1,0 +1,27 @@
+{
+    "font_id": "lekton",
+    "font_family": "Lekton",
+    "font_css_file": "lekton.css",
+    "font_license": "license\/lekton.txt",
+    "font_css_class": "font-lekton",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lekton-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/lekton-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/lekton-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

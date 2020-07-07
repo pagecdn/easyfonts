@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/ruge-boogie.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'ruge boogie';src:url(fonts/ruge-boogie-400.ttf)}
+
+
+.font-ruge-boogie{font-family:'ruge boogie'}
+.w400{font-weight:400;font-style:normal}

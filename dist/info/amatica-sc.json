@@ -1,0 +1,21 @@
+{
+    "font_id": "amatica-sc",
+    "font_family": "Amatica SC",
+    "font_css_file": "amatica-sc.css",
+    "font_license": "license\/amatica-sc.txt",
+    "font_css_class": "font-amatica-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/amatica-sc-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/amatica-sc-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

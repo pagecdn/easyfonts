@@ -1,0 +1,15 @@
+{
+    "font_id": "comfortaa",
+    "font_family": "Comfortaa",
+    "font_css_file": "comfortaa.css",
+    "font_license": "license\/comfortaa.txt",
+    "font_css_class": "font-comfortaa",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/comfortaa-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

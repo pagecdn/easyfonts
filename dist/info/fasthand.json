@@ -1,0 +1,15 @@
+{
+    "font_id": "fasthand",
+    "font_family": "Fasthand",
+    "font_css_file": "fasthand.css",
+    "font_license": "license\/fasthand.txt",
+    "font_css_class": "font-fasthand",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fasthand-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

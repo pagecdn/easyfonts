@@ -1,0 +1,15 @@
+{
+    "font_id": "snowburst-one",
+    "font_family": "Snowburst One",
+    "font_css_file": "snowburst-one.css",
+    "font_license": "license\/snowburst-one.txt",
+    "font_css_class": "font-snowburst-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/snowburst-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

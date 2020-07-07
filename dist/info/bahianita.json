@@ -1,0 +1,15 @@
+{
+    "font_id": "bahianita",
+    "font_family": "Bahianita",
+    "font_css_file": "bahianita.css",
+    "font_license": "license\/bahianita.txt",
+    "font_css_class": "font-bahianita",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bahianita-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

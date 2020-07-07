@@ -1,0 +1,15 @@
+{
+    "font_id": "chelsea-market",
+    "font_family": "Chelsea Market",
+    "font_css_file": "chelsea-market.css",
+    "font_license": "license\/chelsea-market.txt",
+    "font_css_class": "font-chelsea-market",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chelsea-market-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/ropa-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'ropa sans';font-style:italic;src:url(fonts/ropa-sans-400i.ttf)}
+@font-face{font-display:swap;font-family:'ropa sans';src:url(fonts/ropa-sans-400.ttf)}
+
+
+.font-ropa-sans{font-family:'ropa sans'}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}

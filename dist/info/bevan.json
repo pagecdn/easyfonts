@@ -1,0 +1,15 @@
+{
+    "font_id": "bevan",
+    "font_family": "Bevan",
+    "font_css_file": "bevan.css",
+    "font_license": "license\/bevan.txt",
+    "font_css_class": "font-bevan",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bevan-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

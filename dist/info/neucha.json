@@ -1,0 +1,15 @@
+{
+    "font_id": "neucha",
+    "font_family": "Neucha",
+    "font_css_file": "neucha.css",
+    "font_license": "license\/neucha.txt",
+    "font_css_class": "font-neucha",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/neucha-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "ruluko",
+    "font_family": "Ruluko",
+    "font_css_file": "ruluko.css",
+    "font_license": "license\/ruluko.txt",
+    "font_css_class": "font-ruluko",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ruluko-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

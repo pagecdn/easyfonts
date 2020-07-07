@@ -1,0 +1,21 @@
+{
+    "font_id": "caveat",
+    "font_family": "Caveat",
+    "font_css_file": "caveat.css",
+    "font_license": "license\/caveat.txt",
+    "font_css_class": "font-caveat",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/caveat-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/caveat-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

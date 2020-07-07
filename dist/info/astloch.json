@@ -1,0 +1,21 @@
+{
+    "font_id": "astloch",
+    "font_family": "Astloch",
+    "font_css_file": "astloch.css",
+    "font_license": "license\/astloch.txt",
+    "font_css_class": "font-astloch",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/astloch-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/astloch-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

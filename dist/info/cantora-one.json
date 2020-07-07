@@ -1,0 +1,15 @@
+{
+    "font_id": "cantora-one",
+    "font_family": "Cantora One",
+    "font_css_file": "cantora-one.css",
+    "font_license": "license\/cantora-one.txt",
+    "font_css_class": "font-cantora-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cantora-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "rye",
+    "font_family": "Rye",
+    "font_css_file": "rye.css",
+    "font_license": "license\/rye.txt",
+    "font_css_class": "font-rye",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rye-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

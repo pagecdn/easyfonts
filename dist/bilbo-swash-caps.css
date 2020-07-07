@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/bilbo-swash-caps.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'bilbo swash caps';src:url(fonts/bilbo-swash-caps-400.ttf)}
+
+
+.font-bilbo-swash-caps{font-family:'bilbo swash caps'}
+.w400{font-weight:400;font-style:normal}

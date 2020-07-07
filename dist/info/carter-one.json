@@ -1,0 +1,15 @@
+{
+    "font_id": "carter-one",
+    "font_family": "Carter One",
+    "font_css_file": "carter-one.css",
+    "font_license": "license\/carter-one.txt",
+    "font_css_class": "font-carter-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/carter-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

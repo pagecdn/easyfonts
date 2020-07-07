@@ -1,0 +1,33 @@
+{
+    "font_id": "lobster-two",
+    "font_family": "Lobster Two",
+    "font_css_file": "lobster-two.css",
+    "font_license": "license\/lobster-two.txt",
+    "font_css_class": "font-lobster-two",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lobster-two-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/lobster-two-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/lobster-two-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/lobster-two-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

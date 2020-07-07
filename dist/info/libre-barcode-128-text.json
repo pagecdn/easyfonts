@@ -1,0 +1,15 @@
+{
+    "font_id": "libre-barcode-128-text",
+    "font_family": "Libre Barcode 128 Text",
+    "font_css_file": "libre-barcode-128-text.css",
+    "font_license": "license\/libre-barcode-128-text.txt",
+    "font_css_class": "font-libre-barcode-128-text",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/libre-barcode-128-text-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "zeyada",
+    "font_family": "Zeyada",
+    "font_css_file": "zeyada.css",
+    "font_license": "license\/zeyada.txt",
+    "font_css_class": "font-zeyada",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/zeyada-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

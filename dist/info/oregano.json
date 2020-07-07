@@ -1,0 +1,21 @@
+{
+    "font_id": "oregano",
+    "font_family": "Oregano",
+    "font_css_file": "oregano.css",
+    "font_license": "license\/oregano.txt",
+    "font_css_class": "font-oregano",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/oregano-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/oregano-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

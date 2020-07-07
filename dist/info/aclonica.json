@@ -1,0 +1,15 @@
+{
+    "font_id": "aclonica",
+    "font_family": "Aclonica",
+    "font_css_file": "aclonica.css",
+    "font_license": "license\/aclonica.txt",
+    "font_css_class": "font-aclonica",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/aclonica-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

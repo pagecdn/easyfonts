@@ -1,0 +1,21 @@
+{
+    "font_id": "syncopate",
+    "font_family": "Syncopate",
+    "font_css_file": "syncopate.css",
+    "font_license": "license\/syncopate.txt",
+    "font_css_class": "font-syncopate",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/syncopate-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/syncopate-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

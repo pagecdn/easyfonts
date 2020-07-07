@@ -1,0 +1,33 @@
+{
+    "font_id": "londrina-solid",
+    "font_family": "Londrina Solid",
+    "font_css_file": "londrina-solid.css",
+    "font_license": "license\/londrina-solid.txt",
+    "font_css_class": "font-londrina-solid",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/londrina-solid-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/londrina-solid-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/londrina-solid-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/londrina-solid-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

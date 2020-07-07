@@ -1,0 +1,69 @@
+{
+    "font_id": "josefin-slab",
+    "font_family": "Josefin Slab",
+    "font_css_file": "josefin-slab.css",
+    "font_license": "license\/josefin-slab.txt",
+    "font_css_class": "font-josefin-slab",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/josefin-slab-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "100",
+            "style": "italic",
+            "file": "fonts\/josefin-slab-100i.ttf",
+            "css_class": "w100i"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/josefin-slab-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/josefin-slab-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/josefin-slab-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/josefin-slab-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/josefin-slab-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "600",
+            "style": "italic",
+            "file": "fonts\/josefin-slab-600i.ttf",
+            "css_class": "w600i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/josefin-slab-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/josefin-slab-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

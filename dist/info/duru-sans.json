@@ -1,0 +1,15 @@
+{
+    "font_id": "duru-sans",
+    "font_family": "Duru Sans",
+    "font_css_file": "duru-sans.css",
+    "font_license": "license\/duru-sans.txt",
+    "font_css_class": "font-duru-sans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/duru-sans-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

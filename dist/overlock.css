@@ -1,0 +1,18 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/overlock.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:overlock;font-style:italic;font-weight:900;src:url(fonts/overlock-900i.ttf)}
+@font-face{font-display:swap;font-family:overlock;font-style:italic;font-weight:700;src:url(fonts/overlock-700i.ttf)}
+@font-face{font-display:swap;font-family:overlock;font-style:italic;src:url(fonts/overlock-400i.ttf)}
+@font-face{font-display:swap;font-family:overlock;font-weight:700;src:url(fonts/overlock-700.ttf)}
+@font-face{font-display:swap;font-family:overlock;font-weight:900;src:url(fonts/overlock-900.ttf)}
+@font-face{font-display:swap;font-family:overlock;src:url(fonts/overlock-400.ttf)}
+
+
+.font-overlock{font-family:overlock}
+.w900i{font-weight:900;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w400i{font-weight:400;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w900{font-weight:900;font-style:normal}
+.w400{font-weight:400;font-style:normal}

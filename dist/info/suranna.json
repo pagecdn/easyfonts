@@ -1,0 +1,15 @@
+{
+    "font_id": "suranna",
+    "font_family": "Suranna",
+    "font_css_file": "suranna.css",
+    "font_license": "license\/suranna.txt",
+    "font_css_class": "font-suranna",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/suranna-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "fredoka-one",
+    "font_family": "Fredoka One",
+    "font_css_file": "fredoka-one.css",
+    "font_license": "license\/fredoka-one.txt",
+    "font_css_class": "font-fredoka-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fredoka-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "ubuntu-condensed",
+    "font_family": "Ubuntu Condensed",
+    "font_css_file": "ubuntu-condensed.css",
+    "font_license": "license\/ubuntu-condensed.txt",
+    "font_css_class": "font-ubuntu-condensed",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ubuntu-condensed-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

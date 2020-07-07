@@ -1,0 +1,15 @@
+{
+    "font_id": "rouge-script",
+    "font_family": "Rouge Script",
+    "font_css_file": "rouge-script.css",
+    "font_license": "license\/rouge-script.txt",
+    "font_css_class": "font-rouge-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rouge-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

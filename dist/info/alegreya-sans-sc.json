@@ -1,0 +1,93 @@
+{
+    "font_id": "alegreya-sans-sc",
+    "font_family": "Alegreya Sans SC",
+    "font_css_file": "alegreya-sans-sc.css",
+    "font_license": "license\/alegreya-sans-sc.txt",
+    "font_css_class": "font-alegreya-sans-sc",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/alegreya-sans-sc-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "100",
+            "style": "italic",
+            "file": "fonts\/alegreya-sans-sc-100i.ttf",
+            "css_class": "w100i"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/alegreya-sans-sc-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/alegreya-sans-sc-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alegreya-sans-sc-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/alegreya-sans-sc-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/alegreya-sans-sc-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "500",
+            "style": "italic",
+            "file": "fonts\/alegreya-sans-sc-500i.ttf",
+            "css_class": "w500i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/alegreya-sans-sc-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/alegreya-sans-sc-700i.ttf",
+            "css_class": "w700i"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/alegreya-sans-sc-800.ttf",
+            "css_class": "w800"
+        },
+        {
+            "weight": "800",
+            "style": "italic",
+            "file": "fonts\/alegreya-sans-sc-800i.ttf",
+            "css_class": "w800i"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/alegreya-sans-sc-900.ttf",
+            "css_class": "w900"
+        },
+        {
+            "weight": "900",
+            "style": "italic",
+            "file": "fonts\/alegreya-sans-sc-900i.ttf",
+            "css_class": "w900i"
+        }
+    ]
+}

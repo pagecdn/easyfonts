@@ -1,0 +1,26 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/alegreya-sc.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'alegreya sc';font-weight:900;src:url(fonts/alegreya-sc-900.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';font-weight:700;src:url(fonts/alegreya-sc-700.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';font-weight:500;src:url(fonts/alegreya-sc-500.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';font-style:italic;font-weight:900;src:url(fonts/alegreya-sc-900i.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';font-style:italic;font-weight:700;src:url(fonts/alegreya-sc-700i.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';font-weight:800;src:url(fonts/alegreya-sc-800.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';font-style:italic;src:url(fonts/alegreya-sc-400i.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';font-style:italic;font-weight:800;src:url(fonts/alegreya-sc-800i.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';font-style:italic;font-weight:500;src:url(fonts/alegreya-sc-500i.ttf)}
+@font-face{font-display:swap;font-family:'alegreya sc';src:url(fonts/alegreya-sc-400.ttf)}
+
+
+.font-alegreya-sc{font-family:'alegreya sc'}
+.w900{font-weight:900;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w900i{font-weight:900;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w800{font-weight:800;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w800i{font-weight:800;font-style:italic}
+.w500i{font-weight:500;font-style:italic}
+.w400{font-weight:400;font-style:normal}

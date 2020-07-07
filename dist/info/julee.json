@@ -1,0 +1,15 @@
+{
+    "font_id": "julee",
+    "font_family": "Julee",
+    "font_css_file": "julee.css",
+    "font_license": "license\/julee.txt",
+    "font_css_class": "font-julee",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/julee-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

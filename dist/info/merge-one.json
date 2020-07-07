@@ -1,0 +1,15 @@
+{
+    "font_id": "merge-one",
+    "font_family": "Merge One",
+    "font_css_file": "merge-one.css",
+    "font_license": "license\/merge-one.txt",
+    "font_css_class": "font-merge-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/merge-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

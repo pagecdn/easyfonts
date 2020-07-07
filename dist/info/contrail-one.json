@@ -1,0 +1,15 @@
+{
+    "font_id": "contrail-one",
+    "font_family": "Contrail One",
+    "font_css_file": "contrail-one.css",
+    "font_license": "license\/contrail-one.txt",
+    "font_css_class": "font-contrail-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/contrail-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

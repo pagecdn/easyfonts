@@ -1,0 +1,15 @@
+{
+    "font_id": "lilita-one",
+    "font_family": "Lilita One",
+    "font_css_file": "lilita-one.css",
+    "font_license": "license\/lilita-one.txt",
+    "font_css_class": "font-lilita-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lilita-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

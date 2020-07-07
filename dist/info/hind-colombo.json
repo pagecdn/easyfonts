@@ -1,0 +1,39 @@
+{
+    "font_id": "hind-colombo",
+    "font_family": "Hind Colombo",
+    "font_css_file": "hind-colombo.css",
+    "font_license": "license\/hind-colombo.txt",
+    "font_css_class": "font-hind-colombo",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/hind-colombo-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hind-colombo-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/hind-colombo-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/hind-colombo-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/hind-colombo-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

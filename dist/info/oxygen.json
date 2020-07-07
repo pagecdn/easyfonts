@@ -1,0 +1,27 @@
+{
+    "font_id": "oxygen",
+    "font_family": "Oxygen",
+    "font_css_file": "oxygen.css",
+    "font_license": "license\/oxygen.txt",
+    "font_css_class": "font-oxygen",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/oxygen-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/oxygen-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/oxygen-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

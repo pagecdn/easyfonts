@@ -1,0 +1,21 @@
+{
+    "font_id": "quattrocento",
+    "font_family": "Quattrocento",
+    "font_css_file": "quattrocento.css",
+    "font_license": "license\/quattrocento.txt",
+    "font_css_class": "font-quattrocento",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/quattrocento-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/quattrocento-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

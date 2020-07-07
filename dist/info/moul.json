@@ -1,0 +1,15 @@
+{
+    "font_id": "moul",
+    "font_family": "Moul",
+    "font_css_file": "moul.css",
+    "font_license": "license\/moul.txt",
+    "font_css_class": "font-moul",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/moul-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

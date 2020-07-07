@@ -1,0 +1,15 @@
+{
+    "font_id": "bubbler-one",
+    "font_family": "Bubbler One",
+    "font_css_file": "bubbler-one.css",
+    "font_license": "license\/bubbler-one.txt",
+    "font_css_class": "font-bubbler-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bubbler-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

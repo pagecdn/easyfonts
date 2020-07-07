@@ -1,0 +1,15 @@
+{
+    "font_id": "ravi-prakash",
+    "font_family": "Ravi Prakash",
+    "font_css_file": "ravi-prakash.css",
+    "font_license": "license\/ravi-prakash.txt",
+    "font_css_class": "font-ravi-prakash",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ravi-prakash-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

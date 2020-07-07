@@ -1,0 +1,12 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/oxygen.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:oxygen;src:url(fonts/oxygen-400.ttf)}
+@font-face{font-display:swap;font-family:oxygen;font-weight:700;src:url(fonts/oxygen-700.ttf)}
+@font-face{font-display:swap;font-family:oxygen;font-weight:300;src:url(fonts/oxygen-300.ttf)}
+
+
+.font-oxygen{font-family:oxygen}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w300{font-weight:300;font-style:normal}

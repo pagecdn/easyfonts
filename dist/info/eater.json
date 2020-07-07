@@ -1,0 +1,15 @@
+{
+    "font_id": "eater",
+    "font_family": "Eater",
+    "font_css_file": "eater.css",
+    "font_license": "license\/eater.txt",
+    "font_css_class": "font-eater",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/eater-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

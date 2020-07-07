@@ -1,0 +1,15 @@
+{
+    "font_id": "andada",
+    "font_family": "Andada",
+    "font_css_file": "andada.css",
+    "font_license": "license\/andada.txt",
+    "font_css_class": "font-andada",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/andada-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

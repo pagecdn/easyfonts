@@ -1,0 +1,21 @@
+{
+    "font_id": "coda",
+    "font_family": "Coda",
+    "font_css_file": "coda.css",
+    "font_license": "license\/coda.txt",
+    "font_css_class": "font-coda",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/coda-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/coda-800.ttf",
+            "css_class": "w800"
+        }
+    ]
+}

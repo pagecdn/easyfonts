@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/zcool-qingke-huangyou.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'zcool qingke huangyou';src:url(fonts/zcool-qingke-huangyou-400.ttf)}
+
+
+.font-zcool-qingke-huangyou{font-family:'zcool qingke huangyou'}
+.w400{font-weight:400;font-style:normal}

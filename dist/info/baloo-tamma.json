@@ -1,0 +1,15 @@
+{
+    "font_id": "baloo-tamma",
+    "font_family": "Baloo Tamma",
+    "font_css_file": "baloo-tamma.css",
+    "font_license": "license\/baloo-tamma.txt",
+    "font_css_class": "font-baloo-tamma",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/baloo-tamma-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

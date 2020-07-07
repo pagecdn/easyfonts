@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/hind-mysuru.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'hind mysuru';font-weight:300;src:url(fonts/hind-mysuru-300.ttf)}
+@font-face{font-display:swap;font-family:'hind mysuru';src:url(fonts/hind-mysuru-400.ttf)}
+@font-face{font-display:swap;font-family:'hind mysuru';font-weight:500;src:url(fonts/hind-mysuru-500.ttf)}
+@font-face{font-display:swap;font-family:'hind mysuru';font-weight:600;src:url(fonts/hind-mysuru-600.ttf)}
+@font-face{font-display:swap;font-family:'hind mysuru';font-weight:700;src:url(fonts/hind-mysuru-700.ttf)}
+
+
+.font-hind-mysuru{font-family:'hind mysuru'}
+.w300{font-weight:300;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w700{font-weight:700;font-style:normal}

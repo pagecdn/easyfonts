@@ -1,0 +1,15 @@
+{
+    "font_id": "sarina",
+    "font_family": "Sarina",
+    "font_css_file": "sarina.css",
+    "font_license": "license\/sarina.txt",
+    "font_css_class": "font-sarina",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sarina-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

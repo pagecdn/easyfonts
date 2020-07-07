@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/pontano-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'pontano sans';src:url(fonts/pontano-sans-400.ttf)}
+
+
+.font-pontano-sans{font-family:'pontano sans'}
+.w400{font-weight:400;font-style:normal}

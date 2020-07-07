@@ -1,0 +1,15 @@
+{
+    "font_id": "londrina-outline",
+    "font_family": "Londrina Outline",
+    "font_css_file": "londrina-outline.css",
+    "font_license": "license\/londrina-outline.txt",
+    "font_css_class": "font-londrina-outline",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/londrina-outline-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

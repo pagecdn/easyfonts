@@ -1,0 +1,15 @@
+{
+    "font_id": "underdog",
+    "font_family": "Underdog",
+    "font_css_file": "underdog.css",
+    "font_license": "license\/underdog.txt",
+    "font_css_class": "font-underdog",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/underdog-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

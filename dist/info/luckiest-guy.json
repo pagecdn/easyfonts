@@ -1,0 +1,15 @@
+{
+    "font_id": "luckiest-guy",
+    "font_family": "Luckiest Guy",
+    "font_css_file": "luckiest-guy.css",
+    "font_license": "license\/luckiest-guy.txt",
+    "font_css_class": "font-luckiest-guy",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/luckiest-guy-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "just-another-hand",
+    "font_family": "Just Another Hand",
+    "font_css_file": "just-another-hand.css",
+    "font_license": "license\/just-another-hand.txt",
+    "font_css_class": "font-just-another-hand",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/just-another-hand-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

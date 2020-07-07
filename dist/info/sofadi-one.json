@@ -1,0 +1,15 @@
+{
+    "font_id": "sofadi-one",
+    "font_family": "Sofadi One",
+    "font_css_file": "sofadi-one.css",
+    "font_license": "license\/sofadi-one.txt",
+    "font_css_class": "font-sofadi-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sofadi-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

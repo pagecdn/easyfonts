@@ -1,0 +1,51 @@
+{
+    "font_id": "gemunu-libre",
+    "font_family": "Gemunu Libre",
+    "font_css_file": "gemunu-libre.css",
+    "font_license": "license\/gemunu-libre.txt",
+    "font_css_class": "font-gemunu-libre",
+    "font_variants": [
+        {
+            "weight": "200",
+            "style": "regular",
+            "file": "fonts\/gemunu-libre-200.ttf",
+            "css_class": "w200"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/gemunu-libre-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gemunu-libre-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/gemunu-libre-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/gemunu-libre-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/gemunu-libre-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/gemunu-libre-800.ttf",
+            "css_class": "w800"
+        }
+    ]
+}

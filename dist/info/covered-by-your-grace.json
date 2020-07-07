@@ -1,0 +1,15 @@
+{
+    "font_id": "covered-by-your-grace",
+    "font_family": "Covered By Your Grace",
+    "font_css_file": "covered-by-your-grace.css",
+    "font_license": "license\/covered-by-your-grace.txt",
+    "font_css_class": "font-covered-by-your-grace",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/covered-by-your-grace-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

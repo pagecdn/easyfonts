@@ -1,0 +1,15 @@
+{
+    "font_id": "cute-font",
+    "font_family": "Cute Font",
+    "font_css_file": "cute-font.css",
+    "font_license": "license\/cute-font.txt",
+    "font_css_class": "font-cute-font",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cute-font-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

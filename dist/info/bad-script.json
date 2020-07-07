@@ -1,0 +1,15 @@
+{
+    "font_id": "bad-script",
+    "font_family": "Bad Script",
+    "font_css_file": "bad-script.css",
+    "font_license": "license\/bad-script.txt",
+    "font_css_class": "font-bad-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bad-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

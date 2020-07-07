@@ -1,0 +1,15 @@
+{
+    "font_id": "song-myung",
+    "font_family": "Song Myung",
+    "font_css_file": "song-myung.css",
+    "font_license": "license\/song-myung.txt",
+    "font_css_class": "font-song-myung",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/song-myung-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

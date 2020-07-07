@@ -1,0 +1,15 @@
+{
+    "font_id": "knewave",
+    "font_family": "Knewave",
+    "font_css_file": "knewave.css",
+    "font_license": "license\/knewave.txt",
+    "font_css_class": "font-knewave",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/knewave-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

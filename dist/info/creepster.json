@@ -1,0 +1,15 @@
+{
+    "font_id": "creepster",
+    "font_family": "Creepster",
+    "font_css_file": "creepster.css",
+    "font_license": "license\/creepster.txt",
+    "font_css_class": "font-creepster",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/creepster-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

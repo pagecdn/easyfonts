@@ -1,0 +1,12 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/benchnine.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:benchnine;font-weight:700;src:url(fonts/benchnine-700.ttf)}
+@font-face{font-display:swap;font-family:benchnine;src:url(fonts/benchnine-400.ttf)}
+@font-face{font-display:swap;font-family:benchnine;font-weight:300;src:url(fonts/benchnine-300.ttf)}
+
+
+.font-benchnine{font-family:benchnine}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w300{font-weight:300;font-style:normal}

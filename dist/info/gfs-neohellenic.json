@@ -1,0 +1,15 @@
+{
+    "font_id": "gfs-neohellenic",
+    "font_family": "GFS Neohellenic",
+    "font_css_file": "gfs-neohellenic.css",
+    "font_license": "license\/gfs-neohellenic.txt",
+    "font_css_class": "font-gfs-neohellenic",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gfs-neohellenic-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

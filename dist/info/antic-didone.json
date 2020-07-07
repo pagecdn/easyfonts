@@ -1,0 +1,15 @@
+{
+    "font_id": "antic-didone",
+    "font_family": "Antic Didone",
+    "font_css_file": "antic-didone.css",
+    "font_license": "license\/antic-didone.txt",
+    "font_css_class": "font-antic-didone",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/antic-didone-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

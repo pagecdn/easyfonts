@@ -1,0 +1,15 @@
+{
+    "font_id": "suez-one",
+    "font_family": "Suez One",
+    "font_css_file": "suez-one.css",
+    "font_license": "license\/suez-one.txt",
+    "font_css_class": "font-suez-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/suez-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/niramit.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:niramit;src:url(fonts/niramit-400.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-style:italic;font-weight:200;src:url(fonts/niramit-200i.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-weight:700;src:url(fonts/niramit-700.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-weight:600;src:url(fonts/niramit-600.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-weight:200;src:url(fonts/niramit-200.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-weight:500;src:url(fonts/niramit-500.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-style:italic;font-weight:700;src:url(fonts/niramit-700i.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-style:italic;src:url(fonts/niramit-400i.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-style:italic;font-weight:600;src:url(fonts/niramit-600i.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-style:italic;font-weight:500;src:url(fonts/niramit-500i.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-style:italic;font-weight:300;src:url(fonts/niramit-300i.ttf)}
+@font-face{font-display:swap;font-family:niramit;font-weight:300;src:url(fonts/niramit-300.ttf)}
+
+
+.font-niramit{font-family:niramit}
+.w400{font-weight:400;font-style:normal}
+.w200i{font-weight:200;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w200{font-weight:200;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w400i{font-weight:400;font-style:italic}
+.w600i{font-weight:600;font-style:italic}
+.w500i{font-weight:500;font-style:italic}
+.w300i{font-weight:300;font-style:italic}
+.w300{font-weight:300;font-style:normal}

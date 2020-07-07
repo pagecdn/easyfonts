@@ -1,0 +1,26 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/cormorant.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:cormorant;font-style:italic;font-weight:700;src:url(fonts/cormorant-700i.ttf)}
+@font-face{font-display:swap;font-family:cormorant;font-weight:500;src:url(fonts/cormorant-500.ttf)}
+@font-face{font-display:swap;font-family:cormorant;font-weight:300;src:url(fonts/cormorant-300.ttf)}
+@font-face{font-display:swap;font-family:cormorant;font-style:italic;font-weight:600;src:url(fonts/cormorant-600i.ttf)}
+@font-face{font-display:swap;font-family:cormorant;font-weight:600;src:url(fonts/cormorant-600.ttf)}
+@font-face{font-display:swap;font-family:cormorant;font-style:italic;src:url(fonts/cormorant-400i.ttf)}
+@font-face{font-display:swap;font-family:cormorant;font-style:italic;font-weight:300;src:url(fonts/cormorant-300i.ttf)}
+@font-face{font-display:swap;font-family:cormorant;font-style:italic;font-weight:500;src:url(fonts/cormorant-500i.ttf)}
+@font-face{font-display:swap;font-family:cormorant;font-weight:700;src:url(fonts/cormorant-700.ttf)}
+@font-face{font-display:swap;font-family:cormorant;src:url(fonts/cormorant-400.ttf)}
+
+
+.font-cormorant{font-family:cormorant}
+.w700i{font-weight:700;font-style:italic}
+.w500{font-weight:500;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w600i{font-weight:600;font-style:italic}
+.w600{font-weight:600;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w300i{font-weight:300;font-style:italic}
+.w500i{font-weight:500;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

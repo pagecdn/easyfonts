@@ -1,0 +1,15 @@
+{
+    "font_id": "alike",
+    "font_family": "Alike",
+    "font_css_file": "alike.css",
+    "font_license": "license\/alike.txt",
+    "font_css_class": "font-alike",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alike-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "font_id": "chau-philomene-one",
+    "font_family": "Chau Philomene One",
+    "font_css_file": "chau-philomene-one.css",
+    "font_license": "license\/chau-philomene-one.txt",
+    "font_css_class": "font-chau-philomene-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chau-philomene-one-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/chau-philomene-one-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

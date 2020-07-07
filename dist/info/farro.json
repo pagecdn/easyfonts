@@ -1,0 +1,33 @@
+{
+    "font_id": "farro",
+    "font_family": "Farro",
+    "font_css_file": "farro.css",
+    "font_license": "license\/farro.txt",
+    "font_css_class": "font-farro",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/farro-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/farro-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/farro-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/farro-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

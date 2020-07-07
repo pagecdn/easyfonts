@@ -1,0 +1,15 @@
+{
+    "font_id": "preahvihear",
+    "font_family": "Preahvihear",
+    "font_css_file": "preahvihear.css",
+    "font_license": "license\/preahvihear.txt",
+    "font_css_class": "font-preahvihear",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/preahvihear-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

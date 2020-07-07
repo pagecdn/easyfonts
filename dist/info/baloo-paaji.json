@@ -1,0 +1,15 @@
+{
+    "font_id": "baloo-paaji",
+    "font_family": "Baloo Paaji",
+    "font_css_file": "baloo-paaji.css",
+    "font_license": "license\/baloo-paaji.txt",
+    "font_css_class": "font-baloo-paaji",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/baloo-paaji-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

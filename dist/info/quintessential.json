@@ -1,0 +1,15 @@
+{
+    "font_id": "quintessential",
+    "font_family": "Quintessential",
+    "font_css_file": "quintessential.css",
+    "font_license": "license\/quintessential.txt",
+    "font_css_class": "font-quintessential",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/quintessential-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

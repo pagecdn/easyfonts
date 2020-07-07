@@ -1,0 +1,15 @@
+{
+    "font_id": "lohit-tamil",
+    "font_family": "Lohit Tamil",
+    "font_css_file": "lohit-tamil.css",
+    "font_license": "license\/lohit-tamil.txt",
+    "font_css_class": "font-lohit-tamil",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lohit-tamil.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

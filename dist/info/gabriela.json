@@ -1,0 +1,15 @@
+{
+    "font_id": "gabriela",
+    "font_family": "Gabriela",
+    "font_css_file": "gabriela.css",
+    "font_license": "license\/gabriela.txt",
+    "font_css_class": "font-gabriela",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gabriela-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

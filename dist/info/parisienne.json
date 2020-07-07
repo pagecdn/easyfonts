@@ -1,0 +1,15 @@
+{
+    "font_id": "parisienne",
+    "font_family": "Parisienne",
+    "font_css_file": "parisienne.css",
+    "font_license": "license\/parisienne.txt",
+    "font_css_class": "font-parisienne",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/parisienne-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

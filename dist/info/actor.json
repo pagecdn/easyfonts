@@ -1,0 +1,15 @@
+{
+    "font_id": "actor",
+    "font_family": "Actor",
+    "font_css_file": "actor.css",
+    "font_license": "license\/actor.txt",
+    "font_css_class": "font-actor",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/actor-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

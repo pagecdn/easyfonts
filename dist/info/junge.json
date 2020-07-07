@@ -1,0 +1,15 @@
+{
+    "font_id": "junge",
+    "font_family": "Junge",
+    "font_css_file": "junge.css",
+    "font_license": "license\/junge.txt",
+    "font_css_class": "font-junge",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/junge-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

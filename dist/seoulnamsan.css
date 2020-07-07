@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/seoulnamsan.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:seoulnamsan;font-weight:300;src:url(fonts/seoulnamsan-300.ttf)}
+@font-face{font-display:swap;font-family:seoulnamsan;font-weight:800;src:url(fonts/seoulnamsan-800.ttf)}
+@font-face{font-display:swap;font-family:seoulnamsan;font-weight:500;src:url(fonts/seoulnamsan-500.ttf)}
+@font-face{font-display:swap;font-family:seoulnamsan;font-weight:700;src:url(fonts/seoulnamsan-700.ttf)}
+
+
+.font-seoulnamsan{font-family:seoulnamsan}
+.w300{font-weight:300;font-style:normal}
+.w800{font-weight:800;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w700{font-weight:700;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "bubblegum-sans",
+    "font_family": "Bubblegum Sans",
+    "font_css_file": "bubblegum-sans.css",
+    "font_license": "license\/bubblegum-sans.txt",
+    "font_css_class": "font-bubblegum-sans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bubblegum-sans-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

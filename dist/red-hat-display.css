@@ -1,0 +1,22 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/red-hat-display.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'red hat display';font-style:italic;src:url(fonts/red-hat-display-400i.ttf)}
+@font-face{font-display:swap;font-family:'red hat display';font-style:italic;font-weight:500;src:url(fonts/red-hat-display-500i.ttf)}
+@font-face{font-display:swap;font-family:'red hat display';font-weight:900;src:url(fonts/red-hat-display-900.ttf)}
+@font-face{font-display:swap;font-family:'red hat display';font-weight:700;src:url(fonts/red-hat-display-700.ttf)}
+@font-face{font-display:swap;font-family:'red hat display';font-style:italic;font-weight:700;src:url(fonts/red-hat-display-700i.ttf)}
+@font-face{font-display:swap;font-family:'red hat display';font-style:italic;font-weight:900;src:url(fonts/red-hat-display-900i.ttf)}
+@font-face{font-display:swap;font-family:'red hat display';font-weight:500;src:url(fonts/red-hat-display-500.ttf)}
+@font-face{font-display:swap;font-family:'red hat display';src:url(fonts/red-hat-display-400.ttf)}
+
+
+.font-red-hat-display{font-family:'red hat display'}
+.w400i{font-weight:400;font-style:italic}
+.w500i{font-weight:500;font-style:italic}
+.w900{font-weight:900;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w900i{font-weight:900;font-style:italic}
+.w500{font-weight:500;font-style:normal}
+.w400{font-weight:400;font-style:normal}

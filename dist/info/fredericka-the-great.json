@@ -1,0 +1,15 @@
+{
+    "font_id": "fredericka-the-great",
+    "font_family": "Fredericka the Great",
+    "font_css_file": "fredericka-the-great.css",
+    "font_license": "license\/fredericka-the-great.txt",
+    "font_css_class": "font-fredericka-the-great",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fredericka-the-great-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

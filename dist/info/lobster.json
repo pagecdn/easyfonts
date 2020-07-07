@@ -1,0 +1,15 @@
+{
+    "font_id": "lobster",
+    "font_family": "Lobster",
+    "font_css_file": "lobster.css",
+    "font_license": "license\/lobster.txt",
+    "font_css_class": "font-lobster",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lobster-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "acme",
+    "font_family": "Acme",
+    "font_css_file": "acme.css",
+    "font_license": "license\/acme.txt",
+    "font_css_class": "font-acme",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/acme-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

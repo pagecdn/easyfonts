@@ -1,0 +1,15 @@
+{
+    "font_id": "wire-one",
+    "font_family": "Wire One",
+    "font_css_file": "wire-one.css",
+    "font_license": "license\/wire-one.txt",
+    "font_css_class": "font-wire-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/wire-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

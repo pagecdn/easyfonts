@@ -1,0 +1,15 @@
+{
+    "font_id": "paprika",
+    "font_family": "Paprika",
+    "font_css_file": "paprika.css",
+    "font_license": "license\/paprika.txt",
+    "font_css_class": "font-paprika",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/paprika-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

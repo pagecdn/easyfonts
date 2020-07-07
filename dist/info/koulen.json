@@ -1,0 +1,15 @@
+{
+    "font_id": "koulen",
+    "font_family": "Koulen",
+    "font_css_file": "koulen.css",
+    "font_license": "license\/koulen.txt",
+    "font_css_class": "font-koulen",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/koulen-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

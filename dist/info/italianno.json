@@ -1,0 +1,15 @@
+{
+    "font_id": "italianno",
+    "font_family": "Italianno",
+    "font_css_file": "italianno.css",
+    "font_license": "license\/italianno.txt",
+    "font_css_class": "font-italianno",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/italianno-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

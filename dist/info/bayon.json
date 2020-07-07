@@ -1,0 +1,15 @@
+{
+    "font_id": "bayon",
+    "font_family": "Bayon",
+    "font_css_file": "bayon.css",
+    "font_license": "license\/bayon.txt",
+    "font_css_class": "font-bayon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bayon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

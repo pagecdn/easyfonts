@@ -1,0 +1,45 @@
+{
+    "font_id": "sansation",
+    "font_family": "Sansation",
+    "font_css_file": "sansation.css",
+    "font_license": "license\/sansation.txt",
+    "font_css_class": "font-sansation",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/sansation-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/sansation-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sansation-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/sansation-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/sansation-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/sansation-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

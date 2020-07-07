@@ -1,0 +1,15 @@
+{
+    "font_id": "dekko",
+    "font_family": "Dekko",
+    "font_css_file": "dekko.css",
+    "font_license": "license\/dekko.txt",
+    "font_css_class": "font-dekko",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dekko-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

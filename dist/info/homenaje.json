@@ -1,0 +1,15 @@
+{
+    "font_id": "homenaje",
+    "font_family": "Homenaje",
+    "font_css_file": "homenaje.css",
+    "font_license": "license\/homenaje.txt",
+    "font_css_class": "font-homenaje",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/homenaje-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "port-lligat-sans",
+    "font_family": "Port Lligat Sans",
+    "font_css_file": "port-lligat-sans.css",
+    "font_license": "license\/port-lligat-sans.txt",
+    "font_css_class": "font-port-lligat-sans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/port-lligat-sans-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "allura",
+    "font_family": "Allura",
+    "font_css_file": "allura.css",
+    "font_license": "license\/allura.txt",
+    "font_css_class": "font-allura",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/allura-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

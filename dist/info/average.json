@@ -1,0 +1,15 @@
+{
+    "font_id": "average",
+    "font_family": "Average",
+    "font_css_file": "average.css",
+    "font_license": "license\/average.txt",
+    "font_css_class": "font-average",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/average-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

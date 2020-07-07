@@ -1,0 +1,15 @@
+{
+    "font_id": "macondo-swash-caps",
+    "font_family": "Macondo Swash Caps",
+    "font_css_file": "macondo-swash-caps.css",
+    "font_license": "license\/macondo-swash-caps.txt",
+    "font_css_class": "font-macondo-swash-caps",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/macondo-swash-caps-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

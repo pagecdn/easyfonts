@@ -1,0 +1,15 @@
+{
+    "font_id": "miama",
+    "font_family": "Miama",
+    "font_css_file": "miama.css",
+    "font_license": "license\/miama.txt",
+    "font_css_class": "font-miama",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/miama-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

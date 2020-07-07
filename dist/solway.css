@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/solway.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:solway;font-weight:800;src:url(fonts/solway-800.ttf)}
+@font-face{font-display:swap;font-family:solway;src:url(fonts/solway-400.ttf)}
+@font-face{font-display:swap;font-family:solway;font-weight:300;src:url(fonts/solway-300.ttf)}
+@font-face{font-display:swap;font-family:solway;font-weight:500;src:url(fonts/solway-500.ttf)}
+@font-face{font-display:swap;font-family:solway;font-weight:700;src:url(fonts/solway-700.ttf)}
+
+
+.font-solway{font-family:solway}
+.w800{font-weight:800;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w700{font-weight:700;font-style:normal}

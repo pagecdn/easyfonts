@@ -1,0 +1,27 @@
+{
+    "font_id": "life-savers",
+    "font_family": "Life Savers",
+    "font_css_file": "life-savers.css",
+    "font_license": "license\/life-savers.txt",
+    "font_css_class": "font-life-savers",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/life-savers-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/life-savers-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/life-savers-800.ttf",
+            "css_class": "w800"
+        }
+    ]
+}

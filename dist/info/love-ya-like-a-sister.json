@@ -1,0 +1,15 @@
+{
+    "font_id": "love-ya-like-a-sister",
+    "font_family": "Love Ya Like A Sister",
+    "font_css_file": "love-ya-like-a-sister.css",
+    "font_license": "license\/love-ya-like-a-sister.txt",
+    "font_css_class": "font-love-ya-like-a-sister",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/love-ya-like-a-sister-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

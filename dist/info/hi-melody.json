@@ -1,0 +1,15 @@
+{
+    "font_id": "hi-melody",
+    "font_family": "Hi Melody",
+    "font_css_file": "hi-melody.css",
+    "font_license": "license\/hi-melody.txt",
+    "font_css_class": "font-hi-melody",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hi-melody-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

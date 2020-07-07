@@ -1,0 +1,15 @@
+{
+    "font_id": "mako",
+    "font_family": "Mako",
+    "font_css_file": "mako.css",
+    "font_license": "license\/mako.txt",
+    "font_css_class": "font-mako",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mako-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

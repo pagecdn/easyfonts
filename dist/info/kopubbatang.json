@@ -1,0 +1,27 @@
+{
+    "font_id": "kopubbatang",
+    "font_family": "kopubbatang",
+    "font_css_file": "kopubbatang.css",
+    "font_license": "license\/kopubbatang.txt",
+    "font_css_class": "font-kopubbatang",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/kopubbatang-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kopubbatang-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/kopubbatang-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

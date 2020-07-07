@@ -1,0 +1,15 @@
+{
+    "font_id": "rum-raisin",
+    "font_family": "Rum Raisin",
+    "font_css_file": "rum-raisin.css",
+    "font_license": "license\/rum-raisin.txt",
+    "font_css_class": "font-rum-raisin",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rum-raisin-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

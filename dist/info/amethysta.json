@@ -1,0 +1,15 @@
+{
+    "font_id": "amethysta",
+    "font_family": "Amethysta",
+    "font_css_file": "amethysta.css",
+    "font_license": "license\/amethysta.txt",
+    "font_css_class": "font-amethysta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/amethysta-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

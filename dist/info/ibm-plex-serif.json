@@ -1,0 +1,93 @@
+{
+    "font_id": "ibm-plex-serif",
+    "font_family": "IBM Plex Serif",
+    "font_css_file": "ibm-plex-serif.css",
+    "font_license": "license\/ibm-plex-serif.txt",
+    "font_css_class": "font-ibm-plex-serif",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/ibm-plex-serif-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "100",
+            "style": "italic",
+            "file": "fonts\/ibm-plex-serif-100i.ttf",
+            "css_class": "w100i"
+        },
+        {
+            "weight": "200",
+            "style": "regular",
+            "file": "fonts\/ibm-plex-serif-200.ttf",
+            "css_class": "w200"
+        },
+        {
+            "weight": "200",
+            "style": "italic",
+            "file": "fonts\/ibm-plex-serif-200i.ttf",
+            "css_class": "w200i"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/ibm-plex-serif-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/ibm-plex-serif-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ibm-plex-serif-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/ibm-plex-serif-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/ibm-plex-serif-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "500",
+            "style": "italic",
+            "file": "fonts\/ibm-plex-serif-500i.ttf",
+            "css_class": "w500i"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/ibm-plex-serif-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "600",
+            "style": "italic",
+            "file": "fonts\/ibm-plex-serif-600i.ttf",
+            "css_class": "w600i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/ibm-plex-serif-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/ibm-plex-serif-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

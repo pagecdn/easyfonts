@@ -1,0 +1,63 @@
+{
+    "font_id": "rokkitt",
+    "font_family": "Rokkitt",
+    "font_css_file": "rokkitt.css",
+    "font_license": "license\/rokkitt.txt",
+    "font_css_class": "font-rokkitt",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/rokkitt-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "200",
+            "style": "regular",
+            "file": "fonts\/rokkitt-200.ttf",
+            "css_class": "w200"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/rokkitt-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rokkitt-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/rokkitt-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/rokkitt-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/rokkitt-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/rokkitt-800.ttf",
+            "css_class": "w800"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/rokkitt-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

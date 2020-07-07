@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/delius.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:delius;src:url(fonts/delius-400.ttf)}
+
+
+.font-delius{font-family:delius}
+.w400{font-weight:400;font-style:normal}

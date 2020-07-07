@@ -1,0 +1,15 @@
+{
+    "font_id": "bigshot-one",
+    "font_family": "Bigshot One",
+    "font_css_file": "bigshot-one.css",
+    "font_license": "license\/bigshot-one.txt",
+    "font_css_class": "font-bigshot-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bigshot-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "cambo",
+    "font_family": "Cambo",
+    "font_css_file": "cambo.css",
+    "font_license": "license\/cambo.txt",
+    "font_css_class": "font-cambo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cambo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

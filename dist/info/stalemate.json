@@ -1,0 +1,15 @@
+{
+    "font_id": "stalemate",
+    "font_family": "Stalemate",
+    "font_css_file": "stalemate.css",
+    "font_license": "license\/stalemate.txt",
+    "font_css_class": "font-stalemate",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/stalemate-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

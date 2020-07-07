@@ -1,0 +1,15 @@
+{
+    "font_id": "poiret-one",
+    "font_family": "Poiret One",
+    "font_css_file": "poiret-one.css",
+    "font_license": "license\/poiret-one.txt",
+    "font_css_class": "font-poiret-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/poiret-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

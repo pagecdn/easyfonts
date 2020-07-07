@@ -1,0 +1,15 @@
+{
+    "font_id": "mallanna",
+    "font_family": "Mallanna",
+    "font_css_file": "mallanna.css",
+    "font_license": "license\/mallanna.txt",
+    "font_css_class": "font-mallanna",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mallanna-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

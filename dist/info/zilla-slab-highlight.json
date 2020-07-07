@@ -1,0 +1,21 @@
+{
+    "font_id": "zilla-slab-highlight",
+    "font_family": "Zilla Slab Highlight",
+    "font_css_file": "zilla-slab-highlight.css",
+    "font_license": "license\/zilla-slab-highlight.txt",
+    "font_css_class": "font-zilla-slab-highlight",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/zilla-slab-highlight-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/zilla-slab-highlight-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

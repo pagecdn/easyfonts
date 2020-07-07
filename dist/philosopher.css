@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/philosopher.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:philosopher;font-weight:700;src:url(fonts/philosopher-700.ttf)}
+@font-face{font-display:swap;font-family:philosopher;font-style:italic;src:url(fonts/philosopher-400i.ttf)}
+@font-face{font-display:swap;font-family:philosopher;font-style:italic;font-weight:700;src:url(fonts/philosopher-700i.ttf)}
+@font-face{font-display:swap;font-family:philosopher;src:url(fonts/philosopher-400.ttf)}
+
+
+.font-philosopher{font-family:philosopher}
+.w700{font-weight:700;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w400{font-weight:400;font-style:normal}

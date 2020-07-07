@@ -1,0 +1,26 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/roboto-mono.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'roboto mono';font-weight:700;src:url(fonts/roboto-mono-700.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';font-style:italic;font-weight:300;src:url(fonts/roboto-mono-300i.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';font-style:italic;src:url(fonts/roboto-mono-400i.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';font-style:italic;font-weight:100;src:url(fonts/roboto-mono-100i.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';font-weight:100;src:url(fonts/roboto-mono-100.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';font-style:italic;font-weight:700;src:url(fonts/roboto-mono-700i.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';font-style:italic;font-weight:500;src:url(fonts/roboto-mono-500i.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';font-weight:500;src:url(fonts/roboto-mono-500.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';src:url(fonts/roboto-mono-400.ttf)}
+@font-face{font-display:swap;font-family:'roboto mono';font-weight:300;src:url(fonts/roboto-mono-300.ttf)}
+
+
+.font-roboto-mono{font-family:'roboto mono'}
+.w700{font-weight:700;font-style:normal}
+.w300i{font-weight:300;font-style:italic}
+.w400i{font-weight:400;font-style:italic}
+.w100i{font-weight:100;font-style:italic}
+.w100{font-weight:100;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w500i{font-weight:500;font-style:italic}
+.w500{font-weight:500;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w300{font-weight:300;font-style:normal}

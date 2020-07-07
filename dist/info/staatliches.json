@@ -1,0 +1,15 @@
+{
+    "font_id": "staatliches",
+    "font_family": "Staatliches",
+    "font_css_file": "staatliches.css",
+    "font_license": "license\/staatliches.txt",
+    "font_css_class": "font-staatliches",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/staatliches-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

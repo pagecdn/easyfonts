@@ -1,0 +1,15 @@
+{
+    "font_id": "dokdo",
+    "font_family": "Dokdo",
+    "font_css_file": "dokdo.css",
+    "font_license": "license\/dokdo.txt",
+    "font_css_class": "font-dokdo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dokdo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

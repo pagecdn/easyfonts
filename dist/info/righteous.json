@@ -1,0 +1,15 @@
+{
+    "font_id": "righteous",
+    "font_family": "Righteous",
+    "font_css_file": "righteous.css",
+    "font_license": "license\/righteous.txt",
+    "font_css_class": "font-righteous",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/righteous-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

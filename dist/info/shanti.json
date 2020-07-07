@@ -1,0 +1,15 @@
+{
+    "font_id": "shanti",
+    "font_family": "Shanti",
+    "font_css_file": "shanti.css",
+    "font_license": "license\/shanti.txt",
+    "font_css_class": "font-shanti",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/shanti-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "the-girl-next-door",
+    "font_family": "The Girl Next Door",
+    "font_css_file": "the-girl-next-door.css",
+    "font_license": "license\/the-girl-next-door.txt",
+    "font_css_class": "font-the-girl-next-door",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/the-girl-next-door-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "press-start-2p",
+    "font_family": "Press Start 2P",
+    "font_css_file": "press-start-2p.css",
+    "font_license": "license\/press-start-2p.txt",
+    "font_css_class": "font-press-start-2p",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/press-start-2p-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/sunflower.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:sunflower;font-weight:700;src:url(fonts/sunflower-700.ttf)}
+@font-face{font-display:swap;font-family:sunflower;font-weight:500;src:url(fonts/sunflower-500.ttf)}
+@font-face{font-display:swap;font-family:sunflower;font-weight:300;src:url(fonts/sunflower-300.ttf)}
+
+
+.font-sunflower{font-family:sunflower}
+.w700{font-weight:700;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w300{font-weight:300;font-style:normal}

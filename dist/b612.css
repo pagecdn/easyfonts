@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/b612.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:b612;font-weight:700;src:url(fonts/b612-700.ttf)}
+@font-face{font-display:swap;font-family:b612;font-style:italic;src:url(fonts/b612-400i.ttf)}
+@font-face{font-display:swap;font-family:b612;font-style:italic;font-weight:700;src:url(fonts/b612-700i.ttf)}
+@font-face{font-display:swap;font-family:b612;src:url(fonts/b612-400.ttf)}
+
+
+.font-b612{font-family:b612}
+.w700{font-weight:700;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w400{font-weight:400;font-style:normal}

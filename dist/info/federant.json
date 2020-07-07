@@ -1,0 +1,15 @@
+{
+    "font_id": "federant",
+    "font_family": "Federant",
+    "font_css_file": "federant.css",
+    "font_license": "license\/federant.txt",
+    "font_css_class": "font-federant",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/federant-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

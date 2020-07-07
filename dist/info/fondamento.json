@@ -1,0 +1,21 @@
+{
+    "font_id": "fondamento",
+    "font_family": "Fondamento",
+    "font_css_file": "fondamento.css",
+    "font_license": "license\/fondamento.txt",
+    "font_css_class": "font-fondamento",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fondamento-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/fondamento-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

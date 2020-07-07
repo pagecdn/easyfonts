@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/changa-one.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'changa one';font-style:italic;src:url(fonts/changa-one-400i.ttf)}
+@font-face{font-display:swap;font-family:'changa one';src:url(fonts/changa-one-400.ttf)}
+
+
+.font-changa-one{font-family:'changa one'}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}

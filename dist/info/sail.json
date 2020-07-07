@@ -1,0 +1,15 @@
+{
+    "font_id": "sail",
+    "font_family": "Sail",
+    "font_css_file": "sail.css",
+    "font_license": "license\/sail.txt",
+    "font_css_class": "font-sail",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sail-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "days-one",
+    "font_family": "Days One",
+    "font_css_file": "days-one.css",
+    "font_license": "license\/days-one.txt",
+    "font_css_class": "font-days-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/days-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

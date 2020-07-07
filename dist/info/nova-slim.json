@@ -1,0 +1,15 @@
+{
+    "font_id": "nova-slim",
+    "font_family": "Nova Slim",
+    "font_css_file": "nova-slim.css",
+    "font_license": "license\/nova-slim.txt",
+    "font_css_class": "font-nova-slim",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nova-slim-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

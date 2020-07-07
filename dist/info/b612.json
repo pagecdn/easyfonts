@@ -1,0 +1,33 @@
+{
+    "font_id": "b612",
+    "font_family": "B612",
+    "font_css_file": "b612.css",
+    "font_license": "license\/b612.txt",
+    "font_css_class": "font-b612",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/b612-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/b612-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/b612-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/b612-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/antic-slab.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'antic slab';src:url(fonts/antic-slab-400.ttf)}
+
+
+.font-antic-slab{font-family:'antic slab'}
+.w400{font-weight:400;font-style:normal}

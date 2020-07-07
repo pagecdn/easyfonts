@@ -1,0 +1,15 @@
+{
+    "font_id": "krona-one",
+    "font_family": "Krona One",
+    "font_css_file": "krona-one.css",
+    "font_license": "license\/krona-one.txt",
+    "font_css_class": "font-krona-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/krona-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

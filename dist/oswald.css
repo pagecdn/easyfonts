@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/oswald.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:oswald;src:url(fonts/oswald-400.ttf)}
+
+
+.font-oswald{font-family:oswald}
+.w400{font-weight:400;font-style:normal}

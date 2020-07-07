@@ -1,0 +1,15 @@
+{
+    "font_id": "brawler",
+    "font_family": "Brawler",
+    "font_css_file": "brawler.css",
+    "font_license": "license\/brawler.txt",
+    "font_css_class": "font-brawler",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/brawler-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

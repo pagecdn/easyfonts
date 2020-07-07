@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/baumans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:baumans;src:url(fonts/baumans-400.ttf)}
+
+
+.font-baumans{font-family:baumans}
+.w400{font-weight:400;font-style:normal}

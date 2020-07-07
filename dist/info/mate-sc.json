@@ -1,0 +1,15 @@
+{
+    "font_id": "mate-sc",
+    "font_family": "Mate SC",
+    "font_css_file": "mate-sc.css",
+    "font_license": "license\/mate-sc.txt",
+    "font_css_class": "font-mate-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mate-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

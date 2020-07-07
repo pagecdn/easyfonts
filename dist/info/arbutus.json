@@ -1,0 +1,15 @@
+{
+    "font_id": "arbutus",
+    "font_family": "Arbutus",
+    "font_css_file": "arbutus.css",
+    "font_license": "license\/arbutus.txt",
+    "font_css_class": "font-arbutus",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/arbutus-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

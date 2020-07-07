@@ -1,0 +1,15 @@
+{
+    "font_id": "pirata-one",
+    "font_family": "Pirata One",
+    "font_css_file": "pirata-one.css",
+    "font_license": "license\/pirata-one.txt",
+    "font_css_class": "font-pirata-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pirata-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

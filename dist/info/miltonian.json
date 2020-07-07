@@ -1,0 +1,15 @@
+{
+    "font_id": "miltonian",
+    "font_family": "Miltonian",
+    "font_css_file": "miltonian.css",
+    "font_license": "license\/miltonian.txt",
+    "font_css_class": "font-miltonian",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/miltonian-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

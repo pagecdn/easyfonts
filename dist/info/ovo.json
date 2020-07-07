@@ -1,0 +1,15 @@
+{
+    "font_id": "ovo",
+    "font_family": "Ovo",
+    "font_css_file": "ovo.css",
+    "font_license": "license\/ovo.txt",
+    "font_css_class": "font-ovo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ovo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

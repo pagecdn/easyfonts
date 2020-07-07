@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/marmelad.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:marmelad;src:url(fonts/marmelad-400.ttf)}
+
+
+.font-marmelad{font-family:marmelad}
+.w400{font-weight:400;font-style:normal}

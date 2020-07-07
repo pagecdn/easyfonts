@@ -1,0 +1,15 @@
+{
+    "font_id": "original-surfer",
+    "font_family": "Original Surfer",
+    "font_css_file": "original-surfer.css",
+    "font_license": "license\/original-surfer.txt",
+    "font_css_class": "font-original-surfer",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/original-surfer-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

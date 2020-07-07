@@ -1,0 +1,15 @@
+{
+    "font_id": "bellefair",
+    "font_family": "Bellefair",
+    "font_css_file": "bellefair.css",
+    "font_license": "license\/bellefair.txt",
+    "font_css_class": "font-bellefair",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bellefair-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "barrio",
+    "font_family": "Barrio",
+    "font_css_file": "barrio.css",
+    "font_license": "license\/barrio.txt",
+    "font_css_class": "font-barrio",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/barrio-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

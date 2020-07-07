@@ -1,0 +1,15 @@
+{
+    "font_id": "jacques-francois-shadow",
+    "font_family": "Jacques Francois Shadow",
+    "font_css_file": "jacques-francois-shadow.css",
+    "font_license": "license\/jacques-francois-shadow.txt",
+    "font_css_class": "font-jacques-francois-shadow",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jacques-francois-shadow-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

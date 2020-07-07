@@ -1,0 +1,15 @@
+{
+    "font_id": "unifrakturcook",
+    "font_family": "UnifrakturCook",
+    "font_css_file": "unifrakturcook.css",
+    "font_license": "license\/unifrakturcook.txt",
+    "font_css_class": "font-unifrakturcook",
+    "font_variants": [
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/unifrakturcook-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

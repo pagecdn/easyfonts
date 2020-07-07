@@ -1,0 +1,51 @@
+{
+    "font_id": "darker-grotesque",
+    "font_family": "Darker Grotesque",
+    "font_css_file": "darker-grotesque.css",
+    "font_license": "license\/darker-grotesque.txt",
+    "font_css_class": "font-darker-grotesque",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/darker-grotesque-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/darker-grotesque-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/darker-grotesque-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/darker-grotesque-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/darker-grotesque-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/darker-grotesque-800.ttf",
+            "css_class": "w800"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/darker-grotesque-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

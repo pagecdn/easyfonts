@@ -1,0 +1,15 @@
+{
+    "font_id": "londrina-shadow",
+    "font_family": "Londrina Shadow",
+    "font_css_file": "londrina-shadow.css",
+    "font_license": "license\/londrina-shadow.txt",
+    "font_css_class": "font-londrina-shadow",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/londrina-shadow-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

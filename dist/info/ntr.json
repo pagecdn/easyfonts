@@ -1,0 +1,15 @@
+{
+    "font_id": "ntr",
+    "font_family": "NTR",
+    "font_css_file": "ntr.css",
+    "font_license": "license\/ntr.txt",
+    "font_css_class": "font-ntr",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ntr-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

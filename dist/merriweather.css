@@ -1,0 +1,22 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/merriweather.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:merriweather;font-style:italic;font-weight:300;src:url(fonts/merriweather-300i.ttf)}
+@font-face{font-display:swap;font-family:merriweather;font-weight:300;src:url(fonts/merriweather-300.ttf)}
+@font-face{font-display:swap;font-family:merriweather;font-style:italic;font-weight:900;src:url(fonts/merriweather-900i.ttf)}
+@font-face{font-display:swap;font-family:merriweather;src:url(fonts/merriweather-400.ttf)}
+@font-face{font-display:swap;font-family:merriweather;font-style:italic;src:url(fonts/merriweather-400i.ttf)}
+@font-face{font-display:swap;font-family:merriweather;font-style:italic;font-weight:700;src:url(fonts/merriweather-700i.ttf)}
+@font-face{font-display:swap;font-family:merriweather;font-weight:700;src:url(fonts/merriweather-700.ttf)}
+@font-face{font-display:swap;font-family:merriweather;font-weight:900;src:url(fonts/merriweather-900.ttf)}
+
+
+.font-merriweather{font-family:merriweather}
+.w300i{font-weight:300;font-style:italic}
+.w300{font-weight:300;font-style:normal}
+.w900i{font-weight:900;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w900{font-weight:900;font-style:normal}

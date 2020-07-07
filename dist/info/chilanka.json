@@ -1,0 +1,15 @@
+{
+    "font_id": "chilanka",
+    "font_family": "Chilanka",
+    "font_css_file": "chilanka.css",
+    "font_license": "license\/chilanka.txt",
+    "font_css_class": "font-chilanka",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chilanka-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

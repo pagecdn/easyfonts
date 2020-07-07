@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/redacted-script.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'redacted script';src:url(fonts/redacted-script-400.ttf)}
+@font-face{font-display:swap;font-family:'redacted script';font-weight:700;src:url(fonts/redacted-script-700.ttf)}
+
+
+.font-redacted-script{font-family:'redacted script'}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

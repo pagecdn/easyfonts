@@ -1,0 +1,15 @@
+{
+    "font_id": "michroma",
+    "font_family": "Michroma",
+    "font_css_file": "michroma.css",
+    "font_license": "license\/michroma.txt",
+    "font_css_class": "font-michroma",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/michroma-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

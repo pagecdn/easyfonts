@@ -1,0 +1,15 @@
+{
+    "font_id": "aubrey",
+    "font_family": "Aubrey",
+    "font_css_file": "aubrey.css",
+    "font_license": "license\/aubrey.txt",
+    "font_css_class": "font-aubrey",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/aubrey-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

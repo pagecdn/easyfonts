@@ -1,0 +1,15 @@
+{
+    "font_id": "mervale-script",
+    "font_family": "Mervale Script",
+    "font_css_file": "mervale-script.css",
+    "font_license": "license\/mervale-script.txt",
+    "font_css_class": "font-mervale-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mervale-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

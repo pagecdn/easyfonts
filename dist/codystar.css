@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/codystar.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:codystar;src:url(fonts/codystar-400.ttf)}
+@font-face{font-display:swap;font-family:codystar;font-weight:300;src:url(fonts/codystar-300.ttf)}
+
+
+.font-codystar{font-family:codystar}
+.w400{font-weight:400;font-style:normal}
+.w300{font-weight:300;font-style:normal}

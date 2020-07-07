@@ -1,0 +1,15 @@
+{
+    "font_id": "nothing-you-could-do",
+    "font_family": "Nothing You Could Do",
+    "font_css_file": "nothing-you-could-do.css",
+    "font_license": "license\/nothing-you-could-do.txt",
+    "font_css_class": "font-nothing-you-could-do",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nothing-you-could-do-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

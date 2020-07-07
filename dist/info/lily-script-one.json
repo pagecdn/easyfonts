@@ -1,0 +1,15 @@
+{
+    "font_id": "lily-script-one",
+    "font_family": "Lily Script One",
+    "font_css_file": "lily-script-one.css",
+    "font_license": "license\/lily-script-one.txt",
+    "font_css_class": "font-lily-script-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lily-script-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

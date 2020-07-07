@@ -1,0 +1,15 @@
+{
+    "font_id": "audiowide",
+    "font_family": "Audiowide",
+    "font_css_file": "audiowide.css",
+    "font_license": "license\/audiowide.txt",
+    "font_css_class": "font-audiowide",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/audiowide-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

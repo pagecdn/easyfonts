@@ -1,0 +1,15 @@
+{
+    "font_id": "niconne",
+    "font_family": "Niconne",
+    "font_css_file": "niconne.css",
+    "font_license": "license\/niconne.txt",
+    "font_css_class": "font-niconne",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/niconne-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

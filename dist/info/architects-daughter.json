@@ -1,0 +1,15 @@
+{
+    "font_id": "architects-daughter",
+    "font_family": "Architects Daughter",
+    "font_css_file": "architects-daughter.css",
+    "font_license": "license\/architects-daughter.txt",
+    "font_css_class": "font-architects-daughter",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/architects-daughter-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "amarante",
+    "font_family": "Amarante",
+    "font_css_file": "amarante.css",
+    "font_license": "license\/amarante.txt",
+    "font_css_class": "font-amarante",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/amarante-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

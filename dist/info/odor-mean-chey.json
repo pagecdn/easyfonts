@@ -1,0 +1,15 @@
+{
+    "font_id": "odor-mean-chey",
+    "font_family": "Odor Mean Chey",
+    "font_css_file": "odor-mean-chey.css",
+    "font_license": "license\/odor-mean-chey.txt",
+    "font_css_class": "font-odor-mean-chey",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/odor-mean-chey-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

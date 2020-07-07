@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/give-you-glory.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'give you glory';src:url(fonts/give-you-glory-400.ttf)}
+
+
+.font-give-you-glory{font-family:'give you glory'}
+.w400{font-weight:400;font-style:normal}

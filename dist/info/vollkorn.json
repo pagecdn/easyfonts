@@ -1,0 +1,21 @@
+{
+    "font_id": "vollkorn",
+    "font_family": "Vollkorn",
+    "font_css_file": "vollkorn.css",
+    "font_license": "license\/vollkorn.txt",
+    "font_css_class": "font-vollkorn",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/vollkorn-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/vollkorn-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

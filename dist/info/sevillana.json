@@ -1,0 +1,15 @@
+{
+    "font_id": "sevillana",
+    "font_family": "Sevillana",
+    "font_css_file": "sevillana.css",
+    "font_license": "license\/sevillana.txt",
+    "font_css_class": "font-sevillana",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sevillana-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

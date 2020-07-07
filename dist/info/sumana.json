@@ -1,0 +1,21 @@
+{
+    "font_id": "sumana",
+    "font_family": "Sumana",
+    "font_css_file": "sumana.css",
+    "font_license": "license\/sumana.txt",
+    "font_css_class": "font-sumana",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sumana-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/sumana-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

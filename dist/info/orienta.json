@@ -1,0 +1,15 @@
+{
+    "font_id": "orienta",
+    "font_family": "Orienta",
+    "font_css_file": "orienta.css",
+    "font_license": "license\/orienta.txt",
+    "font_css_class": "font-orienta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/orienta-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "hanalei-fill",
+    "font_family": "Hanalei Fill",
+    "font_css_file": "hanalei-fill.css",
+    "font_license": "license\/hanalei-fill.txt",
+    "font_css_class": "font-hanalei-fill",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hanalei-fill-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

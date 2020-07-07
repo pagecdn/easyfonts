@@ -1,0 +1,15 @@
+{
+    "font_id": "gravitas-one",
+    "font_family": "Gravitas One",
+    "font_css_file": "gravitas-one.css",
+    "font_license": "license\/gravitas-one.txt",
+    "font_css_class": "font-gravitas-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gravitas-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

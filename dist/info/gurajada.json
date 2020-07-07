@@ -1,0 +1,15 @@
+{
+    "font_id": "gurajada",
+    "font_family": "Gurajada",
+    "font_css_file": "gurajada.css",
+    "font_license": "license\/gurajada.txt",
+    "font_css_class": "font-gurajada",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gurajada-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

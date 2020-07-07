@@ -1,0 +1,15 @@
+{
+    "font_id": "marmelad",
+    "font_family": "Marmelad",
+    "font_css_file": "marmelad.css",
+    "font_license": "license\/marmelad.txt",
+    "font_css_class": "font-marmelad",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/marmelad-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

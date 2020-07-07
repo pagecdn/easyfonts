@@ -1,0 +1,27 @@
+{
+    "font_id": "kantumruy",
+    "font_family": "Kantumruy",
+    "font_css_file": "kantumruy.css",
+    "font_license": "license\/kantumruy.txt",
+    "font_css_class": "font-kantumruy",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/kantumruy-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kantumruy-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/kantumruy-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

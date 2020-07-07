@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/sree-krushnadevaraya.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'sree krushnadevaraya';src:url(fonts/sree-krushnadevaraya-400.ttf)}
+
+
+.font-sree-krushnadevaraya{font-family:'sree krushnadevaraya'}
+.w400{font-weight:400;font-style:normal}

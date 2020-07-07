@@ -1,0 +1,15 @@
+{
+    "font_id": "artifika",
+    "font_family": "Artifika",
+    "font_css_file": "artifika.css",
+    "font_license": "license\/artifika.txt",
+    "font_css_class": "font-artifika",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/artifika-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

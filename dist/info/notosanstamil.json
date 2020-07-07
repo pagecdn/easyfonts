@@ -1,0 +1,21 @@
+{
+    "font_id": "notosanstamil",
+    "font_family": "notosanstamil",
+    "font_css_file": "notosanstamil.css",
+    "font_license": "license\/notosanstamil.txt",
+    "font_css_class": "font-notosanstamil",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/notosanstamil-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/notosanstamil-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

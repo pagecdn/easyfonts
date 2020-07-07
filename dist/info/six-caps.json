@@ -1,0 +1,15 @@
+{
+    "font_id": "six-caps",
+    "font_family": "Six Caps",
+    "font_css_file": "six-caps.css",
+    "font_license": "license\/six-caps.txt",
+    "font_css_class": "font-six-caps",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/six-caps-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

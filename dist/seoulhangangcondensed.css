@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/seoulhangangcondensed.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:seoulhangangcondensed;src:url(fonts/seoulhangangcondensed.ttf)}
+@font-face{font-display:swap;font-family:seoulhangangcondensed;font-weight:500;src:url(fonts/seoulhangangcondensed-500.ttf)}
+@font-face{font-display:swap;font-family:seoulhangangcondensed;font-weight:700;src:url(fonts/seoulhangangcondensed-700.ttf)}
+@font-face{font-display:swap;font-family:seoulhangangcondensed;font-weight:800;src:url(fonts/seoulhangangcondensed-800.ttf)}
+@font-face{font-display:swap;font-family:seoulhangangcondensed;font-weight:300;src:url(fonts/seoulhangangcondensed-300.ttf)}
+
+
+.font-seoulhangangcondensed{font-family:seoulhangangcondensed}
+.w400{font-weight:400;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w800{font-weight:800;font-style:normal}
+.w300{font-weight:300;font-style:normal}

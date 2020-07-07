@@ -1,0 +1,15 @@
+{
+    "font_id": "jejumyeongjo",
+    "font_family": "jejumyeongjo",
+    "font_css_file": "jejumyeongjo.css",
+    "font_license": "license\/jejumyeongjo.txt",
+    "font_css_class": "font-jejumyeongjo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jejumyeongjo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

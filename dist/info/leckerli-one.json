@@ -1,0 +1,15 @@
+{
+    "font_id": "leckerli-one",
+    "font_family": "Leckerli One",
+    "font_css_file": "leckerli-one.css",
+    "font_license": "license\/leckerli-one.txt",
+    "font_css_class": "font-leckerli-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/leckerli-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

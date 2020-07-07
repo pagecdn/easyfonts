@@ -1,0 +1,15 @@
+{
+    "font_id": "fascinate",
+    "font_family": "Fascinate",
+    "font_css_file": "fascinate.css",
+    "font_license": "license\/fascinate.txt",
+    "font_css_class": "font-fascinate",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fascinate-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "lovers-quarrel",
+    "font_family": "Lovers Quarrel",
+    "font_css_file": "lovers-quarrel.css",
+    "font_license": "license\/lovers-quarrel.txt",
+    "font_css_class": "font-lovers-quarrel",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lovers-quarrel-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

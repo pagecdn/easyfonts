@@ -1,0 +1,15 @@
+{
+    "font_id": "federo",
+    "font_family": "Federo",
+    "font_css_file": "federo.css",
+    "font_license": "license\/federo.txt",
+    "font_css_class": "font-federo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/federo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/amatic-sc.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'amatic sc';src:url(fonts/amatic-sc-400.ttf)}
+@font-face{font-display:swap;font-family:'amatic sc';font-weight:700;src:url(fonts/amatic-sc-700.ttf)}
+
+
+.font-amatic-sc{font-family:'amatic sc'}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

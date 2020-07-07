@@ -1,0 +1,15 @@
+{
+    "font_id": "fugaz-one",
+    "font_family": "Fugaz One",
+    "font_css_file": "fugaz-one.css",
+    "font_license": "license\/fugaz-one.txt",
+    "font_css_class": "font-fugaz-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fugaz-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

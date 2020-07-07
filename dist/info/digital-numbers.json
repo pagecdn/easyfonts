@@ -1,0 +1,15 @@
+{
+    "font_id": "digital-numbers",
+    "font_family": "Digital Numbers",
+    "font_css_file": "digital-numbers.css",
+    "font_license": "license\/digital-numbers.txt",
+    "font_css_class": "font-digital-numbers",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/digital-numbers-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

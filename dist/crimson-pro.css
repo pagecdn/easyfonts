@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/crimson-pro.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'crimson pro';font-style:italic;font-weight:200;src:url(fonts/crimson-pro-200i.ttf)}
+@font-face{font-display:swap;font-family:'crimson pro';font-weight:200;src:url(fonts/crimson-pro-200.ttf)}
+
+
+.font-crimson-pro{font-family:'crimson pro'}
+.w200i{font-weight:200;font-style:italic}
+.w200{font-weight:200;font-style:normal}

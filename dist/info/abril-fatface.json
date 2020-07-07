@@ -1,0 +1,15 @@
+{
+    "font_id": "abril-fatface",
+    "font_family": "Abril Fatface",
+    "font_css_file": "abril-fatface.css",
+    "font_license": "license\/abril-fatface.txt",
+    "font_css_class": "font-abril-fatface",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/abril-fatface-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

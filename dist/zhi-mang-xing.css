@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/zhi-mang-xing.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'zhi mang xing';src:url(fonts/zhi-mang-xing-400.ttf)}
+
+
+.font-zhi-mang-xing{font-family:'zhi mang xing'}
+.w400{font-weight:400;font-style:normal}

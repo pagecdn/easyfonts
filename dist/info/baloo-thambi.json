@@ -1,0 +1,15 @@
+{
+    "font_id": "baloo-thambi",
+    "font_family": "Baloo Thambi",
+    "font_css_file": "baloo-thambi.css",
+    "font_license": "license\/baloo-thambi.txt",
+    "font_css_class": "font-baloo-thambi",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/baloo-thambi-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

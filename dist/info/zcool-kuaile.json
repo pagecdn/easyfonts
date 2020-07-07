@@ -1,0 +1,15 @@
+{
+    "font_id": "zcool-kuaile",
+    "font_family": "ZCOOL KuaiLe",
+    "font_css_file": "zcool-kuaile.css",
+    "font_license": "license\/zcool-kuaile.txt",
+    "font_css_class": "font-zcool-kuaile",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/zcool-kuaile-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

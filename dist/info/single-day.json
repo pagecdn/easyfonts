@@ -1,0 +1,15 @@
+{
+    "font_id": "single-day",
+    "font_family": "Single Day",
+    "font_css_file": "single-day.css",
+    "font_license": "license\/single-day.txt",
+    "font_css_class": "font-single-day",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/single-day-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

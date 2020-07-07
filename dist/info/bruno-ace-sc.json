@@ -1,0 +1,15 @@
+{
+    "font_id": "bruno-ace-sc",
+    "font_family": "Bruno Ace SC",
+    "font_css_file": "bruno-ace-sc.css",
+    "font_license": "license\/bruno-ace-sc.txt",
+    "font_css_class": "font-bruno-ace-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bruno-ace-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "mrs-sheppards",
+    "font_family": "Mrs Sheppards",
+    "font_css_file": "mrs-sheppards.css",
+    "font_license": "license\/mrs-sheppards.txt",
+    "font_css_class": "font-mrs-sheppards",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mrs-sheppards-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

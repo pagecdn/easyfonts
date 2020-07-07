@@ -1,0 +1,15 @@
+{
+    "font_id": "kdam-thmor",
+    "font_family": "Kdam Thmor",
+    "font_css_file": "kdam-thmor.css",
+    "font_license": "license\/kdam-thmor.txt",
+    "font_css_class": "font-kdam-thmor",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kdam-thmor-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

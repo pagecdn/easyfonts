@@ -1,1 +1,1 @@
-# easy-fonts
+# Easy Fonts

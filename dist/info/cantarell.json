@@ -1,0 +1,33 @@
+{
+    "font_id": "cantarell",
+    "font_family": "Cantarell",
+    "font_css_file": "cantarell.css",
+    "font_license": "license\/cantarell.txt",
+    "font_css_class": "font-cantarell",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cantarell-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/cantarell-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/cantarell-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/cantarell-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

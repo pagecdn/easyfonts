@@ -1,0 +1,15 @@
+{
+    "font_id": "basic",
+    "font_family": "Basic",
+    "font_css_file": "basic.css",
+    "font_license": "license\/basic.txt",
+    "font_css_class": "font-basic",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/basic-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

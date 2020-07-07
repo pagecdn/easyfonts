@@ -1,0 +1,15 @@
+{
+    "font_id": "barriecito",
+    "font_family": "Barriecito",
+    "font_css_file": "barriecito.css",
+    "font_license": "license\/barriecito.txt",
+    "font_css_class": "font-barriecito",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/barriecito-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

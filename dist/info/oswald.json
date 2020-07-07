@@ -1,0 +1,15 @@
+{
+    "font_id": "oswald",
+    "font_family": "Oswald",
+    "font_css_file": "oswald.css",
+    "font_license": "license\/oswald.txt",
+    "font_css_class": "font-oswald",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/oswald-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

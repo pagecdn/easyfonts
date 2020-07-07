@@ -1,0 +1,15 @@
+{
+    "font_id": "loved-by-the-king",
+    "font_family": "Loved by the King",
+    "font_css_file": "loved-by-the-king.css",
+    "font_license": "license\/loved-by-the-king.txt",
+    "font_css_class": "font-loved-by-the-king",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/loved-by-the-king-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

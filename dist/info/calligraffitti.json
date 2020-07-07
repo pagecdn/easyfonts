@@ -1,0 +1,15 @@
+{
+    "font_id": "calligraffitti",
+    "font_family": "Calligraffitti",
+    "font_css_file": "calligraffitti.css",
+    "font_license": "license\/calligraffitti.txt",
+    "font_css_class": "font-calligraffitti",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/calligraffitti-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

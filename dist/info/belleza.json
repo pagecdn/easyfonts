@@ -1,0 +1,15 @@
+{
+    "font_id": "belleza",
+    "font_family": "Belleza",
+    "font_css_file": "belleza.css",
+    "font_license": "license\/belleza.txt",
+    "font_css_class": "font-belleza",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/belleza-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

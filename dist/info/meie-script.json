@@ -1,0 +1,15 @@
+{
+    "font_id": "meie-script",
+    "font_family": "Meie Script",
+    "font_css_file": "meie-script.css",
+    "font_license": "license\/meie-script.txt",
+    "font_css_class": "font-meie-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/meie-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

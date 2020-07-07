@@ -1,0 +1,21 @@
+{
+    "font_id": "fanwood-text",
+    "font_family": "Fanwood Text",
+    "font_css_file": "fanwood-text.css",
+    "font_license": "license\/fanwood-text.txt",
+    "font_css_class": "font-fanwood-text",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fanwood-text-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/fanwood-text-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

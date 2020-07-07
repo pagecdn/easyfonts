@@ -1,0 +1,15 @@
+{
+    "font_id": "sedan-sc",
+    "font_family": "Sedan SC",
+    "font_css_file": "sedan-sc.css",
+    "font_license": "license\/sedan-sc.txt",
+    "font_css_class": "font-sedan-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sedan-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

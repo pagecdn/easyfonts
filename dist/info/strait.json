@@ -1,0 +1,15 @@
+{
+    "font_id": "strait",
+    "font_family": "Strait",
+    "font_css_file": "strait.css",
+    "font_license": "license\/strait.txt",
+    "font_css_class": "font-strait",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/strait-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

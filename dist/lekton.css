@@ -1,0 +1,12 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/lekton.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:lekton;font-style:italic;src:url(fonts/lekton-400i.ttf)}
+@font-face{font-display:swap;font-family:lekton;src:url(fonts/lekton-400.ttf)}
+@font-face{font-display:swap;font-family:lekton;font-weight:700;src:url(fonts/lekton-700.ttf)}
+
+
+.font-lekton{font-family:lekton}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

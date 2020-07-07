@@ -1,0 +1,21 @@
+{
+    "font_id": "pt-sans-caption",
+    "font_family": "PT Sans Caption",
+    "font_css_file": "pt-sans-caption.css",
+    "font_license": "license\/pt-sans-caption.txt",
+    "font_css_class": "font-pt-sans-caption",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pt-sans-caption-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/pt-sans-caption-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

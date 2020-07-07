@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/andada-sc.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'andada sc';src:url(fonts/andada-sc-400.ttf)}
+@font-face{font-display:swap;font-family:'andada sc';font-style:italic;src:url(fonts/andada-sc-400i.ttf)}
+@font-face{font-display:swap;font-family:'andada sc';font-style:italic;font-weight:700;src:url(fonts/andada-sc-700i.ttf)}
+@font-face{font-display:swap;font-family:'andada sc';font-weight:700;src:url(fonts/andada-sc-700.ttf)}
+
+
+.font-andada-sc{font-family:'andada sc'}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w700{font-weight:700;font-style:normal}

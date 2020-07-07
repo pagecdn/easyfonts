@@ -1,0 +1,15 @@
+{
+    "font_id": "clicker-script",
+    "font_family": "Clicker Script",
+    "font_css_file": "clicker-script.css",
+    "font_license": "license\/clicker-script.txt",
+    "font_css_class": "font-clicker-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/clicker-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

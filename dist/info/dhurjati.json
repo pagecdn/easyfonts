@@ -1,0 +1,15 @@
+{
+    "font_id": "dhurjati",
+    "font_family": "Dhurjati",
+    "font_css_file": "dhurjati.css",
+    "font_license": "license\/dhurjati.txt",
+    "font_css_class": "font-dhurjati",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dhurjati-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

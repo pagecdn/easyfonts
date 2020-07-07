@@ -1,0 +1,15 @@
+{
+    "font_id": "kite-one",
+    "font_family": "Kite One",
+    "font_css_file": "kite-one.css",
+    "font_license": "license\/kite-one.txt",
+    "font_css_class": "font-kite-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kite-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

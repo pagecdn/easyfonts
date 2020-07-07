@@ -1,0 +1,15 @@
+{
+    "font_id": "bree-serif",
+    "font_family": "Bree Serif",
+    "font_css_file": "bree-serif.css",
+    "font_license": "license\/bree-serif.txt",
+    "font_css_class": "font-bree-serif",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bree-serif-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

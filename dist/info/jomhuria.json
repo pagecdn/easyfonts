@@ -1,0 +1,15 @@
+{
+    "font_id": "jomhuria",
+    "font_family": "Jomhuria",
+    "font_css_file": "jomhuria.css",
+    "font_license": "license\/jomhuria.txt",
+    "font_css_class": "font-jomhuria",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jomhuria-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

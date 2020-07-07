@@ -1,0 +1,21 @@
+{
+    "font_id": "karla-tamil-upright",
+    "font_family": "Karla Tamil Upright",
+    "font_css_file": "karla-tamil-upright.css",
+    "font_license": "license\/karla-tamil-upright.txt",
+    "font_css_class": "font-karla-tamil-upright",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/karla-tamil-upright-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/karla-tamil-upright-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

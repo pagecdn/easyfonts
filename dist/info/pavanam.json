@@ -1,0 +1,15 @@
+{
+    "font_id": "pavanam",
+    "font_family": "Pavanam",
+    "font_css_file": "pavanam.css",
+    "font_license": "license\/pavanam.txt",
+    "font_css_class": "font-pavanam",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pavanam-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

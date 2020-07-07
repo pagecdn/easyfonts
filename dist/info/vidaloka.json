@@ -1,0 +1,15 @@
+{
+    "font_id": "vidaloka",
+    "font_family": "Vidaloka",
+    "font_css_file": "vidaloka.css",
+    "font_license": "license\/vidaloka.txt",
+    "font_css_class": "font-vidaloka",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/vidaloka-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "galada",
+    "font_family": "Galada",
+    "font_css_file": "galada.css",
+    "font_license": "license\/galada.txt",
+    "font_css_class": "font-galada",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/galada-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "font_id": "encode-sans",
+    "font_family": "Encode Sans",
+    "font_css_file": "encode-sans.css",
+    "font_license": "license\/encode-sans.txt",
+    "font_css_class": "font-encode-sans",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/encode-sans-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "200",
+            "style": "regular",
+            "file": "fonts\/encode-sans-200.ttf",
+            "css_class": "w200"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/encode-sans-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/encode-sans-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/encode-sans-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/encode-sans-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/encode-sans-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/encode-sans-800.ttf",
+            "css_class": "w800"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/encode-sans-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

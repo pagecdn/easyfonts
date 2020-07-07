@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/sedan.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:sedan;font-style:italic;src:url(fonts/sedan-400i.ttf)}
+@font-face{font-display:swap;font-family:sedan;src:url(fonts/sedan-400.ttf)}
+
+
+.font-sedan{font-family:sedan}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "poor-story",
+    "font_family": "Poor Story",
+    "font_css_file": "poor-story.css",
+    "font_license": "license\/poor-story.txt",
+    "font_css_class": "font-poor-story",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/poor-story-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

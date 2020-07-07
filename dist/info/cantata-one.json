@@ -1,0 +1,15 @@
+{
+    "font_id": "cantata-one",
+    "font_family": "Cantata One",
+    "font_css_file": "cantata-one.css",
+    "font_license": "license\/cantata-one.txt",
+    "font_css_class": "font-cantata-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cantata-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

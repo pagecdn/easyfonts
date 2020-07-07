@@ -1,0 +1,15 @@
+{
+    "font_id": "sirin-stencil",
+    "font_family": "Sirin Stencil",
+    "font_css_file": "sirin-stencil.css",
+    "font_license": "license\/sirin-stencil.txt",
+    "font_css_class": "font-sirin-stencil",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sirin-stencil-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

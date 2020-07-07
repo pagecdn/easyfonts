@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/trykker.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:trykker;src:url(fonts/trykker-400.ttf)}
+
+
+.font-trykker{font-family:trykker}
+.w400{font-weight:400;font-style:normal}

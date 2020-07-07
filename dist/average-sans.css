@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/average-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'average sans';src:url(fonts/average-sans-400.ttf)}
+
+
+.font-average-sans{font-family:'average sans'}
+.w400{font-weight:400;font-style:normal}

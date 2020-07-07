@@ -1,0 +1,15 @@
+{
+    "font_id": "black-and-white-picture",
+    "font_family": "Black And White Picture",
+    "font_css_file": "black-and-white-picture.css",
+    "font_license": "license\/black-and-white-picture.txt",
+    "font_css_class": "font-black-and-white-picture",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/black-and-white-picture-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

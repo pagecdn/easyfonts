@@ -1,0 +1,15 @@
+{
+    "font_id": "iceberg",
+    "font_family": "Iceberg",
+    "font_css_file": "iceberg.css",
+    "font_license": "license\/iceberg.txt",
+    "font_css_class": "font-iceberg",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/iceberg-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

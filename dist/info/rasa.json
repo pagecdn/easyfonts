@@ -1,0 +1,39 @@
+{
+    "font_id": "rasa",
+    "font_family": "Rasa",
+    "font_css_file": "rasa.css",
+    "font_license": "license\/rasa.txt",
+    "font_css_class": "font-rasa",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/rasa-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rasa-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/rasa-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/rasa-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/rasa-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

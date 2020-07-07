@@ -1,0 +1,21 @@
+{
+    "font_id": "magra",
+    "font_family": "Magra",
+    "font_css_file": "magra.css",
+    "font_license": "license\/magra.txt",
+    "font_css_class": "font-magra",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/magra-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/magra-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

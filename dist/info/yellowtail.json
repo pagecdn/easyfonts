@@ -1,0 +1,15 @@
+{
+    "font_id": "yellowtail",
+    "font_family": "Yellowtail",
+    "font_css_file": "yellowtail.css",
+    "font_license": "license\/yellowtail.txt",
+    "font_css_class": "font-yellowtail",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/yellowtail-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "font_id": "oleo-script-swash-caps",
+    "font_family": "Oleo Script Swash Caps",
+    "font_css_file": "oleo-script-swash-caps.css",
+    "font_license": "license\/oleo-script-swash-caps.txt",
+    "font_css_class": "font-oleo-script-swash-caps",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/oleo-script-swash-caps-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/oleo-script-swash-caps-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

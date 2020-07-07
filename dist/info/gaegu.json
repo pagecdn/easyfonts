@@ -1,0 +1,27 @@
+{
+    "font_id": "gaegu",
+    "font_family": "Gaegu",
+    "font_css_file": "gaegu.css",
+    "font_license": "license\/gaegu.txt",
+    "font_css_class": "font-gaegu",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/gaegu-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gaegu-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/gaegu-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

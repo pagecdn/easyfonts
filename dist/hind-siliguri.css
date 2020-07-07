@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/hind-siliguri.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'hind siliguri';font-weight:700;src:url(fonts/hind-siliguri-700.ttf)}
+@font-face{font-display:swap;font-family:'hind siliguri';font-weight:300;src:url(fonts/hind-siliguri-300.ttf)}
+@font-face{font-display:swap;font-family:'hind siliguri';font-weight:500;src:url(fonts/hind-siliguri-500.ttf)}
+@font-face{font-display:swap;font-family:'hind siliguri';src:url(fonts/hind-siliguri-400.ttf)}
+@font-face{font-display:swap;font-family:'hind siliguri';font-weight:600;src:url(fonts/hind-siliguri-600.ttf)}
+
+
+.font-hind-siliguri{font-family:'hind siliguri'}
+.w700{font-weight:700;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w600{font-weight:600;font-style:normal}

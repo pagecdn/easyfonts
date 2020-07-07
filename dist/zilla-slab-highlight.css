@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/zilla-slab-highlight.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'zilla slab highlight';font-weight:700;src:url(fonts/zilla-slab-highlight-700.ttf)}
+@font-face{font-display:swap;font-family:'zilla slab highlight';src:url(fonts/zilla-slab-highlight-400.ttf)}
+
+
+.font-zilla-slab-highlight{font-family:'zilla slab highlight'}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

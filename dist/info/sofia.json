@@ -1,0 +1,15 @@
+{
+    "font_id": "sofia",
+    "font_family": "Sofia",
+    "font_css_file": "sofia.css",
+    "font_license": "license\/sofia.txt",
+    "font_css_class": "font-sofia",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sofia-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "coiny",
+    "font_family": "Coiny",
+    "font_css_file": "coiny.css",
+    "font_license": "license\/coiny.txt",
+    "font_css_class": "font-coiny",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/coiny-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

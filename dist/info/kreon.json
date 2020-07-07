@@ -1,0 +1,27 @@
+{
+    "font_id": "kreon",
+    "font_family": "Kreon",
+    "font_css_file": "kreon.css",
+    "font_license": "license\/kreon.txt",
+    "font_css_class": "font-kreon",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/kreon-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kreon-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/kreon-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

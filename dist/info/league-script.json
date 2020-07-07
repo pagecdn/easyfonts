@@ -1,0 +1,15 @@
+{
+    "font_id": "league-script",
+    "font_family": "League Script",
+    "font_css_file": "league-script.css",
+    "font_license": "license\/league-script.txt",
+    "font_css_class": "font-league-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/league-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

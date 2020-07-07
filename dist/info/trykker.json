@@ -1,0 +1,15 @@
+{
+    "font_id": "trykker",
+    "font_family": "Trykker",
+    "font_css_file": "trykker.css",
+    "font_license": "license\/trykker.txt",
+    "font_css_class": "font-trykker",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/trykker-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

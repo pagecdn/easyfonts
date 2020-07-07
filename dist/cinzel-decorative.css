@@ -1,0 +1,12 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/cinzel-decorative.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'cinzel decorative';font-weight:900;src:url(fonts/cinzel-decorative-900.ttf)}
+@font-face{font-display:swap;font-family:'cinzel decorative';src:url(fonts/cinzel-decorative-400.ttf)}
+@font-face{font-display:swap;font-family:'cinzel decorative';font-weight:700;src:url(fonts/cinzel-decorative-700.ttf)}
+
+
+.font-cinzel-decorative{font-family:'cinzel decorative'}
+.w900{font-weight:900;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "condiment",
+    "font_family": "Condiment",
+    "font_css_file": "condiment.css",
+    "font_license": "license\/condiment.txt",
+    "font_css_class": "font-condiment",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/condiment-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

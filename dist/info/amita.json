@@ -1,0 +1,21 @@
+{
+    "font_id": "amita",
+    "font_family": "Amita",
+    "font_css_file": "amita.css",
+    "font_license": "license\/amita.txt",
+    "font_css_class": "font-amita",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/amita-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/amita-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

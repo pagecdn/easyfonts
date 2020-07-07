@@ -1,0 +1,15 @@
+{
+    "font_id": "megrim",
+    "font_family": "Megrim",
+    "font_css_file": "megrim.css",
+    "font_license": "license\/megrim.txt",
+    "font_css_class": "font-megrim",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/megrim-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

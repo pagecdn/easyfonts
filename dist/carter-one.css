@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/carter-one.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'carter one';src:url(fonts/carter-one-400.ttf)}
+
+
+.font-carter-one{font-family:'carter one'}
+.w400{font-weight:400;font-style:normal}

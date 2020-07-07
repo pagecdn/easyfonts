@@ -1,0 +1,15 @@
+{
+    "font_id": "kokoro",
+    "font_family": "kokoro",
+    "font_css_file": "kokoro.css",
+    "font_license": "license\/kokoro.txt",
+    "font_css_class": "font-kokoro",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kokoro-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

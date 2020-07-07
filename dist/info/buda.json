@@ -1,0 +1,15 @@
+{
+    "font_id": "buda",
+    "font_family": "Buda",
+    "font_css_file": "buda.css",
+    "font_license": "license\/buda.txt",
+    "font_css_class": "font-buda",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/buda-300.ttf",
+            "css_class": "w300"
+        }
+    ]
+}

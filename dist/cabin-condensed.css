@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/cabin-condensed.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'cabin condensed';font-weight:500;src:url(fonts/cabin-condensed-500.ttf)}
+@font-face{font-display:swap;font-family:'cabin condensed';src:url(fonts/cabin-condensed-400.ttf)}
+@font-face{font-display:swap;font-family:'cabin condensed';font-weight:700;src:url(fonts/cabin-condensed-700.ttf)}
+@font-face{font-display:swap;font-family:'cabin condensed';font-weight:600;src:url(fonts/cabin-condensed-600.ttf)}
+
+
+.font-cabin-condensed{font-family:'cabin condensed'}
+.w500{font-weight:500;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w600{font-weight:600;font-style:normal}

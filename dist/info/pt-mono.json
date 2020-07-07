@@ -1,0 +1,15 @@
+{
+    "font_id": "pt-mono",
+    "font_family": "PT Mono",
+    "font_css_file": "pt-mono.css",
+    "font_license": "license\/pt-mono.txt",
+    "font_css_class": "font-pt-mono",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pt-mono-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

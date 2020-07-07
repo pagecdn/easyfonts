@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/sintony.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:sintony;src:url(fonts/sintony-400.ttf)}
+@font-face{font-display:swap;font-family:sintony;font-weight:700;src:url(fonts/sintony-700.ttf)}
+
+
+.font-sintony{font-family:sintony}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

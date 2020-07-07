@@ -1,0 +1,15 @@
+{
+    "font_id": "zhimangxing",
+    "font_family": "ZhiMangXing",
+    "font_css_file": "zhimangxing.css",
+    "font_license": "license\/zhimangxing.txt",
+    "font_css_class": "font-zhimangxing",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/zhimangxing-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

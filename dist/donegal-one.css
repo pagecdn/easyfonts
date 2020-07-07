@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/donegal-one.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'donegal one';src:url(fonts/donegal-one-400.ttf)}
+
+
+.font-donegal-one{font-family:'donegal one'}
+.w400{font-weight:400;font-style:normal}

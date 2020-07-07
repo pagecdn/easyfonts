@@ -1,0 +1,15 @@
+{
+    "font_id": "nixie-one",
+    "font_family": "Nixie One",
+    "font_css_file": "nixie-one.css",
+    "font_license": "license\/nixie-one.txt",
+    "font_css_class": "font-nixie-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nixie-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

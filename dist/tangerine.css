@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/tangerine.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:tangerine;font-weight:700;src:url(fonts/tangerine-700.ttf)}
+@font-face{font-display:swap;font-family:tangerine;src:url(fonts/tangerine-400.ttf)}
+
+
+.font-tangerine{font-family:tangerine}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

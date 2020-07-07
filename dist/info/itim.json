@@ -1,0 +1,15 @@
+{
+    "font_id": "itim",
+    "font_family": "Itim",
+    "font_css_file": "itim.css",
+    "font_license": "license\/itim.txt",
+    "font_css_class": "font-itim",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/itim-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

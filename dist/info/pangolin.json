@@ -1,0 +1,15 @@
+{
+    "font_id": "pangolin",
+    "font_family": "Pangolin",
+    "font_css_file": "pangolin.css",
+    "font_license": "license\/pangolin.txt",
+    "font_css_class": "font-pangolin",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pangolin-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

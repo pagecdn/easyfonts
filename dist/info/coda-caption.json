@@ -1,0 +1,15 @@
+{
+    "font_id": "coda-caption",
+    "font_family": "Coda Caption",
+    "font_css_file": "coda-caption.css",
+    "font_license": "license\/coda-caption.txt",
+    "font_css_class": "font-coda-caption",
+    "font_variants": [
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/coda-caption-800.ttf",
+            "css_class": "w800"
+        }
+    ]
+}

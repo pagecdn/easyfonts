@@ -1,0 +1,15 @@
+{
+    "font_id": "ruthie",
+    "font_family": "Ruthie",
+    "font_css_file": "ruthie.css",
+    "font_license": "license\/ruthie.txt",
+    "font_css_class": "font-ruthie",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ruthie-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

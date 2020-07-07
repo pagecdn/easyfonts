@@ -1,0 +1,21 @@
+{
+    "font_id": "sahitya",
+    "font_family": "Sahitya",
+    "font_css_file": "sahitya.css",
+    "font_license": "license\/sahitya.txt",
+    "font_css_class": "font-sahitya",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sahitya-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/sahitya-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

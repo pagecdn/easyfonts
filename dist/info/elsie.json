@@ -1,0 +1,21 @@
+{
+    "font_id": "elsie",
+    "font_family": "Elsie",
+    "font_css_file": "elsie.css",
+    "font_license": "license\/elsie.txt",
+    "font_css_class": "font-elsie",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/elsie-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/elsie-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

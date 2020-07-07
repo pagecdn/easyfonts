@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/b612-mono.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'b612 mono';src:url(fonts/b612-mono-400.ttf)}
+@font-face{font-display:swap;font-family:'b612 mono';font-weight:700;src:url(fonts/b612-mono-700.ttf)}
+@font-face{font-display:swap;font-family:'b612 mono';font-style:italic;font-weight:700;src:url(fonts/b612-mono-700i.ttf)}
+@font-face{font-display:swap;font-family:'b612 mono';font-style:italic;src:url(fonts/b612-mono-400i.ttf)}
+
+
+.font-b612-mono{font-family:'b612 mono'}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w400i{font-weight:400;font-style:italic}

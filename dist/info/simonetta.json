@@ -1,0 +1,33 @@
+{
+    "font_id": "simonetta",
+    "font_family": "Simonetta",
+    "font_css_file": "simonetta.css",
+    "font_license": "license\/simonetta.txt",
+    "font_css_class": "font-simonetta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/simonetta-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/simonetta-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/simonetta-900.ttf",
+            "css_class": "w900"
+        },
+        {
+            "weight": "900",
+            "style": "italic",
+            "file": "fonts\/simonetta-900i.ttf",
+            "css_class": "w900i"
+        }
+    ]
+}

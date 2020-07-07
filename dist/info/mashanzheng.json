@@ -1,0 +1,15 @@
+{
+    "font_id": "mashanzheng",
+    "font_family": "MaShanZheng",
+    "font_css_file": "mashanzheng.css",
+    "font_license": "license\/mashanzheng.txt",
+    "font_css_class": "font-mashanzheng",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mashanzheng-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

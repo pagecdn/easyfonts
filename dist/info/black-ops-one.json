@@ -1,0 +1,15 @@
+{
+    "font_id": "black-ops-one",
+    "font_family": "Black Ops One",
+    "font_css_file": "black-ops-one.css",
+    "font_license": "license\/black-ops-one.txt",
+    "font_css_class": "font-black-ops-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/black-ops-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

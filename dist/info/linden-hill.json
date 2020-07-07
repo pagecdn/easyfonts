@@ -1,0 +1,21 @@
+{
+    "font_id": "linden-hill",
+    "font_family": "Linden Hill",
+    "font_css_file": "linden-hill.css",
+    "font_license": "license\/linden-hill.txt",
+    "font_css_class": "font-linden-hill",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/linden-hill-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/linden-hill-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

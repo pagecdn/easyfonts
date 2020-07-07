@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/chenla.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:chenla;src:url(fonts/chenla-400.ttf)}
+
+
+.font-chenla{font-family:chenla}
+.w400{font-weight:400;font-style:normal}

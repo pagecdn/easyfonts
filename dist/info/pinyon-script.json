@@ -1,0 +1,15 @@
+{
+    "font_id": "pinyon-script",
+    "font_family": "Pinyon Script",
+    "font_css_file": "pinyon-script.css",
+    "font_license": "license\/pinyon-script.txt",
+    "font_css_class": "font-pinyon-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pinyon-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

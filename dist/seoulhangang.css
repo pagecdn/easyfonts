@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/seoulhangang.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:seoulhangang;font-weight:700;src:url(fonts/seoulhangang-700.ttf)}
+@font-face{font-display:swap;font-family:seoulhangang;font-weight:300;src:url(fonts/seoulhangang-300.ttf)}
+@font-face{font-display:swap;font-family:seoulhangang;font-weight:500;src:url(fonts/seoulhangang-500.ttf)}
+@font-face{font-display:swap;font-family:seoulhangang;font-weight:800;src:url(fonts/seoulhangang-800.ttf)}
+
+
+.font-seoulhangang{font-family:seoulhangang}
+.w700{font-weight:700;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w800{font-weight:800;font-style:normal}

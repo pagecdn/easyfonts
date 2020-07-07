@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/nosifer.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:nosifer;src:url(fonts/nosifer-400.ttf)}
+
+
+.font-nosifer{font-family:nosifer}
+.w400{font-weight:400;font-style:normal}

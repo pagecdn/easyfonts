@@ -1,0 +1,15 @@
+{
+    "font_id": "podkovavfbeta",
+    "font_family": "podkovavfbeta",
+    "font_css_file": "podkovavfbeta.css",
+    "font_license": "license\/podkovavfbeta.txt",
+    "font_css_class": "font-podkovavfbeta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/podkovavfbeta-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

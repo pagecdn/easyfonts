@@ -1,0 +1,15 @@
+{
+    "font_id": "share-tech-mono",
+    "font_family": "Share Tech Mono",
+    "font_css_file": "share-tech-mono.css",
+    "font_license": "license\/share-tech-mono.txt",
+    "font_css_class": "font-share-tech-mono",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/share-tech-mono-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

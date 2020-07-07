@@ -1,0 +1,21 @@
+{
+    "font_id": "muli",
+    "font_family": "Muli",
+    "font_css_file": "muli.css",
+    "font_license": "license\/muli.txt",
+    "font_css_class": "font-muli",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/muli-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/muli-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

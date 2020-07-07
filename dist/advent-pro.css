@@ -1,0 +1,20 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/advent-pro.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'advent pro';font-weight:500;src:url(fonts/advent-pro-500.ttf)}
+@font-face{font-display:swap;font-family:'advent pro';font-weight:700;src:url(fonts/advent-pro-700.ttf)}
+@font-face{font-display:swap;font-family:'advent pro';font-weight:100;src:url(fonts/advent-pro-100.ttf)}
+@font-face{font-display:swap;font-family:'advent pro';font-weight:300;src:url(fonts/advent-pro-300.ttf)}
+@font-face{font-display:swap;font-family:'advent pro';font-weight:200;src:url(fonts/advent-pro-200.ttf)}
+@font-face{font-display:swap;font-family:'advent pro';font-weight:600;src:url(fonts/advent-pro-600.ttf)}
+@font-face{font-display:swap;font-family:'advent pro';src:url(fonts/advent-pro-400.ttf)}
+
+
+.font-advent-pro{font-family:'advent pro'}
+.w500{font-weight:500;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w100{font-weight:100;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w200{font-weight:200;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w400{font-weight:400;font-style:normal}

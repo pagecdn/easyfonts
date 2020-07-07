@@ -1,0 +1,15 @@
+{
+    "font_id": "stylish",
+    "font_family": "Stylish",
+    "font_css_file": "stylish.css",
+    "font_license": "license\/stylish.txt",
+    "font_css_class": "font-stylish",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/stylish-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

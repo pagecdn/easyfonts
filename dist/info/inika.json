@@ -1,0 +1,21 @@
+{
+    "font_id": "inika",
+    "font_family": "Inika",
+    "font_css_file": "inika.css",
+    "font_license": "license\/inika.txt",
+    "font_css_class": "font-inika",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/inika-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/inika-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

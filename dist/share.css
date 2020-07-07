@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/share.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:share;font-style:italic;src:url(fonts/share-400i.ttf)}
+@font-face{font-display:swap;font-family:share;font-weight:700;src:url(fonts/share-700.ttf)}
+@font-face{font-display:swap;font-family:share;font-style:italic;font-weight:700;src:url(fonts/share-700i.ttf)}
+@font-face{font-display:swap;font-family:share;src:url(fonts/share-400.ttf)}
+
+
+.font-share{font-family:share}
+.w400i{font-weight:400;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w400{font-weight:400;font-style:normal}

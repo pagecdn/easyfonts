@@ -1,0 +1,15 @@
+{
+    "font_id": "emilys-candy",
+    "font_family": "Emilys Candy",
+    "font_css_file": "emilys-candy.css",
+    "font_license": "license\/emilys-candy.txt",
+    "font_css_class": "font-emilys-candy",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/emilys-candy-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

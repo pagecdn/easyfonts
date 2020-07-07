@@ -1,0 +1,15 @@
+{
+    "font_id": "finger-paint",
+    "font_family": "Finger Paint",
+    "font_css_file": "finger-paint.css",
+    "font_license": "license\/finger-paint.txt",
+    "font_css_class": "font-finger-paint",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/finger-paint-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "walter-turncoat",
+    "font_family": "Walter Turncoat",
+    "font_css_file": "walter-turncoat.css",
+    "font_license": "license\/walter-turncoat.txt",
+    "font_css_class": "font-walter-turncoat",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/walter-turncoat-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

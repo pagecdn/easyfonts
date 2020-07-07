@@ -1,0 +1,15 @@
+{
+    "font_id": "tenor-sans",
+    "font_family": "Tenor Sans",
+    "font_css_file": "tenor-sans.css",
+    "font_license": "license\/tenor-sans.txt",
+    "font_css_class": "font-tenor-sans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/tenor-sans-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

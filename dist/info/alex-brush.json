@@ -1,0 +1,15 @@
+{
+    "font_id": "alex-brush",
+    "font_family": "Alex Brush",
+    "font_css_file": "alex-brush.css",
+    "font_license": "license\/alex-brush.txt",
+    "font_css_class": "font-alex-brush",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alex-brush-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

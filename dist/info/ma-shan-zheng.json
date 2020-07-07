@@ -1,0 +1,15 @@
+{
+    "font_id": "ma-shan-zheng",
+    "font_family": "Ma Shan Zheng",
+    "font_css_file": "ma-shan-zheng.css",
+    "font_license": "license\/ma-shan-zheng.txt",
+    "font_css_class": "font-ma-shan-zheng",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ma-shan-zheng-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

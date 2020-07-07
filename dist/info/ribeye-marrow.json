@@ -1,0 +1,15 @@
+{
+    "font_id": "ribeye-marrow",
+    "font_family": "Ribeye Marrow",
+    "font_css_file": "ribeye-marrow.css",
+    "font_license": "license\/ribeye-marrow.txt",
+    "font_css_class": "font-ribeye-marrow",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ribeye-marrow-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

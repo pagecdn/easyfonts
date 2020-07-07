@@ -1,0 +1,15 @@
+{
+    "font_id": "kenia",
+    "font_family": "Kenia",
+    "font_css_file": "kenia.css",
+    "font_license": "license\/kenia.txt",
+    "font_css_class": "font-kenia",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kenia-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

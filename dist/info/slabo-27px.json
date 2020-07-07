@@ -1,0 +1,15 @@
+{
+    "font_id": "slabo-27px",
+    "font_family": "Slabo 27px",
+    "font_css_file": "slabo-27px.css",
+    "font_license": "license\/slabo-27px.txt",
+    "font_css_class": "font-slabo-27px",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/slabo-27px-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

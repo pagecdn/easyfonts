@@ -1,0 +1,21 @@
+{
+    "font_id": "nokora",
+    "font_family": "Nokora",
+    "font_css_file": "nokora.css",
+    "font_license": "license\/nokora.txt",
+    "font_css_class": "font-nokora",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nokora-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/nokora-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

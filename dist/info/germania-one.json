@@ -1,0 +1,15 @@
+{
+    "font_id": "germania-one",
+    "font_family": "Germania One",
+    "font_css_file": "germania-one.css",
+    "font_license": "license\/germania-one.txt",
+    "font_css_class": "font-germania-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/germania-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

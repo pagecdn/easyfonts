@@ -1,0 +1,15 @@
+{
+    "font_id": "delius-swash-caps",
+    "font_family": "Delius Swash Caps",
+    "font_css_file": "delius-swash-caps.css",
+    "font_license": "license\/delius-swash-caps.txt",
+    "font_css_class": "font-delius-swash-caps",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/delius-swash-caps-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

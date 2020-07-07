@@ -1,0 +1,15 @@
+{
+    "font_id": "norican",
+    "font_family": "Norican",
+    "font_css_file": "norican.css",
+    "font_license": "license\/norican.txt",
+    "font_css_class": "font-norican",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/norican-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

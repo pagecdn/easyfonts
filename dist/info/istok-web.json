@@ -1,0 +1,33 @@
+{
+    "font_id": "istok-web",
+    "font_family": "Istok Web",
+    "font_css_file": "istok-web.css",
+    "font_license": "license\/istok-web.txt",
+    "font_css_class": "font-istok-web",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/istok-web-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/istok-web-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/istok-web-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/istok-web-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "sue-ellen-francisco",
+    "font_family": "Sue Ellen Francisco",
+    "font_css_file": "sue-ellen-francisco.css",
+    "font_license": "license\/sue-ellen-francisco.txt",
+    "font_css_class": "font-sue-ellen-francisco",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sue-ellen-francisco-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

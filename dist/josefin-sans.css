@@ -1,0 +1,26 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/josefin-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'josefin sans';src:url(fonts/josefin-sans-400.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-style:italic;src:url(fonts/josefin-sans-400i.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-weight:700;src:url(fonts/josefin-sans-700.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-weight:600;src:url(fonts/josefin-sans-600.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-weight:300;src:url(fonts/josefin-sans-300.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-style:italic;font-weight:700;src:url(fonts/josefin-sans-700i.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-style:italic;font-weight:600;src:url(fonts/josefin-sans-600i.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-weight:100;src:url(fonts/josefin-sans-100.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-style:italic;font-weight:100;src:url(fonts/josefin-sans-100i.ttf)}
+@font-face{font-display:swap;font-family:'josefin sans';font-style:italic;font-weight:300;src:url(fonts/josefin-sans-300i.ttf)}
+
+
+.font-josefin-sans{font-family:'josefin sans'}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w600i{font-weight:600;font-style:italic}
+.w100{font-weight:100;font-style:normal}
+.w100i{font-weight:100;font-style:italic}
+.w300i{font-weight:300;font-style:italic}

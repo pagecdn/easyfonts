@@ -1,0 +1,15 @@
+{
+    "font_id": "dawning-of-a-new-day",
+    "font_family": "Dawning of a New Day",
+    "font_css_file": "dawning-of-a-new-day.css",
+    "font_license": "license\/dawning-of-a-new-day.txt",
+    "font_css_class": "font-dawning-of-a-new-day",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dawning-of-a-new-day-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

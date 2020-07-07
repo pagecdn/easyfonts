@@ -1,0 +1,15 @@
+{
+    "font_id": "pontano-sans",
+    "font_family": "Pontano Sans",
+    "font_css_file": "pontano-sans.css",
+    "font_license": "license\/pontano-sans.txt",
+    "font_css_class": "font-pontano-sans",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pontano-sans-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

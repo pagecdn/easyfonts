@@ -1,0 +1,15 @@
+{
+    "font_id": "playball",
+    "font_family": "Playball",
+    "font_css_file": "playball.css",
+    "font_license": "license\/playball.txt",
+    "font_css_class": "font-playball",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/playball-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

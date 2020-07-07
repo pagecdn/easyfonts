@@ -1,0 +1,15 @@
+{
+    "font_id": "diplomata",
+    "font_family": "Diplomata",
+    "font_css_file": "diplomata.css",
+    "font_license": "license\/diplomata.txt",
+    "font_css_class": "font-diplomata",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/diplomata-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

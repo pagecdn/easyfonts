@@ -1,0 +1,15 @@
+{
+    "font_id": "autour-one",
+    "font_family": "Autour One",
+    "font_css_file": "autour-one.css",
+    "font_license": "license\/autour-one.txt",
+    "font_css_class": "font-autour-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/autour-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/yantramanav.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:yantramanav;src:url(fonts/yantramanav-400.ttf)}
+@font-face{font-display:swap;font-family:yantramanav;font-weight:300;src:url(fonts/yantramanav-300.ttf)}
+@font-face{font-display:swap;font-family:yantramanav;font-weight:500;src:url(fonts/yantramanav-500.ttf)}
+@font-face{font-display:swap;font-family:yantramanav;font-weight:900;src:url(fonts/yantramanav-900.ttf)}
+@font-face{font-display:swap;font-family:yantramanav;font-weight:100;src:url(fonts/yantramanav-100.ttf)}
+@font-face{font-display:swap;font-family:yantramanav;font-weight:700;src:url(fonts/yantramanav-700.ttf)}
+
+
+.font-yantramanav{font-family:yantramanav}
+.w400{font-weight:400;font-style:normal}
+.w300{font-weight:300;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w900{font-weight:900;font-style:normal}
+.w100{font-weight:100;font-style:normal}
+.w700{font-weight:700;font-style:normal}

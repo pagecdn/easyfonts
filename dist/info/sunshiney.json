@@ -1,0 +1,15 @@
+{
+    "font_id": "sunshiney",
+    "font_family": "Sunshiney",
+    "font_css_file": "sunshiney.css",
+    "font_license": "license\/sunshiney.txt",
+    "font_css_class": "font-sunshiney",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sunshiney-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

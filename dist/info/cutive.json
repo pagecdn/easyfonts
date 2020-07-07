@@ -1,0 +1,15 @@
+{
+    "font_id": "cutive",
+    "font_family": "Cutive",
+    "font_css_file": "cutive.css",
+    "font_license": "license\/cutive.txt",
+    "font_css_class": "font-cutive",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cutive-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

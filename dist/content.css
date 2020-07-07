@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/content.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:content;src:url(fonts/content-400.ttf)}
+@font-face{font-display:swap;font-family:content;font-weight:700;src:url(fonts/content-700.ttf)}
+
+
+.font-content{font-family:content}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

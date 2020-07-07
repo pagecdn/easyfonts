@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/glegoo.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:glegoo;src:url(fonts/glegoo-400.ttf)}
+@font-face{font-display:swap;font-family:glegoo;font-weight:700;src:url(fonts/glegoo-700.ttf)}
+
+
+.font-glegoo{font-family:glegoo}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

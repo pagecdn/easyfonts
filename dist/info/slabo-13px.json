@@ -1,0 +1,15 @@
+{
+    "font_id": "slabo-13px",
+    "font_family": "Slabo 13px",
+    "font_css_file": "slabo-13px.css",
+    "font_license": "license\/slabo-13px.txt",
+    "font_css_class": "font-slabo-13px",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/slabo-13px-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

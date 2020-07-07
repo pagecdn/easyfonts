@@ -1,0 +1,15 @@
+{
+    "font_id": "arizonia",
+    "font_family": "Arizonia",
+    "font_css_file": "arizonia.css",
+    "font_license": "license\/arizonia.txt",
+    "font_css_class": "font-arizonia",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/arizonia-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "cutive-mono",
+    "font_family": "Cutive Mono",
+    "font_css_file": "cutive-mono.css",
+    "font_license": "license\/cutive-mono.txt",
+    "font_css_class": "font-cutive-mono",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cutive-mono-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

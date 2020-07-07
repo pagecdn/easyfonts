@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/sahitya.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:sahitya;src:url(fonts/sahitya-400.ttf)}
+@font-face{font-display:swap;font-family:sahitya;font-weight:700;src:url(fonts/sahitya-700.ttf)}
+
+
+.font-sahitya{font-family:sahitya}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}

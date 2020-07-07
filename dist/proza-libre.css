@@ -1,0 +1,26 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/proza-libre.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'proza libre';font-weight:800;src:url(fonts/proza-libre-800.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';font-weight:500;src:url(fonts/proza-libre-500.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';font-style:italic;font-weight:800;src:url(fonts/proza-libre-800i.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';src:url(fonts/proza-libre-400.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';font-weight:600;src:url(fonts/proza-libre-600.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';font-style:italic;font-weight:700;src:url(fonts/proza-libre-700i.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';font-style:italic;font-weight:600;src:url(fonts/proza-libre-600i.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';font-weight:700;src:url(fonts/proza-libre-700.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';font-style:italic;src:url(fonts/proza-libre-400i.ttf)}
+@font-face{font-display:swap;font-family:'proza libre';font-style:italic;font-weight:500;src:url(fonts/proza-libre-500i.ttf)}
+
+
+.font-proza-libre{font-family:'proza libre'}
+.w800{font-weight:800;font-style:normal}
+.w500{font-weight:500;font-style:normal}
+.w800i{font-weight:800;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w600i{font-weight:600;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w500i{font-weight:500;font-style:italic}

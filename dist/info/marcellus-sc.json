@@ -1,0 +1,15 @@
+{
+    "font_id": "marcellus-sc",
+    "font_family": "Marcellus SC",
+    "font_css_file": "marcellus-sc.css",
+    "font_license": "license\/marcellus-sc.txt",
+    "font_css_class": "font-marcellus-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/marcellus-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

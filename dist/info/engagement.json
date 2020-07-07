@@ -1,0 +1,15 @@
+{
+    "font_id": "engagement",
+    "font_family": "Engagement",
+    "font_css_file": "engagement.css",
+    "font_license": "license\/engagement.txt",
+    "font_css_class": "font-engagement",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/engagement-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

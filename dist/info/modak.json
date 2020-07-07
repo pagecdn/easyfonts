@@ -1,0 +1,15 @@
+{
+    "font_id": "modak",
+    "font_family": "Modak",
+    "font_css_file": "modak.css",
+    "font_license": "license\/modak.txt",
+    "font_css_class": "font-modak",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/modak-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/clicker-script.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'clicker script';src:url(fonts/clicker-script-400.ttf)}
+
+
+.font-clicker-script{font-family:'clicker script'}
+.w400{font-weight:400;font-style:normal}

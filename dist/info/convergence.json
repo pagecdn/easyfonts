@@ -1,0 +1,15 @@
+{
+    "font_id": "convergence",
+    "font_family": "Convergence",
+    "font_css_file": "convergence.css",
+    "font_license": "license\/convergence.txt",
+    "font_css_class": "font-convergence",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/convergence-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

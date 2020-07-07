@@ -1,0 +1,15 @@
+{
+    "font_id": "siamreap",
+    "font_family": "Siamreap",
+    "font_css_file": "siamreap.css",
+    "font_license": "license\/siamreap.txt",
+    "font_css_class": "font-siamreap",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/siamreap-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

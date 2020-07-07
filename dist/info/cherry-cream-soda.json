@@ -1,0 +1,15 @@
+{
+    "font_id": "cherry-cream-soda",
+    "font_family": "Cherry Cream Soda",
+    "font_css_file": "cherry-cream-soda.css",
+    "font_license": "license\/cherry-cream-soda.txt",
+    "font_css_class": "font-cherry-cream-soda",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cherry-cream-soda-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

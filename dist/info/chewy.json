@@ -1,0 +1,15 @@
+{
+    "font_id": "chewy",
+    "font_family": "Chewy",
+    "font_css_file": "chewy.css",
+    "font_license": "license\/chewy.txt",
+    "font_css_class": "font-chewy",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chewy-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

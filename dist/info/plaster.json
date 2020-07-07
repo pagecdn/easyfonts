@@ -1,0 +1,15 @@
+{
+    "font_id": "plaster",
+    "font_family": "Plaster",
+    "font_css_file": "plaster.css",
+    "font_license": "license\/plaster.txt",
+    "font_css_class": "font-plaster",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/plaster-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

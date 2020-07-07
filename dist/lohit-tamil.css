@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/lohit-tamil.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'lohit tamil';src:url(fonts/lohit-tamil.ttf)}
+
+
+.font-lohit-tamil{font-family:'lohit tamil'}
+.w400{font-weight:400;font-style:normal}

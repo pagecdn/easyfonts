@@ -1,0 +1,15 @@
+{
+    "font_id": "piedra",
+    "font_family": "Piedra",
+    "font_css_file": "piedra.css",
+    "font_license": "license\/piedra.txt",
+    "font_css_class": "font-piedra",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/piedra-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

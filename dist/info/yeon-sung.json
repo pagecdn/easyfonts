@@ -1,0 +1,15 @@
+{
+    "font_id": "yeon-sung",
+    "font_family": "Yeon Sung",
+    "font_css_file": "yeon-sung.css",
+    "font_license": "license\/yeon-sung.txt",
+    "font_css_class": "font-yeon-sung",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/yeon-sung-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

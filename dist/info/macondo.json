@@ -1,0 +1,15 @@
+{
+    "font_id": "macondo",
+    "font_family": "Macondo",
+    "font_css_file": "macondo.css",
+    "font_license": "license\/macondo.txt",
+    "font_css_class": "font-macondo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/macondo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

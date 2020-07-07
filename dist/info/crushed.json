@@ -1,0 +1,15 @@
+{
+    "font_id": "crushed",
+    "font_family": "Crushed",
+    "font_css_file": "crushed.css",
+    "font_license": "license\/crushed.txt",
+    "font_css_class": "font-crushed",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/crushed-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "text-me-one",
+    "font_family": "Text Me One",
+    "font_css_file": "text-me-one.css",
+    "font_license": "license\/text-me-one.txt",
+    "font_css_class": "font-text-me-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/text-me-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "font_id": "monda",
+    "font_family": "Monda",
+    "font_css_file": "monda.css",
+    "font_license": "license\/monda.txt",
+    "font_css_class": "font-monda",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/monda-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/monda-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

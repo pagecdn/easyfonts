@@ -1,0 +1,15 @@
+{
+    "font_id": "seymour-one",
+    "font_family": "Seymour One",
+    "font_css_file": "seymour-one.css",
+    "font_license": "license\/seymour-one.txt",
+    "font_css_class": "font-seymour-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/seymour-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

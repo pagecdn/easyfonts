@@ -1,0 +1,15 @@
+{
+    "font_id": "baloo-tammudu",
+    "font_family": "Baloo Tammudu",
+    "font_css_file": "baloo-tammudu.css",
+    "font_license": "license\/baloo-tammudu.txt",
+    "font_css_class": "font-baloo-tammudu",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/baloo-tammudu-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

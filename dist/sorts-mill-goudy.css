@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/sorts-mill-goudy.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'sorts mill goudy';font-style:italic;src:url(fonts/sorts-mill-goudy-400i.ttf)}
+@font-face{font-display:swap;font-family:'sorts mill goudy';src:url(fonts/sorts-mill-goudy-400.ttf)}
+
+
+.font-sorts-mill-goudy{font-family:'sorts mill goudy'}
+.w400i{font-weight:400;font-style:italic}
+.w400{font-weight:400;font-style:normal}

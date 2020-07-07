@@ -1,0 +1,15 @@
+{
+    "font_id": "mr-bedfort",
+    "font_family": "Mr Bedfort",
+    "font_css_file": "mr-bedfort.css",
+    "font_license": "license\/mr-bedfort.txt",
+    "font_css_class": "font-mr-bedfort",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mr-bedfort-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

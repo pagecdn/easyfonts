@@ -1,0 +1,27 @@
+{
+    "font_id": "cinzel-decorative",
+    "font_family": "Cinzel Decorative",
+    "font_css_file": "cinzel-decorative.css",
+    "font_license": "license\/cinzel-decorative.txt",
+    "font_css_class": "font-cinzel-decorative",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cinzel-decorative-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/cinzel-decorative-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/cinzel-decorative-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "vampiro-one",
+    "font_family": "Vampiro One",
+    "font_css_file": "vampiro-one.css",
+    "font_license": "license\/vampiro-one.txt",
+    "font_css_class": "font-vampiro-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/vampiro-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

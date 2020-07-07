@@ -1,0 +1,15 @@
+{
+    "font_id": "new-rocker",
+    "font_family": "New Rocker",
+    "font_css_file": "new-rocker.css",
+    "font_license": "license\/new-rocker.txt",
+    "font_css_class": "font-new-rocker",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/new-rocker-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

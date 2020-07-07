@@ -1,0 +1,16 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/el-messiri.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'el messiri';font-weight:500;src:url(fonts/el-messiri-500.ttf)}
+@font-face{font-display:swap;font-family:'el messiri';src:url(fonts/el-messiri.ttf)}
+@font-face{font-display:swap;font-family:'el messiri';font-weight:700;src:url(fonts/el-messiri-700.ttf)}
+@font-face{font-display:swap;font-family:'el messiri';src:url(fonts/el-messiri-400.ttf)}
+@font-face{font-display:swap;font-family:'el messiri';font-weight:600;src:url(fonts/el-messiri-600.ttf)}
+
+
+.font-el-messiri{font-family:'el messiri'}
+.w500{font-weight:500;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}
+.w600{font-weight:600;font-style:normal}

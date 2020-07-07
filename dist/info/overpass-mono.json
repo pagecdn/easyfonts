@@ -1,0 +1,33 @@
+{
+    "font_id": "overpass-mono",
+    "font_family": "Overpass Mono",
+    "font_css_file": "overpass-mono.css",
+    "font_license": "license\/overpass-mono.txt",
+    "font_css_class": "font-overpass-mono",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/overpass-mono-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/overpass-mono-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/overpass-mono-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/overpass-mono-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

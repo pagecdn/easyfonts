@@ -1,0 +1,15 @@
+{
+    "font_id": "spicy-rice",
+    "font_family": "Spicy Rice",
+    "font_css_file": "spicy-rice.css",
+    "font_license": "license\/spicy-rice.txt",
+    "font_css_class": "font-spicy-rice",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/spicy-rice-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

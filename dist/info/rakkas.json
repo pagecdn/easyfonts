@@ -1,0 +1,15 @@
+{
+    "font_id": "rakkas",
+    "font_family": "Rakkas",
+    "font_css_file": "rakkas.css",
+    "font_license": "license\/rakkas.txt",
+    "font_css_class": "font-rakkas",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rakkas-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

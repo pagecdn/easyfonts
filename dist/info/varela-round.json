@@ -1,0 +1,15 @@
+{
+    "font_id": "varela-round",
+    "font_family": "Varela Round",
+    "font_css_file": "varela-round.css",
+    "font_license": "license\/varela-round.txt",
+    "font_css_class": "font-varela-round",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/varela-round-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

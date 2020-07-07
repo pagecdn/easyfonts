@@ -1,0 +1,15 @@
+{
+    "font_id": "allerta",
+    "font_family": "Allerta",
+    "font_css_file": "allerta.css",
+    "font_license": "license\/allerta.txt",
+    "font_css_class": "font-allerta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/allerta-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

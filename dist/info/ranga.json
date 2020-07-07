@@ -1,0 +1,21 @@
+{
+    "font_id": "ranga",
+    "font_family": "Ranga",
+    "font_css_file": "ranga.css",
+    "font_license": "license\/ranga.txt",
+    "font_css_class": "font-ranga",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ranga-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/ranga-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

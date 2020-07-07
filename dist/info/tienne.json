@@ -1,0 +1,27 @@
+{
+    "font_id": "tienne",
+    "font_family": "Tienne",
+    "font_css_file": "tienne.css",
+    "font_license": "license\/tienne.txt",
+    "font_css_class": "font-tienne",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/tienne-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/tienne-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/tienne-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

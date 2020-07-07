@@ -1,0 +1,15 @@
+{
+    "font_id": "myanmarsanspro",
+    "font_family": "myanmarsanspro",
+    "font_css_file": "myanmarsanspro.css",
+    "font_license": "license\/myanmarsanspro.txt",
+    "font_css_class": "font-myanmarsanspro",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/myanmarsanspro-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

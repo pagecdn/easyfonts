@@ -1,0 +1,15 @@
+{
+    "font_id": "anton",
+    "font_family": "Anton",
+    "font_css_file": "anton.css",
+    "font_license": "license\/anton.txt",
+    "font_css_class": "font-anton",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/anton-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

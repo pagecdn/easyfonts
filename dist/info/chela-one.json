@@ -1,0 +1,15 @@
+{
+    "font_id": "chela-one",
+    "font_family": "Chela One",
+    "font_css_file": "chela-one.css",
+    "font_license": "license\/chela-one.txt",
+    "font_css_class": "font-chela-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chela-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

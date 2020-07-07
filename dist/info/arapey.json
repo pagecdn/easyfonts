@@ -1,0 +1,21 @@
+{
+    "font_id": "arapey",
+    "font_family": "Arapey",
+    "font_css_file": "arapey.css",
+    "font_license": "license\/arapey.txt",
+    "font_css_class": "font-arapey",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/arapey-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/arapey-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

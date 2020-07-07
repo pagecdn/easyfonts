@@ -1,0 +1,15 @@
+{
+    "font_id": "fruktur",
+    "font_family": "Fruktur",
+    "font_css_file": "fruktur.css",
+    "font_license": "license\/fruktur.txt",
+    "font_css_class": "font-fruktur",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fruktur-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

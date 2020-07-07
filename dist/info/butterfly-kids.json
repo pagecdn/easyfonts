@@ -1,0 +1,15 @@
+{
+    "font_id": "butterfly-kids",
+    "font_family": "Butterfly Kids",
+    "font_css_file": "butterfly-kids.css",
+    "font_license": "license\/butterfly-kids.txt",
+    "font_css_class": "font-butterfly-kids",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/butterfly-kids-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

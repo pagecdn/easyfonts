@@ -1,0 +1,15 @@
+{
+    "font_id": "forum",
+    "font_family": "Forum",
+    "font_css_file": "forum.css",
+    "font_license": "license\/forum.txt",
+    "font_css_class": "font-forum",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/forum-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

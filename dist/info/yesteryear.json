@@ -1,0 +1,15 @@
+{
+    "font_id": "yesteryear",
+    "font_family": "Yesteryear",
+    "font_css_file": "yesteryear.css",
+    "font_license": "license\/yesteryear.txt",
+    "font_css_class": "font-yesteryear",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/yesteryear-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

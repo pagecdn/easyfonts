@@ -1,0 +1,15 @@
+{
+    "font_id": "carme",
+    "font_family": "Carme",
+    "font_css_file": "carme.css",
+    "font_license": "license\/carme.txt",
+    "font_css_class": "font-carme",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/carme-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

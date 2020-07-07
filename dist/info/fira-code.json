@@ -1,0 +1,15 @@
+{
+    "font_id": "fira-code",
+    "font_family": "Fira Code",
+    "font_css_file": "fira-code.css",
+    "font_license": "license\/fira-code.txt",
+    "font_css_class": "font-fira-code",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/fira-code-300.ttf",
+            "css_class": "w300"
+        }
+    ]
+}

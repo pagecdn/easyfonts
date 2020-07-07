@@ -1,0 +1,15 @@
+{
+    "font_id": "satisfy",
+    "font_family": "Satisfy",
+    "font_css_file": "satisfy.css",
+    "font_license": "license\/satisfy.txt",
+    "font_css_class": "font-satisfy",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/satisfy-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "jacques-francois",
+    "font_family": "Jacques Francois",
+    "font_css_file": "jacques-francois.css",
+    "font_license": "license\/jacques-francois.txt",
+    "font_css_class": "font-jacques-francois",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jacques-francois-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

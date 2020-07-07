@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/italiana.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:italiana;src:url(fonts/italiana-400.ttf)}
+
+
+.font-italiana{font-family:italiana}
+.w400{font-weight:400;font-style:normal}

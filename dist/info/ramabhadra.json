@@ -1,0 +1,15 @@
+{
+    "font_id": "ramabhadra",
+    "font_family": "Ramabhadra",
+    "font_css_file": "ramabhadra.css",
+    "font_license": "license\/ramabhadra.txt",
+    "font_css_class": "font-ramabhadra",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ramabhadra-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

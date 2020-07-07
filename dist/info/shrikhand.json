@@ -1,0 +1,15 @@
+{
+    "font_id": "shrikhand",
+    "font_family": "Shrikhand",
+    "font_css_file": "shrikhand.css",
+    "font_license": "license\/shrikhand.txt",
+    "font_css_class": "font-shrikhand",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/shrikhand-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

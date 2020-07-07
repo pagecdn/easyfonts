@@ -1,0 +1,15 @@
+{
+    "font_id": "fontdiner-swanky",
+    "font_family": "Fontdiner Swanky",
+    "font_css_file": "fontdiner-swanky.css",
+    "font_license": "license\/fontdiner-swanky.txt",
+    "font_css_class": "font-fontdiner-swanky",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fontdiner-swanky-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

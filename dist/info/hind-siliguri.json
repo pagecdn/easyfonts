@@ -1,0 +1,39 @@
+{
+    "font_id": "hind-siliguri",
+    "font_family": "Hind Siliguri",
+    "font_css_file": "hind-siliguri.css",
+    "font_license": "license\/hind-siliguri.txt",
+    "font_css_class": "font-hind-siliguri",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/hind-siliguri-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hind-siliguri-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/hind-siliguri-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/hind-siliguri-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/hind-siliguri-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

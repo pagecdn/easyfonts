@@ -1,0 +1,21 @@
+{
+    "font_id": "cabinvfbeta",
+    "font_family": "cabinvfbeta",
+    "font_css_file": "cabinvfbeta.css",
+    "font_license": "license\/cabinvfbeta.txt",
+    "font_css_class": "font-cabinvfbeta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cabinvfbeta-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/cabinvfbeta-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

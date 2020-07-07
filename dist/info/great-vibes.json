@@ -1,0 +1,15 @@
+{
+    "font_id": "great-vibes",
+    "font_family": "Great Vibes",
+    "font_css_file": "great-vibes.css",
+    "font_license": "license\/great-vibes.txt",
+    "font_css_class": "font-great-vibes",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/great-vibes-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

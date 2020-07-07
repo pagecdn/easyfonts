@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/aladin.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:aladin;src:url(fonts/aladin-400.ttf)}
+
+
+.font-aladin{font-family:aladin}
+.w400{font-weight:400;font-style:normal}

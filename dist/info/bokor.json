@@ -1,0 +1,15 @@
+{
+    "font_id": "bokor",
+    "font_family": "Bokor",
+    "font_css_file": "bokor.css",
+    "font_license": "license\/bokor.txt",
+    "font_css_class": "font-bokor",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bokor-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

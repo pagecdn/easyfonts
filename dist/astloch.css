@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/astloch.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:astloch;font-weight:700;src:url(fonts/astloch-700.ttf)}
+@font-face{font-display:swap;font-family:astloch;src:url(fonts/astloch-400.ttf)}
+
+
+.font-astloch{font-family:astloch}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

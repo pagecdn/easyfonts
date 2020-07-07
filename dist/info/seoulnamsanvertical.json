@@ -1,0 +1,15 @@
+{
+    "font_id": "seoulnamsanvertical",
+    "font_family": "seoulnamsanvertical",
+    "font_css_file": "seoulnamsanvertical.css",
+    "font_license": "license\/seoulnamsanvertical.txt",
+    "font_css_class": "font-seoulnamsanvertical",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/seoulnamsanvertical-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

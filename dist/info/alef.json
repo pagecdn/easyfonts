@@ -1,0 +1,21 @@
+{
+    "font_id": "alef",
+    "font_family": "Alef",
+    "font_css_file": "alef.css",
+    "font_license": "license\/alef.txt",
+    "font_css_class": "font-alef",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alef-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/alef-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

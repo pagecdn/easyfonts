@@ -1,0 +1,15 @@
+{
+    "font_id": "ultra",
+    "font_family": "Ultra",
+    "font_css_file": "ultra.css",
+    "font_license": "license\/ultra.txt",
+    "font_css_class": "font-ultra",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ultra-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

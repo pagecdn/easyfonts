@@ -1,0 +1,15 @@
+{
+    "font_id": "goblin-one",
+    "font_family": "Goblin One",
+    "font_css_file": "goblin-one.css",
+    "font_license": "license\/goblin-one.txt",
+    "font_css_class": "font-goblin-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/goblin-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

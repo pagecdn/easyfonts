@@ -1,0 +1,45 @@
+{
+    "font_id": "averia-sans-libre",
+    "font_family": "Averia Sans Libre",
+    "font_css_file": "averia-sans-libre.css",
+    "font_license": "license\/averia-sans-libre.txt",
+    "font_css_class": "font-averia-sans-libre",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/averia-sans-libre-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/averia-sans-libre-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/averia-sans-libre-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/averia-sans-libre-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/averia-sans-libre-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/averia-sans-libre-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

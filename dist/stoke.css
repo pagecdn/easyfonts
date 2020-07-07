@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/stoke.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:stoke;src:url(fonts/stoke-400.ttf)}
+@font-face{font-display:swap;font-family:stoke;font-weight:300;src:url(fonts/stoke-300.ttf)}
+
+
+.font-stoke{font-family:stoke}
+.w400{font-weight:400;font-style:normal}
+.w300{font-weight:300;font-style:normal}

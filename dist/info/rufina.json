@@ -1,0 +1,21 @@
+{
+    "font_id": "rufina",
+    "font_family": "Rufina",
+    "font_css_file": "rufina.css",
+    "font_license": "license\/rufina.txt",
+    "font_css_class": "font-rufina",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rufina-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/rufina-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

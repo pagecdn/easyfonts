@@ -1,0 +1,15 @@
+{
+    "font_id": "unifrakturmaguntia",
+    "font_family": "UnifrakturMaguntia",
+    "font_css_file": "unifrakturmaguntia.css",
+    "font_license": "license\/unifrakturmaguntia.txt",
+    "font_css_class": "font-unifrakturmaguntia",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/unifrakturmaguntia.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

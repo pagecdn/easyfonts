@@ -1,0 +1,15 @@
+{
+    "font_id": "chenla",
+    "font_family": "Chenla",
+    "font_css_file": "chenla.css",
+    "font_license": "license\/chenla.txt",
+    "font_css_class": "font-chenla",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chenla-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

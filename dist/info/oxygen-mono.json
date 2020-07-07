@@ -1,0 +1,15 @@
+{
+    "font_id": "oxygen-mono",
+    "font_family": "Oxygen Mono",
+    "font_css_file": "oxygen-mono.css",
+    "font_license": "license\/oxygen-mono.txt",
+    "font_css_class": "font-oxygen-mono",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/oxygen-mono-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

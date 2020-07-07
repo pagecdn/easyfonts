@@ -1,0 +1,69 @@
+{
+    "font_id": "josefin-sans",
+    "font_family": "Josefin Sans",
+    "font_css_file": "josefin-sans.css",
+    "font_license": "license\/josefin-sans.txt",
+    "font_css_class": "font-josefin-sans",
+    "font_variants": [
+        {
+            "weight": "100",
+            "style": "regular",
+            "file": "fonts\/josefin-sans-100.ttf",
+            "css_class": "w100"
+        },
+        {
+            "weight": "100",
+            "style": "italic",
+            "file": "fonts\/josefin-sans-100i.ttf",
+            "css_class": "w100i"
+        },
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/josefin-sans-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "300",
+            "style": "italic",
+            "file": "fonts\/josefin-sans-300i.ttf",
+            "css_class": "w300i"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/josefin-sans-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/josefin-sans-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/josefin-sans-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "600",
+            "style": "italic",
+            "file": "fonts\/josefin-sans-600i.ttf",
+            "css_class": "w600i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/josefin-sans-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/josefin-sans-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

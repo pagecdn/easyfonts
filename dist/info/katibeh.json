@@ -1,0 +1,15 @@
+{
+    "font_id": "katibeh",
+    "font_family": "Katibeh",
+    "font_css_file": "katibeh.css",
+    "font_license": "license\/katibeh.txt",
+    "font_css_class": "font-katibeh",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/katibeh-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

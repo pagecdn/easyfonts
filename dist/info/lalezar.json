@@ -1,0 +1,15 @@
+{
+    "font_id": "lalezar",
+    "font_family": "Lalezar",
+    "font_css_file": "lalezar.css",
+    "font_license": "license\/lalezar.txt",
+    "font_css_class": "font-lalezar",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lalezar-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

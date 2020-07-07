@@ -1,0 +1,15 @@
+{
+    "font_id": "nova-mono",
+    "font_family": "Nova Mono",
+    "font_css_file": "nova-mono.css",
+    "font_license": "license\/nova-mono.txt",
+    "font_css_class": "font-nova-mono",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nova-mono-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

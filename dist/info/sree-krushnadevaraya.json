@@ -1,0 +1,15 @@
+{
+    "font_id": "sree-krushnadevaraya",
+    "font_family": "Sree Krushnadevaraya",
+    "font_css_file": "sree-krushnadevaraya.css",
+    "font_license": "license\/sree-krushnadevaraya.txt",
+    "font_css_class": "font-sree-krushnadevaraya",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sree-krushnadevaraya-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

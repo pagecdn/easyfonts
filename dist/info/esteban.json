@@ -1,0 +1,15 @@
+{
+    "font_id": "esteban",
+    "font_family": "Esteban",
+    "font_css_file": "esteban.css",
+    "font_license": "license\/esteban.txt",
+    "font_css_class": "font-esteban",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/esteban-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

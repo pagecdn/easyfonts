@@ -1,0 +1,15 @@
+{
+    "font_id": "carrois-gothic-sc",
+    "font_family": "Carrois Gothic SC",
+    "font_css_file": "carrois-gothic-sc.css",
+    "font_license": "license\/carrois-gothic-sc.txt",
+    "font_css_class": "font-carrois-gothic-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/carrois-gothic-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

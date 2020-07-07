@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/magra.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:magra;font-weight:700;src:url(fonts/magra-700.ttf)}
+@font-face{font-display:swap;font-family:magra;src:url(fonts/magra-400.ttf)}
+
+
+.font-magra{font-family:magra}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

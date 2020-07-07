@@ -1,0 +1,15 @@
+{
+    "font_id": "revalia",
+    "font_family": "Revalia",
+    "font_css_file": "revalia.css",
+    "font_license": "license\/revalia.txt",
+    "font_css_class": "font-revalia",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/revalia-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

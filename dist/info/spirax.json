@@ -1,0 +1,15 @@
+{
+    "font_id": "spirax",
+    "font_family": "Spirax",
+    "font_css_file": "spirax.css",
+    "font_license": "license\/spirax.txt",
+    "font_css_class": "font-spirax",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/spirax-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

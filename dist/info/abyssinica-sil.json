@@ -1,0 +1,15 @@
+{
+    "font_id": "abyssinica-sil",
+    "font_family": "Abyssinica SIL",
+    "font_css_file": "abyssinica-sil.css",
+    "font_license": "license\/abyssinica-sil.txt",
+    "font_css_class": "font-abyssinica-sil",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/abyssinica-sil-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

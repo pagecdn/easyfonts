@@ -1,0 +1,15 @@
+{
+    "font_id": "amstelvaralpha",
+    "font_family": "amstelvaralpha",
+    "font_css_file": "amstelvaralpha.css",
+    "font_license": "license\/amstelvaralpha.txt",
+    "font_css_class": "font-amstelvaralpha",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/amstelvaralpha.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

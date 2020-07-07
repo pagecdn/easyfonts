@@ -1,0 +1,15 @@
+{
+    "font_id": "cagliostro",
+    "font_family": "Cagliostro",
+    "font_css_file": "cagliostro.css",
+    "font_license": "license\/cagliostro.txt",
+    "font_css_class": "font-cagliostro",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cagliostro-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

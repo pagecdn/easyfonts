@@ -1,0 +1,15 @@
+{
+    "font_id": "poetsen-one",
+    "font_family": "Poetsen One",
+    "font_css_file": "poetsen-one.css",
+    "font_license": "license\/poetsen-one.txt",
+    "font_css_class": "font-poetsen-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/poetsen-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

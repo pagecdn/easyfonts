@@ -1,0 +1,15 @@
+{
+    "font_id": "east-sea-dokdo",
+    "font_family": "East Sea Dokdo",
+    "font_css_file": "east-sea-dokdo.css",
+    "font_license": "license\/east-sea-dokdo.txt",
+    "font_css_class": "font-east-sea-dokdo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/east-sea-dokdo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

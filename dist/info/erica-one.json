@@ -1,0 +1,15 @@
+{
+    "font_id": "erica-one",
+    "font_family": "Erica One",
+    "font_css_file": "erica-one.css",
+    "font_license": "license\/erica-one.txt",
+    "font_css_class": "font-erica-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/erica-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

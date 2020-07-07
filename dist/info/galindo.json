@@ -1,0 +1,15 @@
+{
+    "font_id": "galindo",
+    "font_family": "Galindo",
+    "font_css_file": "galindo.css",
+    "font_license": "license\/galindo.txt",
+    "font_css_class": "font-galindo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/galindo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "tulpen-one",
+    "font_family": "Tulpen One",
+    "font_css_file": "tulpen-one.css",
+    "font_license": "license\/tulpen-one.txt",
+    "font_css_class": "font-tulpen-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/tulpen-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

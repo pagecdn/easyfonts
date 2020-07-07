@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/lacquer.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:lacquer;src:url(fonts/lacquer-400.ttf)}
+
+
+.font-lacquer{font-family:lacquer}
+.w400{font-weight:400;font-style:normal}

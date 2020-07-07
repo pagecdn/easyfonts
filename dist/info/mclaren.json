@@ -1,0 +1,15 @@
+{
+    "font_id": "mclaren",
+    "font_family": "McLaren",
+    "font_css_file": "mclaren.css",
+    "font_license": "license\/mclaren.txt",
+    "font_css_class": "font-mclaren",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mclaren-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

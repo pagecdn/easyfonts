@@ -1,0 +1,15 @@
+{
+    "font_id": "offside",
+    "font_family": "Offside",
+    "font_css_file": "offside.css",
+    "font_license": "license\/offside.txt",
+    "font_css_class": "font-offside",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/offside-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

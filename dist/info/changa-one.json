@@ -1,0 +1,21 @@
+{
+    "font_id": "changa-one",
+    "font_family": "Changa One",
+    "font_css_file": "changa-one.css",
+    "font_license": "license\/changa-one.txt",
+    "font_css_class": "font-changa-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/changa-one-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/changa-one-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

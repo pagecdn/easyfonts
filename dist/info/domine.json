@@ -1,0 +1,21 @@
+{
+    "font_id": "domine",
+    "font_family": "Domine",
+    "font_css_file": "domine.css",
+    "font_license": "license\/domine.txt",
+    "font_css_class": "font-domine",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/domine-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/domine-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

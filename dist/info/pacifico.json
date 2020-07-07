@@ -1,0 +1,15 @@
+{
+    "font_id": "pacifico",
+    "font_family": "Pacifico",
+    "font_css_file": "pacifico.css",
+    "font_license": "license\/pacifico.txt",
+    "font_css_class": "font-pacifico",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/pacifico-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

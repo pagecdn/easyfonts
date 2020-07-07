@@ -1,0 +1,15 @@
+{
+    "font_id": "im-fell-french-canon-sc",
+    "font_family": "IM Fell French Canon SC",
+    "font_css_file": "im-fell-french-canon-sc.css",
+    "font_license": "license\/im-fell-french-canon-sc.txt",
+    "font_css_class": "font-im-fell-french-canon-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/im-fell-french-canon-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

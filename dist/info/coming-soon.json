@@ -1,0 +1,15 @@
+{
+    "font_id": "coming-soon",
+    "font_family": "Coming Soon",
+    "font_css_file": "coming-soon.css",
+    "font_license": "license\/coming-soon.txt",
+    "font_css_class": "font-coming-soon",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/coming-soon-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "bahiana",
+    "font_family": "Bahiana",
+    "font_css_file": "bahiana.css",
+    "font_license": "license\/bahiana.txt",
+    "font_css_class": "font-bahiana",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bahiana-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

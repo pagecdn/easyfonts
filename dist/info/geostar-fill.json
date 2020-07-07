@@ -1,0 +1,15 @@
+{
+    "font_id": "geostar-fill",
+    "font_family": "Geostar Fill",
+    "font_css_file": "geostar-fill.css",
+    "font_license": "license\/geostar-fill.txt",
+    "font_css_class": "font-geostar-fill",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/geostar-fill-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

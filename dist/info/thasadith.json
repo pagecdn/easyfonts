@@ -1,0 +1,33 @@
+{
+    "font_id": "thasadith",
+    "font_family": "Thasadith",
+    "font_css_file": "thasadith.css",
+    "font_license": "license\/thasadith.txt",
+    "font_css_class": "font-thasadith",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/thasadith-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/thasadith-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/thasadith-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/thasadith-700i.ttf",
+            "css_class": "w700i"
+        }
+    ]
+}

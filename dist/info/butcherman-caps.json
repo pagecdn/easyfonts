@@ -1,0 +1,15 @@
+{
+    "font_id": "butcherman-caps",
+    "font_family": "Butcherman Caps",
+    "font_css_file": "butcherman-caps.css",
+    "font_license": "license\/butcherman-caps.txt",
+    "font_css_class": "font-butcherman-caps",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/butcherman-caps-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

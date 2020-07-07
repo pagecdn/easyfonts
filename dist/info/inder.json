@@ -1,0 +1,15 @@
+{
+    "font_id": "inder",
+    "font_family": "Inder",
+    "font_css_file": "inder.css",
+    "font_license": "license\/inder.txt",
+    "font_css_class": "font-inder",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/inder-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

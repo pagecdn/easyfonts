@@ -1,0 +1,15 @@
+{
+    "font_id": "aksarabaligalang",
+    "font_family": "aksarabaligalang",
+    "font_css_file": "aksarabaligalang.css",
+    "font_license": "license\/aksarabaligalang.txt",
+    "font_css_class": "font-aksarabaligalang",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/aksarabaligalang-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

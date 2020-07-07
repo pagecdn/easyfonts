@@ -1,0 +1,15 @@
+{
+    "font_id": "kranky",
+    "font_family": "Kranky",
+    "font_css_file": "kranky.css",
+    "font_license": "license\/kranky.txt",
+    "font_css_class": "font-kranky",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/kranky-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

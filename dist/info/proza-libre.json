@@ -1,0 +1,69 @@
+{
+    "font_id": "proza-libre",
+    "font_family": "Proza Libre",
+    "font_css_file": "proza-libre.css",
+    "font_license": "license\/proza-libre.txt",
+    "font_css_class": "font-proza-libre",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/proza-libre-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/proza-libre-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/proza-libre-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "500",
+            "style": "italic",
+            "file": "fonts\/proza-libre-500i.ttf",
+            "css_class": "w500i"
+        },
+        {
+            "weight": "600",
+            "style": "regular",
+            "file": "fonts\/proza-libre-600.ttf",
+            "css_class": "w600"
+        },
+        {
+            "weight": "600",
+            "style": "italic",
+            "file": "fonts\/proza-libre-600i.ttf",
+            "css_class": "w600i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/proza-libre-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "700",
+            "style": "italic",
+            "file": "fonts\/proza-libre-700i.ttf",
+            "css_class": "w700i"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/proza-libre-800.ttf",
+            "css_class": "w800"
+        },
+        {
+            "weight": "800",
+            "style": "italic",
+            "file": "fonts\/proza-libre-800i.ttf",
+            "css_class": "w800i"
+        }
+    ]
+}

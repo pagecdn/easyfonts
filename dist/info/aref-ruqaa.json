@@ -1,0 +1,21 @@
+{
+    "font_id": "aref-ruqaa",
+    "font_family": "Aref Ruqaa",
+    "font_css_file": "aref-ruqaa.css",
+    "font_license": "license\/aref-ruqaa.txt",
+    "font_css_class": "font-aref-ruqaa",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/aref-ruqaa-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/aref-ruqaa-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "sigmar-one",
+    "font_family": "Sigmar One",
+    "font_css_file": "sigmar-one.css",
+    "font_license": "license\/sigmar-one.txt",
+    "font_css_class": "font-sigmar-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sigmar-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

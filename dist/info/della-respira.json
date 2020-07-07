@@ -1,0 +1,15 @@
+{
+    "font_id": "della-respira",
+    "font_family": "Della Respira",
+    "font_css_file": "della-respira.css",
+    "font_license": "license\/della-respira.txt",
+    "font_css_class": "font-della-respira",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/della-respira-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

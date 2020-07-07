@@ -1,0 +1,15 @@
+{
+    "font_id": "qwigley",
+    "font_family": "Qwigley",
+    "font_css_file": "qwigley.css",
+    "font_license": "license\/qwigley.txt",
+    "font_css_class": "font-qwigley",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/qwigley-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

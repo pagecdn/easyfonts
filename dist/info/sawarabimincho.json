@@ -1,0 +1,15 @@
+{
+    "font_id": "sawarabimincho",
+    "font_family": "sawarabimincho",
+    "font_css_file": "sawarabimincho.css",
+    "font_license": "license\/sawarabimincho.txt",
+    "font_css_class": "font-sawarabimincho",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sawarabimincho-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

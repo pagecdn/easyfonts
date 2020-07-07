@@ -1,0 +1,21 @@
+{
+    "font_id": "cherry-swash",
+    "font_family": "Cherry Swash",
+    "font_css_file": "cherry-swash.css",
+    "font_license": "license\/cherry-swash.txt",
+    "font_css_class": "font-cherry-swash",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/cherry-swash-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/cherry-swash-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

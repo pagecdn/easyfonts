@@ -1,0 +1,15 @@
+{
+    "font_id": "jolly-lodger",
+    "font_family": "Jolly Lodger",
+    "font_css_file": "jolly-lodger.css",
+    "font_license": "license\/jolly-lodger.txt",
+    "font_css_class": "font-jolly-lodger",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jolly-lodger-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

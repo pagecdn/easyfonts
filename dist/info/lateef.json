@@ -1,0 +1,15 @@
+{
+    "font_id": "lateef",
+    "font_family": "Lateef",
+    "font_css_file": "lateef.css",
+    "font_license": "license\/lateef.txt",
+    "font_css_class": "font-lateef",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/lateef-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

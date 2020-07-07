@@ -1,0 +1,15 @@
+{
+    "font_id": "scope-one",
+    "font_family": "Scope One",
+    "font_css_file": "scope-one.css",
+    "font_license": "license\/scope-one.txt",
+    "font_css_class": "font-scope-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/scope-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

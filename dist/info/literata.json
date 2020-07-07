@@ -1,0 +1,21 @@
+{
+    "font_id": "literata",
+    "font_family": "Literata",
+    "font_css_file": "literata.css",
+    "font_license": "license\/literata.txt",
+    "font_css_class": "font-literata",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/literata-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/literata-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

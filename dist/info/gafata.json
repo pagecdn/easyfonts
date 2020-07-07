@@ -1,0 +1,15 @@
+{
+    "font_id": "gafata",
+    "font_family": "Gafata",
+    "font_css_file": "gafata.css",
+    "font_license": "license\/gafata.txt",
+    "font_css_class": "font-gafata",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gafata-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

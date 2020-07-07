@@ -1,0 +1,15 @@
+{
+    "font_id": "bungee-hairline",
+    "font_family": "Bungee Hairline",
+    "font_css_file": "bungee-hairline.css",
+    "font_license": "license\/bungee-hairline.txt",
+    "font_css_class": "font-bungee-hairline",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bungee-hairline-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

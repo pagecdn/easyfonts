@@ -1,0 +1,15 @@
+{
+    "font_id": "gloria-hallelujah",
+    "font_family": "Gloria Hallelujah",
+    "font_css_file": "gloria-hallelujah.css",
+    "font_license": "license\/gloria-hallelujah.txt",
+    "font_css_class": "font-gloria-hallelujah",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gloria-hallelujah-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

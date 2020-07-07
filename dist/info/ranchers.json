@@ -1,0 +1,15 @@
+{
+    "font_id": "ranchers",
+    "font_family": "Ranchers",
+    "font_css_file": "ranchers.css",
+    "font_license": "license\/ranchers.txt",
+    "font_css_class": "font-ranchers",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ranchers-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

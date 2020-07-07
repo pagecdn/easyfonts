@@ -1,0 +1,22 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/expletus-sans.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'expletus sans';font-style:italic;font-weight:600;src:url(fonts/expletus-sans-600i.ttf)}
+@font-face{font-display:swap;font-family:'expletus sans';font-weight:700;src:url(fonts/expletus-sans-700.ttf)}
+@font-face{font-display:swap;font-family:'expletus sans';font-style:italic;font-weight:700;src:url(fonts/expletus-sans-700i.ttf)}
+@font-face{font-display:swap;font-family:'expletus sans';font-style:italic;font-weight:500;src:url(fonts/expletus-sans-500i.ttf)}
+@font-face{font-display:swap;font-family:'expletus sans';font-weight:500;src:url(fonts/expletus-sans-500.ttf)}
+@font-face{font-display:swap;font-family:'expletus sans';font-style:italic;src:url(fonts/expletus-sans-400i.ttf)}
+@font-face{font-display:swap;font-family:'expletus sans';font-weight:600;src:url(fonts/expletus-sans-600.ttf)}
+@font-face{font-display:swap;font-family:'expletus sans';src:url(fonts/expletus-sans-400.ttf)}
+
+
+.font-expletus-sans{font-family:'expletus sans'}
+.w600i{font-weight:600;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w500i{font-weight:500;font-style:italic}
+.w500{font-weight:500;font-style:normal}
+.w400i{font-weight:400;font-style:italic}
+.w600{font-weight:600;font-style:normal}
+.w400{font-weight:400;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "la-belle-aurore",
+    "font_family": "La Belle Aurore",
+    "font_css_file": "la-belle-aurore.css",
+    "font_license": "license\/la-belle-aurore.txt",
+    "font_css_class": "font-la-belle-aurore",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/la-belle-aurore-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "jomolhari",
+    "font_family": "jomolhari",
+    "font_css_file": "jomolhari.css",
+    "font_license": "license\/jomolhari.txt",
+    "font_css_class": "font-jomolhari",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jomolhari.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

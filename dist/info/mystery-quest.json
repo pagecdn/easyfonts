@@ -1,0 +1,15 @@
+{
+    "font_id": "mystery-quest",
+    "font_family": "Mystery Quest",
+    "font_css_file": "mystery-quest.css",
+    "font_license": "license\/mystery-quest.txt",
+    "font_css_class": "font-mystery-quest",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mystery-quest-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

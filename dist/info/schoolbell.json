@@ -1,0 +1,15 @@
+{
+    "font_id": "schoolbell",
+    "font_family": "Schoolbell",
+    "font_css_file": "schoolbell.css",
+    "font_license": "license\/schoolbell.txt",
+    "font_css_class": "font-schoolbell",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/schoolbell-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

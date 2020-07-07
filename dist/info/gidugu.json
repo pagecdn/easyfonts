@@ -1,0 +1,15 @@
+{
+    "font_id": "gidugu",
+    "font_family": "Gidugu",
+    "font_css_file": "gidugu.css",
+    "font_license": "license\/gidugu.txt",
+    "font_css_class": "font-gidugu",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gidugu-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

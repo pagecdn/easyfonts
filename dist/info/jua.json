@@ -1,0 +1,15 @@
+{
+    "font_id": "jua",
+    "font_family": "Jua",
+    "font_css_file": "jua.css",
+    "font_license": "license\/jua.txt",
+    "font_css_class": "font-jua",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/jua-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

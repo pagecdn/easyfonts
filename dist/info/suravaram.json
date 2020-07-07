@@ -1,0 +1,15 @@
+{
+    "font_id": "suravaram",
+    "font_family": "Suravaram",
+    "font_css_file": "suravaram.css",
+    "font_license": "license\/suravaram.txt",
+    "font_css_class": "font-suravaram",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/suravaram-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

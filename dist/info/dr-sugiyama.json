@@ -1,0 +1,15 @@
+{
+    "font_id": "dr-sugiyama",
+    "font_family": "Dr Sugiyama",
+    "font_css_file": "dr-sugiyama.css",
+    "font_license": "license\/dr-sugiyama.txt",
+    "font_css_class": "font-dr-sugiyama",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dr-sugiyama-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

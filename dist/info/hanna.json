@@ -1,0 +1,15 @@
+{
+    "font_id": "hanna",
+    "font_family": "hanna",
+    "font_css_file": "hanna.css",
+    "font_license": "license\/hanna.txt",
+    "font_css_class": "font-hanna",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hanna.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

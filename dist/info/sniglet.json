@@ -1,0 +1,21 @@
+{
+    "font_id": "sniglet",
+    "font_family": "Sniglet",
+    "font_css_file": "sniglet.css",
+    "font_license": "license\/sniglet.txt",
+    "font_css_class": "font-sniglet",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sniglet-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "800",
+            "style": "regular",
+            "file": "fonts\/sniglet-800.ttf",
+            "css_class": "w800"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "delius",
+    "font_family": "Delius",
+    "font_css_file": "delius.css",
+    "font_license": "license\/delius.txt",
+    "font_css_class": "font-delius",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/delius-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

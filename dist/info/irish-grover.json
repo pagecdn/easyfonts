@@ -1,0 +1,15 @@
+{
+    "font_id": "irish-grover",
+    "font_family": "Irish Grover",
+    "font_css_file": "irish-grover.css",
+    "font_license": "license\/irish-grover.txt",
+    "font_css_class": "font-irish-grover",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/irish-grover-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

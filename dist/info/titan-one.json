@@ -1,0 +1,15 @@
+{
+    "font_id": "titan-one",
+    "font_family": "Titan One",
+    "font_css_file": "titan-one.css",
+    "font_license": "license\/titan-one.txt",
+    "font_css_class": "font-titan-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/titan-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

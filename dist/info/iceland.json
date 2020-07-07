@@ -1,0 +1,15 @@
+{
+    "font_id": "iceland",
+    "font_family": "Iceland",
+    "font_css_file": "iceland.css",
+    "font_license": "license\/iceland.txt",
+    "font_css_class": "font-iceland",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/iceland-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

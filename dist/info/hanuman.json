@@ -1,0 +1,21 @@
+{
+    "font_id": "hanuman",
+    "font_family": "Hanuman",
+    "font_css_file": "hanuman.css",
+    "font_license": "license\/hanuman.txt",
+    "font_css_class": "font-hanuman",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/hanuman-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/hanuman-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

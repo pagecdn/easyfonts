@@ -1,0 +1,15 @@
+{
+    "font_id": "doppio-one",
+    "font_family": "Doppio One",
+    "font_css_file": "doppio-one.css",
+    "font_license": "license\/doppio-one.txt",
+    "font_css_class": "font-doppio-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/doppio-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

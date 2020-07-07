@@ -1,0 +1,15 @@
+{
+    "font_id": "rubik-one",
+    "font_family": "Rubik One",
+    "font_css_file": "rubik-one.css",
+    "font_license": "license\/rubik-one.txt",
+    "font_css_class": "font-rubik-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/rubik-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

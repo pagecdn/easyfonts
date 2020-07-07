@@ -1,0 +1,15 @@
+{
+    "font_id": "devonshire",
+    "font_family": "Devonshire",
+    "font_css_file": "devonshire.css",
+    "font_license": "license\/devonshire.txt",
+    "font_css_class": "font-devonshire",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/devonshire-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

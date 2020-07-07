@@ -1,0 +1,15 @@
+{
+    "font_id": "combo",
+    "font_family": "Combo",
+    "font_css_file": "combo.css",
+    "font_license": "license\/combo.txt",
+    "font_css_class": "font-combo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/combo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

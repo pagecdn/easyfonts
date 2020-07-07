@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/lohit-bengali.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'lohit bengali';src:url(fonts/lohit-bengali.ttf)}
+
+
+.font-lohit-bengali{font-family:'lohit bengali'}
+.w400{font-weight:400;font-style:normal}

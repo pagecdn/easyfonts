@@ -1,0 +1,27 @@
+{
+    "font_id": "fira-mono",
+    "font_family": "Fira Mono",
+    "font_css_file": "fira-mono.css",
+    "font_license": "license\/fira-mono.txt",
+    "font_css_class": "font-fira-mono",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/fira-mono-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "500",
+            "style": "regular",
+            "file": "fonts\/fira-mono-500.ttf",
+            "css_class": "w500"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/fira-mono-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

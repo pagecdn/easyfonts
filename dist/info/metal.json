@@ -1,0 +1,15 @@
+{
+    "font_id": "metal",
+    "font_family": "Metal",
+    "font_css_file": "metal.css",
+    "font_license": "license\/metal.txt",
+    "font_css_class": "font-metal",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/metal-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "laomuangkhong",
+    "font_family": "laomuangkhong",
+    "font_css_file": "laomuangkhong.css",
+    "font_license": "license\/laomuangkhong.txt",
+    "font_css_class": "font-laomuangkhong",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/laomuangkhong-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

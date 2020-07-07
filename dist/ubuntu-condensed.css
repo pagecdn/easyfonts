@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/ubuntu-condensed.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'ubuntu condensed';src:url(fonts/ubuntu-condensed-400.ttf)}
+
+
+.font-ubuntu-condensed{font-family:'ubuntu condensed'}
+.w400{font-weight:400;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "miniver",
+    "font_family": "Miniver",
+    "font_css_file": "miniver.css",
+    "font_license": "license\/miniver.txt",
+    "font_css_class": "font-miniver",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/miniver-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

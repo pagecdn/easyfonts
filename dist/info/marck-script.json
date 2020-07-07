@@ -1,0 +1,15 @@
+{
+    "font_id": "marck-script",
+    "font_family": "Marck Script",
+    "font_css_file": "marck-script.css",
+    "font_license": "license\/marck-script.txt",
+    "font_css_class": "font-marck-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/marck-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

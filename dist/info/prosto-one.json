@@ -1,0 +1,15 @@
+{
+    "font_id": "prosto-one",
+    "font_family": "Prosto One",
+    "font_css_file": "prosto-one.css",
+    "font_license": "license\/prosto-one.txt",
+    "font_css_class": "font-prosto-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/prosto-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

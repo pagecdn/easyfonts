@@ -1,0 +1,15 @@
+{
+    "font_id": "miss-saint-delafield",
+    "font_family": "Miss Saint Delafield",
+    "font_css_file": "miss-saint-delafield.css",
+    "font_license": "license\/miss-saint-delafield.txt",
+    "font_css_class": "font-miss-saint-delafield",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/miss-saint-delafield-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

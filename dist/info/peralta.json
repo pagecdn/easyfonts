@@ -1,0 +1,15 @@
+{
+    "font_id": "peralta",
+    "font_family": "Peralta",
+    "font_css_file": "peralta.css",
+    "font_license": "license\/peralta.txt",
+    "font_css_class": "font-peralta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/peralta-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

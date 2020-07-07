@@ -1,0 +1,15 @@
+{
+    "font_id": "andika",
+    "font_family": "Andika",
+    "font_css_file": "andika.css",
+    "font_license": "license\/andika.txt",
+    "font_css_class": "font-andika",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/andika-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

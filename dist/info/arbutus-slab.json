@@ -1,0 +1,15 @@
+{
+    "font_id": "arbutus-slab",
+    "font_family": "Arbutus Slab",
+    "font_css_file": "arbutus-slab.css",
+    "font_license": "license\/arbutus-slab.txt",
+    "font_css_class": "font-arbutus-slab",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/arbutus-slab-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

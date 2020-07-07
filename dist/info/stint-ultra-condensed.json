@@ -1,0 +1,15 @@
+{
+    "font_id": "stint-ultra-condensed",
+    "font_family": "Stint Ultra Condensed",
+    "font_css_file": "stint-ultra-condensed.css",
+    "font_license": "license\/stint-ultra-condensed.txt",
+    "font_css_class": "font-stint-ultra-condensed",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/stint-ultra-condensed-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

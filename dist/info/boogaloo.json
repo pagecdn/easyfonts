@@ -1,0 +1,15 @@
+{
+    "font_id": "boogaloo",
+    "font_family": "Boogaloo",
+    "font_css_file": "boogaloo.css",
+    "font_license": "license\/boogaloo.txt",
+    "font_css_class": "font-boogaloo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/boogaloo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "supermercado-one",
+    "font_family": "Supermercado One",
+    "font_css_file": "supermercado-one.css",
+    "font_license": "license\/supermercado-one.txt",
+    "font_css_class": "font-supermercado-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/supermercado-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

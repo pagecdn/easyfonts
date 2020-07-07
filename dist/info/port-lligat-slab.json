@@ -1,0 +1,15 @@
+{
+    "font_id": "port-lligat-slab",
+    "font_family": "Port Lligat Slab",
+    "font_css_file": "port-lligat-slab.css",
+    "font_license": "license\/port-lligat-slab.txt",
+    "font_css_class": "font-port-lligat-slab",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/port-lligat-slab-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

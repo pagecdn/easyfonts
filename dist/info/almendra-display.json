@@ -1,0 +1,15 @@
+{
+    "font_id": "almendra-display",
+    "font_family": "Almendra Display",
+    "font_css_file": "almendra-display.css",
+    "font_license": "license\/almendra-display.txt",
+    "font_css_class": "font-almendra-display",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/almendra-display-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

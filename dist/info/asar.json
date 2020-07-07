@@ -1,0 +1,15 @@
+{
+    "font_id": "asar",
+    "font_family": "Asar",
+    "font_css_file": "asar.css",
+    "font_license": "license\/asar.txt",
+    "font_css_class": "font-asar",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/asar-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

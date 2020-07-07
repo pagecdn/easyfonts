@@ -1,0 +1,15 @@
+{
+    "font_id": "sancreek",
+    "font_family": "Sancreek",
+    "font_css_file": "sancreek.css",
+    "font_license": "license\/sancreek.txt",
+    "font_css_class": "font-sancreek",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sancreek-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

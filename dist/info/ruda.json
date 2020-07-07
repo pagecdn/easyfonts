@@ -1,0 +1,27 @@
+{
+    "font_id": "ruda",
+    "font_family": "Ruda",
+    "font_css_file": "ruda.css",
+    "font_license": "license\/ruda.txt",
+    "font_css_class": "font-ruda",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ruda-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/ruda-700.ttf",
+            "css_class": "w700"
+        },
+        {
+            "weight": "900",
+            "style": "regular",
+            "file": "fonts\/ruda-900.ttf",
+            "css_class": "w900"
+        }
+    ]
+}

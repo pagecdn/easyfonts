@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/battambang.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:battambang;font-weight:700;src:url(fonts/battambang-700.ttf)}
+@font-face{font-display:swap;font-family:battambang;src:url(fonts/battambang-400.ttf)}
+
+
+.font-battambang{font-family:battambang}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

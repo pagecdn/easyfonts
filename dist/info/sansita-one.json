@@ -1,0 +1,15 @@
+{
+    "font_id": "sansita-one",
+    "font_family": "Sansita One",
+    "font_css_file": "sansita-one.css",
+    "font_license": "license\/sansita-one.txt",
+    "font_css_class": "font-sansita-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sansita-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

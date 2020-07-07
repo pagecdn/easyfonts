@@ -1,0 +1,21 @@
+{
+    "font_id": "crete-round",
+    "font_family": "Crete Round",
+    "font_css_file": "crete-round.css",
+    "font_license": "license\/crete-round.txt",
+    "font_css_class": "font-crete-round",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/crete-round-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/crete-round-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

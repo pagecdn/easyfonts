@@ -1,0 +1,15 @@
+{
+    "font_id": "ceviche-one",
+    "font_family": "Ceviche One",
+    "font_css_file": "ceviche-one.css",
+    "font_license": "license\/ceviche-one.txt",
+    "font_css_class": "font-ceviche-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/ceviche-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

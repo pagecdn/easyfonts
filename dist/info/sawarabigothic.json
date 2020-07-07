@@ -1,0 +1,15 @@
+{
+    "font_id": "sawarabigothic",
+    "font_family": "sawarabigothic",
+    "font_css_file": "sawarabigothic.css",
+    "font_license": "license\/sawarabigothic.txt",
+    "font_css_class": "font-sawarabigothic",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sawarabigothic-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

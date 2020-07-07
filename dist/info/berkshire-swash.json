@@ -1,0 +1,15 @@
+{
+    "font_id": "berkshire-swash",
+    "font_family": "Berkshire Swash",
+    "font_css_file": "berkshire-swash.css",
+    "font_license": "license\/berkshire-swash.txt",
+    "font_css_class": "font-berkshire-swash",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/berkshire-swash-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

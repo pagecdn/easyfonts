@@ -1,0 +1,15 @@
+{
+    "font_id": "smokum",
+    "font_family": "Smokum",
+    "font_css_file": "smokum.css",
+    "font_license": "license\/smokum.txt",
+    "font_css_class": "font-smokum",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/smokum-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "miltonian-tattoo",
+    "font_family": "Miltonian Tattoo",
+    "font_css_file": "miltonian-tattoo.css",
+    "font_license": "license\/miltonian-tattoo.txt",
+    "font_css_class": "font-miltonian-tattoo",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/miltonian-tattoo-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

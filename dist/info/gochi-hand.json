@@ -1,0 +1,15 @@
+{
+    "font_id": "gochi-hand",
+    "font_family": "Gochi Hand",
+    "font_css_file": "gochi-hand.css",
+    "font_license": "license\/gochi-hand.txt",
+    "font_css_class": "font-gochi-hand",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/gochi-hand-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

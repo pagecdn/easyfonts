@@ -1,0 +1,15 @@
+{
+    "font_id": "alice",
+    "font_family": "Alice",
+    "font_css_file": "alice.css",
+    "font_license": "license\/alice.txt",
+    "font_css_class": "font-alice",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/alice-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

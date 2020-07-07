@@ -1,0 +1,15 @@
+{
+    "font_id": "bangers",
+    "font_family": "Bangers",
+    "font_css_file": "bangers.css",
+    "font_license": "license\/bangers.txt",
+    "font_css_class": "font-bangers",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bangers-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

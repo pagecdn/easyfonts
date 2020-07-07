@@ -1,0 +1,15 @@
+{
+    "font_id": "khyay",
+    "font_family": "khyay",
+    "font_css_file": "khyay.css",
+    "font_license": "license\/khyay.txt",
+    "font_css_class": "font-khyay",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/khyay-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

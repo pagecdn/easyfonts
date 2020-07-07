@@ -1,0 +1,22 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/faustina.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:faustina;font-style:italic;font-weight:600;src:url(fonts/faustina-600i.ttf)}
+@font-face{font-display:swap;font-family:faustina;src:url(fonts/faustina-400.ttf)}
+@font-face{font-display:swap;font-family:faustina;font-weight:600;src:url(fonts/faustina-600.ttf)}
+@font-face{font-display:swap;font-family:faustina;font-style:italic;font-weight:500;src:url(fonts/faustina-500i.ttf)}
+@font-face{font-display:swap;font-family:faustina;font-style:italic;src:url(fonts/faustina-400i.ttf)}
+@font-face{font-display:swap;font-family:faustina;font-weight:700;src:url(fonts/faustina-700.ttf)}
+@font-face{font-display:swap;font-family:faustina;font-style:italic;font-weight:700;src:url(fonts/faustina-700i.ttf)}
+@font-face{font-display:swap;font-family:faustina;font-weight:500;src:url(fonts/faustina-500.ttf)}
+
+
+.font-faustina{font-family:faustina}
+.w600i{font-weight:600;font-style:italic}
+.w400{font-weight:400;font-style:normal}
+.w600{font-weight:600;font-style:normal}
+.w500i{font-weight:500;font-style:italic}
+.w400i{font-weight:400;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
+.w500{font-weight:500;font-style:normal}

@@ -1,0 +1,15 @@
+{
+    "font_id": "beth-ellen",
+    "font_family": "Beth Ellen",
+    "font_css_file": "beth-ellen.css",
+    "font_license": "license\/beth-ellen.txt",
+    "font_css_class": "font-beth-ellen",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/beth-ellen-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

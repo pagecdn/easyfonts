@@ -1,0 +1,15 @@
+{
+    "font_id": "snippet",
+    "font_family": "Snippet",
+    "font_css_file": "snippet.css",
+    "font_license": "license\/snippet.txt",
+    "font_css_class": "font-snippet",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/snippet-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "bilbo-swash-caps",
+    "font_family": "Bilbo Swash Caps",
+    "font_css_file": "bilbo-swash-caps.css",
+    "font_license": "license\/bilbo-swash-caps.txt",
+    "font_css_class": "font-bilbo-swash-caps",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bilbo-swash-caps-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

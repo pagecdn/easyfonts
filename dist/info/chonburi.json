@@ -1,0 +1,15 @@
+{
+    "font_id": "chonburi",
+    "font_family": "Chonburi",
+    "font_css_file": "chonburi.css",
+    "font_license": "license\/chonburi.txt",
+    "font_css_class": "font-chonburi",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/chonburi-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

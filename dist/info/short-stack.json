@@ -1,0 +1,15 @@
+{
+    "font_id": "short-stack",
+    "font_family": "Short Stack",
+    "font_css_file": "short-stack.css",
+    "font_license": "license\/short-stack.txt",
+    "font_css_class": "font-short-stack",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/short-stack-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

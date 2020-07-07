@@ -1,0 +1,15 @@
+{
+    "font_id": "harmattan",
+    "font_family": "Harmattan",
+    "font_css_file": "harmattan.css",
+    "font_license": "license\/harmattan.txt",
+    "font_css_class": "font-harmattan",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/harmattan-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

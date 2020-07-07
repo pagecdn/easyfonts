@@ -1,0 +1,15 @@
+{
+    "font_id": "electrolize",
+    "font_family": "Electrolize",
+    "font_css_file": "electrolize.css",
+    "font_license": "license\/electrolize.txt",
+    "font_css_class": "font-electrolize",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/electrolize-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "im-fell-great-primer",
+    "font_family": "IM Fell Great Primer",
+    "font_css_file": "im-fell-great-primer.css",
+    "font_license": "license\/im-fell-great-primer.txt",
+    "font_css_class": "font-im-fell-great-primer",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/im-fell-great-primer-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "font_id": "delius-unicase",
+    "font_family": "Delius Unicase",
+    "font_css_file": "delius-unicase.css",
+    "font_license": "license\/delius-unicase.txt",
+    "font_css_class": "font-delius-unicase",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/delius-unicase-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/delius-unicase-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

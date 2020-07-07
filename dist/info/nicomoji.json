@@ -1,0 +1,15 @@
+{
+    "font_id": "nicomoji",
+    "font_family": "nicomoji",
+    "font_css_file": "nicomoji.css",
+    "font_license": "license\/nicomoji.txt",
+    "font_css_class": "font-nicomoji",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nicomoji-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

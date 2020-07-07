@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/vast-shadow.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'vast shadow';src:url(fonts/vast-shadow-400.ttf)}
+
+
+.font-vast-shadow{font-family:'vast shadow'}
+.w400{font-weight:400;font-style:normal}

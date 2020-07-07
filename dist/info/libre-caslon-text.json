@@ -1,0 +1,27 @@
+{
+    "font_id": "libre-caslon-text",
+    "font_family": "Libre Caslon Text",
+    "font_css_file": "libre-caslon-text.css",
+    "font_license": "license\/libre-caslon-text.txt",
+    "font_css_class": "font-libre-caslon-text",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/libre-caslon-text-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/libre-caslon-text-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/libre-caslon-text-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

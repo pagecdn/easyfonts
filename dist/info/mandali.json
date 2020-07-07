@@ -1,0 +1,15 @@
+{
+    "font_id": "mandali",
+    "font_family": "Mandali",
+    "font_css_file": "mandali.css",
+    "font_license": "license\/mandali.txt",
+    "font_css_class": "font-mandali",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mandali-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

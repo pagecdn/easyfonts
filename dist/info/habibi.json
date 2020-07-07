@@ -1,0 +1,15 @@
+{
+    "font_id": "habibi",
+    "font_family": "Habibi",
+    "font_css_file": "habibi.css",
+    "font_license": "license\/habibi.txt",
+    "font_css_class": "font-habibi",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/habibi-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

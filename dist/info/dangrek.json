@@ -1,0 +1,15 @@
+{
+    "font_id": "dangrek",
+    "font_family": "Dangrek",
+    "font_css_file": "dangrek.css",
+    "font_license": "license\/dangrek.txt",
+    "font_css_class": "font-dangrek",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/dangrek-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

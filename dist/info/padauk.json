@@ -1,0 +1,21 @@
+{
+    "font_id": "padauk",
+    "font_family": "Padauk",
+    "font_css_file": "padauk.css",
+    "font_license": "license\/padauk.txt",
+    "font_css_class": "font-padauk",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/padauk-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/padauk-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

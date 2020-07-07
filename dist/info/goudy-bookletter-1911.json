@@ -1,0 +1,15 @@
+{
+    "font_id": "goudy-bookletter-1911",
+    "font_family": "Goudy Bookletter 1911",
+    "font_css_file": "goudy-bookletter-1911.css",
+    "font_license": "license\/goudy-bookletter-1911.txt",
+    "font_css_class": "font-goudy-bookletter-1911",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/goudy-bookletter-1911-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

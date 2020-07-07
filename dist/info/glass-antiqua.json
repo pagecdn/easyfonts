@@ -1,0 +1,15 @@
+{
+    "font_id": "glass-antiqua",
+    "font_family": "Glass Antiqua",
+    "font_css_file": "glass-antiqua.css",
+    "font_license": "license\/glass-antiqua.txt",
+    "font_css_class": "font-glass-antiqua",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/glass-antiqua-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/sitara.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:sitara;font-style:italic;src:url(fonts/sitara-400i.ttf)}
+@font-face{font-display:swap;font-family:sitara;font-style:italic;font-weight:700;src:url(fonts/sitara-700i.ttf)}
+@font-face{font-display:swap;font-family:sitara;font-weight:700;src:url(fonts/sitara-700.ttf)}
+@font-face{font-display:swap;font-family:sitara;src:url(fonts/sitara-400.ttf)}
+
+
+.font-sitara{font-family:sitara}
+.w400i{font-weight:400;font-style:italic}
+.w700i{font-weight:700;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w400{font-weight:400;font-style:normal}

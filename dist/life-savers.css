@@ -1,0 +1,12 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/life-savers.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'life savers';src:url(fonts/life-savers-400.ttf)}
+@font-face{font-display:swap;font-family:'life savers';font-weight:800;src:url(fonts/life-savers-800.ttf)}
+@font-face{font-display:swap;font-family:'life savers';font-weight:700;src:url(fonts/life-savers-700.ttf)}
+
+
+.font-life-savers{font-family:'life savers'}
+.w400{font-weight:400;font-style:normal}
+.w800{font-weight:800;font-style:normal}
+.w700{font-weight:700;font-style:normal}

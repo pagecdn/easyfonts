@@ -1,0 +1,15 @@
+{
+    "font_id": "limelight",
+    "font_family": "Limelight",
+    "font_css_file": "limelight.css",
+    "font_license": "license\/limelight.txt",
+    "font_css_class": "font-limelight",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/limelight-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

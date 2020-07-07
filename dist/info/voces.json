@@ -1,0 +1,15 @@
+{
+    "font_id": "voces",
+    "font_family": "Voces",
+    "font_css_file": "voces.css",
+    "font_license": "license\/voces.txt",
+    "font_css_class": "font-voces",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/voces-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

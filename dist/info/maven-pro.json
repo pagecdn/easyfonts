@@ -1,0 +1,15 @@
+{
+    "font_id": "maven-pro",
+    "font_family": "Maven Pro",
+    "font_css_file": "maven-pro.css",
+    "font_license": "license\/maven-pro.txt",
+    "font_css_class": "font-maven-pro",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/maven-pro-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

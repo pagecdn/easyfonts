@@ -1,0 +1,15 @@
+{
+    "font_id": "indie-flower",
+    "font_family": "Indie Flower",
+    "font_css_file": "indie-flower.css",
+    "font_license": "license\/indie-flower.txt",
+    "font_css_class": "font-indie-flower",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/indie-flower-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "donegal-one",
+    "font_family": "Donegal One",
+    "font_css_file": "donegal-one.css",
+    "font_license": "license\/donegal-one.txt",
+    "font_css_class": "font-donegal-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/donegal-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

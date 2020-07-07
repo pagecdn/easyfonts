@@ -1,0 +1,15 @@
+{
+    "font_id": "frijole",
+    "font_family": "Frijole",
+    "font_css_file": "frijole.css",
+    "font_license": "license\/frijole.txt",
+    "font_css_class": "font-frijole",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/frijole-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

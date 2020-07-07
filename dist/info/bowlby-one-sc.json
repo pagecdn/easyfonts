@@ -1,0 +1,15 @@
+{
+    "font_id": "bowlby-one-sc",
+    "font_family": "Bowlby One SC",
+    "font_css_file": "bowlby-one-sc.css",
+    "font_license": "license\/bowlby-one-sc.txt",
+    "font_css_class": "font-bowlby-one-sc",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bowlby-one-sc-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

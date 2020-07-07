@@ -1,0 +1,15 @@
+{
+    "font_id": "nova-square",
+    "font_family": "Nova Square",
+    "font_css_file": "nova-square.css",
+    "font_license": "license\/nova-square.txt",
+    "font_css_class": "font-nova-square",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/nova-square-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

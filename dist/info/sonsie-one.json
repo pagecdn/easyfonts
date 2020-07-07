@@ -1,0 +1,15 @@
+{
+    "font_id": "sonsie-one",
+    "font_family": "Sonsie One",
+    "font_css_file": "sonsie-one.css",
+    "font_license": "license\/sonsie-one.txt",
+    "font_css_class": "font-sonsie-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sonsie-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "denk-one",
+    "font_family": "Denk One",
+    "font_css_file": "denk-one.css",
+    "font_license": "license\/denk-one.txt",
+    "font_css_class": "font-denk-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/denk-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

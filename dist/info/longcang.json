@@ -1,0 +1,15 @@
+{
+    "font_id": "longcang",
+    "font_family": "LongCang",
+    "font_css_file": "longcang.css",
+    "font_license": "license\/longcang.txt",
+    "font_css_class": "font-longcang",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/longcang-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

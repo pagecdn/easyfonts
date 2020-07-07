@@ -1,0 +1,21 @@
+{
+    "font_id": "codystar",
+    "font_family": "Codystar",
+    "font_css_file": "codystar.css",
+    "font_license": "license\/codystar.txt",
+    "font_css_class": "font-codystar",
+    "font_variants": [
+        {
+            "weight": "300",
+            "style": "regular",
+            "file": "fonts\/codystar-300.ttf",
+            "css_class": "w300"
+        },
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/codystar-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

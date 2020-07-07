@@ -1,0 +1,15 @@
+{
+    "font_id": "yinmar",
+    "font_family": "Yinmar",
+    "font_css_file": "yinmar.css",
+    "font_license": "license\/yinmar.txt",
+    "font_css_class": "font-yinmar",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/yinmar-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

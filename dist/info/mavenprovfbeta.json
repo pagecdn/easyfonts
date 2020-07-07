@@ -1,0 +1,15 @@
+{
+    "font_id": "mavenprovfbeta",
+    "font_family": "mavenprovfbeta",
+    "font_css_file": "mavenprovfbeta.css",
+    "font_license": "license\/mavenprovfbeta.txt",
+    "font_css_class": "font-mavenprovfbeta",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mavenprovfbeta-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

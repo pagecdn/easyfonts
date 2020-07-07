@@ -1,0 +1,27 @@
+{
+    "font_id": "judson",
+    "font_family": "Judson",
+    "font_css_file": "judson.css",
+    "font_license": "license\/judson.txt",
+    "font_css_class": "font-judson",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/judson-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/judson-400i.ttf",
+            "css_class": "w400i"
+        },
+        {
+            "weight": "700",
+            "style": "regular",
+            "file": "fonts\/judson-700.ttf",
+            "css_class": "w700"
+        }
+    ]
+}

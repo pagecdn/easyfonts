@@ -1,0 +1,15 @@
+{
+    "font_id": "sriracha",
+    "font_family": "Sriracha",
+    "font_css_file": "sriracha.css",
+    "font_license": "license\/sriracha.txt",
+    "font_css_class": "font-sriracha",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/sriracha-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "capriola",
+    "font_family": "Capriola",
+    "font_css_file": "capriola.css",
+    "font_license": "license\/capriola.txt",
+    "font_css_class": "font-capriola",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/capriola-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

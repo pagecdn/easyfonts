@@ -1,0 +1,15 @@
+{
+    "font_id": "seaweed-script",
+    "font_family": "Seaweed Script",
+    "font_css_file": "seaweed-script.css",
+    "font_license": "license\/seaweed-script.txt",
+    "font_css_class": "font-seaweed-script",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/seaweed-script-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

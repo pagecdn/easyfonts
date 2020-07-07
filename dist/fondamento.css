@@ -1,0 +1,10 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/fondamento.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:fondamento;src:url(fonts/fondamento-400.ttf)}
+@font-face{font-display:swap;font-family:fondamento;font-style:italic;src:url(fonts/fondamento-400i.ttf)}
+
+
+.font-fondamento{font-family:fondamento}
+.w400{font-weight:400;font-style:normal}
+.w400i{font-weight:400;font-style:italic}

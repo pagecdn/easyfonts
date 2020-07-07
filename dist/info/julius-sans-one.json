@@ -1,0 +1,15 @@
+{
+    "font_id": "julius-sans-one",
+    "font_family": "Julius Sans One",
+    "font_css_file": "julius-sans-one.css",
+    "font_license": "license\/julius-sans-one.txt",
+    "font_css_class": "font-julius-sans-one",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/julius-sans-one-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

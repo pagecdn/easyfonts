@@ -1,0 +1,8 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/fugaz-one.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'fugaz one';src:url(fonts/fugaz-one-400.ttf)}
+
+
+.font-fugaz-one{font-family:'fugaz one'}
+.w400{font-weight:400;font-style:normal}

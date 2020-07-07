@@ -1,0 +1,14 @@
+/* License: https://pagecdn.io/lib/easyfonts/license/yanone-kaffeesatz.txt */
+/* License: https://github.com/google/fonts#licensing */
+
+@font-face{font-display:swap;font-family:'yanone kaffeesatz';src:url(fonts/yanone-kaffeesatz-400.ttf)}
+@font-face{font-display:swap;font-family:'yanone kaffeesatz';font-weight:200;src:url(fonts/yanone-kaffeesatz-200.ttf)}
+@font-face{font-display:swap;font-family:'yanone kaffeesatz';font-weight:700;src:url(fonts/yanone-kaffeesatz-700.ttf)}
+@font-face{font-display:swap;font-family:'yanone kaffeesatz';font-weight:300;src:url(fonts/yanone-kaffeesatz-300.ttf)}
+
+
+.font-yanone-kaffeesatz{font-family:'yanone kaffeesatz'}
+.w400{font-weight:400;font-style:normal}
+.w200{font-weight:200;font-style:normal}
+.w700{font-weight:700;font-style:normal}
+.w300{font-weight:300;font-style:normal}

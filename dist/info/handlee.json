@@ -1,0 +1,15 @@
+{
+    "font_id": "handlee",
+    "font_family": "Handlee",
+    "font_css_file": "handlee.css",
+    "font_license": "license\/handlee.txt",
+    "font_css_class": "font-handlee",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/handlee-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

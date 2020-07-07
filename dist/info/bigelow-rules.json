@@ -1,0 +1,15 @@
+{
+    "font_id": "bigelow-rules",
+    "font_family": "Bigelow Rules",
+    "font_css_file": "bigelow-rules.css",
+    "font_license": "license\/bigelow-rules.txt",
+    "font_css_class": "font-bigelow-rules",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/bigelow-rules-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

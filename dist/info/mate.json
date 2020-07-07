@@ -1,0 +1,21 @@
+{
+    "font_id": "mate",
+    "font_family": "Mate",
+    "font_css_file": "mate.css",
+    "font_license": "license\/mate.txt",
+    "font_css_class": "font-mate",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/mate-400.ttf",
+            "css_class": "w400"
+        },
+        {
+            "weight": "400",
+            "style": "italic",
+            "file": "fonts\/mate-400i.ttf",
+            "css_class": "w400i"
+        }
+    ]
+}

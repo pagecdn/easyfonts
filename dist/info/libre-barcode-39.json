@@ -1,0 +1,15 @@
+{
+    "font_id": "libre-barcode-39",
+    "font_family": "Libre Barcode 39",
+    "font_css_file": "libre-barcode-39.css",
+    "font_license": "license\/libre-barcode-39.txt",
+    "font_css_class": "font-libre-barcode-39",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/libre-barcode-39-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "font_id": "shadows-into-light",
+    "font_family": "Shadows Into Light",
+    "font_css_file": "shadows-into-light.css",
+    "font_license": "license\/shadows-into-light.txt",
+    "font_css_class": "font-shadows-into-light",
+    "font_variants": [
+        {
+            "weight": "400",
+            "style": "regular",
+            "file": "fonts\/shadows-into-light-400.ttf",
+            "css_class": "w400"
+        }
+    ]
+}
