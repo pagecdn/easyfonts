@@ -13,6 +13,10 @@ You can use Easy Fonts for several purposes:
 ```HTML
 <link href="https://pagecdn.io/lib/easyfonts/fonts.css" rel="stylesheet" />
 
+<!-- Or Alternatively, load just specific fonts
+    <link href="https://pagecdn.io/lib/easyfonts/open-sans.css" rel="stylesheet" />
+    <link href="https://pagecdn.io/lib/easyfonts/roboto.css" rel="stylesheet" /> -->
+...
 <div class="font-roboto">
     <div class="font-open-sans w600i">
         Stuff here appears in Open Sans, bold and italic
