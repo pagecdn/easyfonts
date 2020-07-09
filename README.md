@@ -19,7 +19,7 @@ You can use Easy Fonts for several purposes:
 
 ## Why Easy Fonts
 
-Easy Fonts was built to leverage [host consolidation](https://pagecdn.com/optimizations/host-consolidation) technique used by PageCDN 
+Easy Fonts was developed to leverage [host consolidation](https://pagecdn.com/optimizations/host-consolidation) technique used by PageCDN 
 to speedup websites. Our initial goal was to allow websites that use PageCDN for their content delivery to also optionally deliver 
 fonts over the same CDN host to reduce the 2 extra DNS lookups required by Google Fonts. Later on, Easy Fonts proved to be a very 
 useful library for rapid prototyping. So, we moved it to GitHub for anyone interested in self hosting this library or using it in 
@@ -109,4 +109,5 @@ where you can read licensing information. Individual font families have their ow
 license files are linked from every CSS file too to help you easily view the license information.
 
 The CSS and JSON files in this repository are dynamicaly generated from font files only and are covered under MIT license. If you 
-are aware of a license issue with any font family listed in this repo, please [open an issue](https://github.com/pagecdn/easyfonts/issues/new) to request its removal.
+are aware of a license issue with any font family listed in this repo, please 
+[open an issue](https://github.com/pagecdn/easyfonts/issues/new) so that we can resolve the discrepancy.
