@@ -5,23 +5,28 @@ https://pagecdn.com/lib/easyfonts
 ## Why Easy Fonts
 You can use Easy Fonts for several purposes:
 1. For self hosting Google Fonts.
+2. Define custom cache control if you are not happy with CDN hosted fonts library.
 
-
-
-## Easy to use CSS Classes
 
 ## Using Easy Fonts
 
-Easy Fonts has the following directory structure:
+```HTML
+<link href="https://pagecdn.io/lib/easyfonts/fonts.css" rel="stylesheet" />
 
-```
-/dist/              CSS files
-/dist/fonts/        TTF font files
-/dist/info/         JSON files containing information for all families
-/dist/license/      License files for individual font families
-```
+<div class="font-roboto">
+    <div class="font-open-sans w600i">
+        Stuff here appears in Open Sans, bold and italic
+    </div>
+    <div class="w600">
+        Stuff here appears in Roboto, bold
+    </div>
+    <div>
+        Stuff here appears in Roboto
+    </div>
+</div>
 
-All css, json, font and license files are placed in files are 
+:)
+```
 
 ### Importing a Font
 
@@ -53,10 +58,9 @@ It is possible to use Easy Fonts and Google Fonts together. Here is how to do it
 
 ### Importing Fonts Dynamically
 
-Easy Fonts provides handy JSON files that contain information about individual fonts. These JSON files help you build font selection 
-interfaces for themes builders. These JSON files are located in [`dist/info`](dist/info) directory. You can load JSON files for individual fonts 
-or use an all-inclusive JSON file for the entire collection.
-
+Easy Fonts provides font information in JSON format for individual font families. This helps you build font selection interfaces for 
+themes and website builders. The JSON is located in [`dist/info`](dist/info) directory. You can load information for individual fonts 
+or use an all-inclusive JSON file for the entire fonts collection.
 
 #### Load information of all Fonts
 ```
@@ -68,19 +72,11 @@ https://pagecdn.io/lib/easyfonts/info/fonts.json
 https://pagecdn.io/lib/easyfonts/info/open-sans.json
 ```
 
-
-
-
 ## License
 
-The TTF font files inside [`dist/fonts`](dist/fonts) are unmodified copy of TTF files in [Google Fonts](https://github.com/google/fonts/) GitHub repo 
+The TTF font files inside [`dist/fonts`](dist/fonts) are unmodified copies of TTF files in [Google Fonts](https://github.com/google/fonts/) GitHub repo 
 where you can read licensing information. Individual font families have their own license files in [`dist/license`](dist/license). Relevant 
-license files are linked from every CSS file.
+license files are linked from every CSS file too to help you easily view the license information.
 
-The CSS and JSON files in this repository are generated dynamicaly from font files only and are covered under MIT license. If you 
-are aware of a license issue with any font family listed in this repo, or if you are an author of a font and want to remove it from 
-this project, please [open an issue](issues/new) to request its removal.
-
- 
-
-
+The CSS and JSON files in this repository are dynamicaly generated from font files only and are covered under MIT license. If you 
+are aware of a license issue with any font family listed in this repo, please [open an issue](https://github.com/pagecdn/easyfonts/issues/new) to request its removal.
