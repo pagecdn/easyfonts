@@ -29,7 +29,7 @@ The [`dist`](dist) directory contains CSS files for each individual font family 
 You can download the library to play with individual font families or link to CSS files directly from CDN. Below is the link to 
 `open sans` font family. For other font families, [here is a handy search tool](https://pagecdn.com/lib/easyfonts).
 
-```
+```HTML
 <link href="https://pagecdn.io/lib/easyfonts/open-sans.css" rel="stylesheet" />
 ```
 
@@ -38,7 +38,7 @@ You can download the library to play with individual font families or link to CS
 To quickly test different fonts, Easy Fonts makes it easy to import all font families at once. For this, you need to use 
 [`dist/fonts.css`](dist/fonts.css) file or use the below CDN link.
 
-```
+```HTML
 <link href="https://pagecdn.io/lib/easyfonts/fonts.css" rel="stylesheet" />
 ```
 
@@ -46,7 +46,7 @@ To quickly test different fonts, Easy Fonts makes it easy to import all font fam
 
 It is possible to use Easy Fonts and Google Fonts together. Here is how to do it.
 
-```
+```HTML
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap" rel="stylesheet"> 
 <link href="https://pagecdn.io/lib/easyfonts/classes.css" rel="stylesheet" />
 ```
@@ -57,11 +57,14 @@ Easy Fonts provides handy JSON files that contain information about individual f
 interfaces for themes builders. These JSON files are located in [`dist/info`](dist/info) directory. You can load JSON files for individual fonts 
 or use an all-inclusive JSON file for the entire collection.
 
-```
-//Load information of all Fonts
-https://pagecdn.io/lib/easyfonts/info/fonts.json
 
-//Load information of single font family
+#### Load information of all Fonts
+```
+https://pagecdn.io/lib/easyfonts/info/fonts.json
+```
+
+#### Load information of single font family
+```
 https://pagecdn.io/lib/easyfonts/info/open-sans.json
 ```
 
