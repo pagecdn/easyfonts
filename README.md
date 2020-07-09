@@ -25,7 +25,9 @@ All css, json, font and license files are placed in files are
 
 ### Importing a Font
 
-The `dist` directory contains CSS files for each individual font family. You can link to one or more CSS files from your HTML. You can download the library to play with individual font families or link to CSS files directly from CDN. Below is the link to `open sans` font families. Here is a [handy search tool](https://pagecdn.com/lib/easyfonts) for all fonts.
+The `dist` directory contains CSS files for each individual font family that you can link to from your HTML. 
+You can download the library to play with individual font families or link to CSS files directly from CDN. Below is the link to 
+`open sans` font family. For other font families, [here is a handy search tool](https://pagecdn.com/lib/easyfonts).
 
 ```
 <link href="https://pagecdn.io/lib/easyfonts/open-sans.css" rel="stylesheet" />
@@ -33,7 +35,8 @@ The `dist` directory contains CSS files for each individual font family. You can
 
 ### Importing all Fonts
 
-Easy Fonts makes it easy to import all font families at once and then quickly test different fonts. For this, you need to use `dist/fonts.css` file or use the below CDN link.
+To quickly test different fonts, Easy Fonts makes it easy to import all font families at once. For this, you need to use 
+`[dist/fonts.css](easyfonts/blob/master/dist/fonts.css)` file or use the below CDN link.
 
 ```
 <link href="https://pagecdn.io/lib/easyfonts/fonts.css" rel="stylesheet" />
