@@ -17,10 +17,18 @@ You can use Easy Fonts for several purposes:
 2. Define custom cache control if you are not happy with CDN hosted fonts library.
 -->
 
+## Why Easy Fonts
+
+Easy Fonts was built to leverage [host consolidation](https://pagecdn.com/optimizations/host-consolidation) technique used by PageCDN 
+to speedup websites. Our initial goal was to allow websites that use PageCDN for their content delivery to also optionally deliver 
+fonts over the same CDN host to reduce the 2 extra DNS lookups required by Google Fonts. Later on, Easy Fonts proved to be a very 
+useful library for rapid prototyping. So, we moved it to GitHub for anyone interested in self hosting this library or using it in 
+combination with fonts.google.com.
+
 ## Using Easy Fonts
 
 Easy Fonts provides a collection of CSS classes to help you build websites faster without worrying about modifying CSS every time you 
-need to test a new font family. Use [this reference](https://pagecdn.com/lib/easyfonts) to learn about all available font families 
+need to test a new font family. Use [Easy Fonts reference](https://pagecdn.com/lib/easyfonts#reference) to learn about all available font families 
 and relevant CSS classes.
 
 ```HTML
