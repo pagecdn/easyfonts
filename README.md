@@ -4,8 +4,11 @@
 makes it easier to use [Google Fonts](https://github.com/google/fonts/) in your projects. Easy Fonts makes the webfonts 2 step easier 
 as you **no longer need to repeat the folowing steps** every time you try a new font family:
 
-1. Linking to new CSS file, or
-2. Modifying the CSS to apply the font.
+1. No need to generate new font stylesheet every time, and
+2. No need to edit CSS to apply the font.
+
+With Easy Fonts, you can use a single lightweight CSS file to import all fonts in your project, and never worry about importing new 
+fonts ever.
 
 <!--
 ## Why Easy Fonts
@@ -17,15 +20,17 @@ You can use Easy Fonts for several purposes:
 ## Using Easy Fonts
 
 Easy Fonts provides a collection of CSS classes to help you build websites faster without worrying about modifying CSS every time you 
-need to test a new font family.
+need to test a new font family. Use [this reference](https://pagecdn.com/lib/easyfonts) to learn about all available font families 
+and relevant CSS classes.
 
 ```HTML
 <link href="https://pagecdn.io/lib/easyfonts/fonts.css" rel="stylesheet" />
 
 <!-- Or load specific font files
-    <link href="https://pagecdn.io/lib/easyfonts/open-sans.css" rel="stylesheet" />
-    <link href="https://pagecdn.io/lib/easyfonts/roboto.css" rel="stylesheet" /> -->
-...
+<link href="https://pagecdn.io/lib/easyfonts/open-sans.css" rel="stylesheet" />
+<link href="https://pagecdn.io/lib/easyfonts/roboto.css" rel="stylesheet" />
+-->
+
 <div class="font-roboto">
     <div class="font-open-sans w600i">
         Stuff here appears in Open Sans, bold and italic
