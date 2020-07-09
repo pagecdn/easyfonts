@@ -13,7 +13,7 @@ You can use Easy Fonts for several purposes:
 ```HTML
 <link href="https://pagecdn.io/lib/easyfonts/fonts.css" rel="stylesheet" />
 
-<!-- Or Alternatively, load just specific fonts
+<!-- Or load specific font files
     <link href="https://pagecdn.io/lib/easyfonts/open-sans.css" rel="stylesheet" />
     <link href="https://pagecdn.io/lib/easyfonts/roboto.css" rel="stylesheet" /> -->
 ...
@@ -25,12 +25,16 @@ You can use Easy Fonts for several purposes:
         Stuff here appears in Roboto, bold
     </div>
     <div>
-        Stuff here appears in Roboto
+        Stuff here appears in Roboto and uses inherited weight and style
     </div>
 </div>
 
 :)
 ```
+
+If you are using `fonts.css`, browsers will download just the font files that you actually use on your website and will not waste 
+user's bandwidth. The `fonts.css` file itself is just **25 KB** when loaded from PageCDN. PageCDN uses Brotli:11 compression to very 
+tightly compress the file to lower its size.
 
 ### Importing a Font
 
