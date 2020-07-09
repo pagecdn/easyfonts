@@ -5,7 +5,7 @@ https://pagecdn.com/lib/easyfonts
 ## Why Easy Fonts
 You can use Easy Fonts for several purposes:
 1. For self hosting Google Fonts.
-2. 
+
 
 
 ## Easy to use CSS Classes
@@ -69,5 +69,18 @@ https://pagecdn.io/lib/easyfonts/info/open-sans.json
 ```
 
 
+
+
+## License
+
+The TTF font files inside [`dist/fonts`](dist/fonts) are unmodified copy of TTF files in [Google Fonts](https://github.com/google/fonts/) GitHub repo 
+where you can read licensing information. Individual font families have their own license files in [`dist/license`](dist/license). Relevant 
+license files are linked from every CSS file.
+
+The CSS and JSON files in this repository are generated dynamicaly from font files only and are covered under MIT license. If you 
+are aware of a license issue with any font family listed in this repo, or if you are an author of a font and want to remove it from 
+this project, please [open an issue](issues/new) to request its removal.
+
+ 
 
 
