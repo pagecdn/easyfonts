@@ -41,12 +41,26 @@ Easy Fonts makes it easy to import all font families at once and then quickly te
 
 ### Using with Google Fonts
 
+It is possible to use Easy Fonts and Google Fonts together. Here is how to do it.
+
+```
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap" rel="stylesheet"> 
+<link href="https://pagecdn.io/lib/easyfonts/classes.css" rel="stylesheet" />
+```
+
 ### Importing Fonts Dynamically
 
+Easy Fonts provides handy JSON files that contain information about individual fonts. These JSON files help you build font selection 
+interfaces for themes builders. These JSON files are located in `dist/info` directory. You can load JSON files for individual fonts 
+or use an all-inclusive JSON file for the entire collection.
 
+```
+//Load information of all Fonts
+https://pagecdn.io/lib/easyfonts/info/fonts.json
 
-
-
+//Load information of single font family
+https://pagecdn.io/lib/easyfonts/info/open-sans.json
+```
 
 
 
