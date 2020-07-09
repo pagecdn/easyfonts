@@ -1,6 +1,11 @@
 # Easy Fonts
-https://pagecdn.com/lib/easyfonts
 
+[Easy Fonts](https://pagecdn.com/lib/easyfonts) provides CSS classes to be used as `<div classs="font-open-sans"></div>`, to make it 
+easier to use [Google Fonts](https://github.com/google/fonts/). Easy Fonts makes the webfonts 2 step easier as you 
+**no longer need to repeat the folowing steps** every time you need to test a new font family:
+
+1. Linking to new CSS file, or
+2. Modify the CSS to apply the font.
 
 ## Why Easy Fonts
 You can use Easy Fonts for several purposes:
