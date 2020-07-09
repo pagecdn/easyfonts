@@ -33,8 +33,7 @@ The `dist` directory contains CSS files for each individual font family. You can
 
 ### Importing All Font Families
 
-Easy Fonts makes it easy to import all font families at once and then quickly test different fonts. For this, you need to use `dist/fonts.css` 
-file or use the below CDN link.
+Easy Fonts makes it easy to import all font families at once and then quickly test different fonts. For this, you need to use `dist/fonts.css` file or use the below CDN link.
 
 ```
 <link href="https://pagecdn.io/lib/easyfonts/fonts.css" rel="stylesheet" />
