@@ -10,6 +10,9 @@ You can use Easy Fonts for several purposes:
 
 ## Using Easy Fonts
 
+Easy Fonts provides a collection of CSS classes to help you build websites faster without worrying about modifying CSS every time you 
+need to test a new font family.
+
 ```HTML
 <link href="https://pagecdn.io/lib/easyfonts/fonts.css" rel="stylesheet" />
 
@@ -32,9 +35,9 @@ You can use Easy Fonts for several purposes:
 :)
 ```
 
-If you are using `fonts.css`, browsers will download just the font files that you actually use on your website and will not waste 
-user's bandwidth. The `fonts.css` file itself is just **25 KB** when loaded from PageCDN. PageCDN uses Brotli:11 compression to very 
-tightly compress the file to lower its size.
+If you are using `fonts.css`, browsers will download just the font files that you actually use in your HTML and will not waste 
+user's bandwidth by loading all fonts. The `fonts.css` file itself is just **25 KB** when loaded from PageCDN. PageCDN uses Brotli:11 
+compression to very tightly compress the file to keep the size within acceptable limits.
 
 ### Importing a Font
 
