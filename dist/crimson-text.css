@@ -1,18 +1,174 @@
-/* License: https://pagecdn.io/lib/easyfonts/license/crimson-text.txt */
-/* License: https://github.com/google/fonts#licensing */
+/* License: https://fonts.google.com/attribution */
 
-@font-face{font-display:swap;font-family:'crimson text';src:url(fonts/crimson-text-400.ttf)}
-@font-face{font-display:swap;font-family:'crimson text';font-style:italic;font-weight:700;src:url(fonts/crimson-text-700i.ttf)}
-@font-face{font-display:swap;font-family:'crimson text';font-style:italic;font-weight:600;src:url(fonts/crimson-text-600i.ttf)}
-@font-face{font-display:swap;font-family:'crimson text';font-style:italic;src:url(fonts/crimson-text-400i.ttf)}
-@font-face{font-display:swap;font-family:'crimson text';font-weight:700;src:url(fonts/crimson-text-700.ttf)}
-@font-face{font-display:swap;font-family:'crimson text';font-weight:600;src:url(fonts/crimson-text-600.ttf)}
+/* crimson-text-vietnamese-400-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-vietnamese-400-italic.woff2') format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* crimson-text-latin-ext-400-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-ext-400-italic.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* crimson-text-latin-400-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-400-italic.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* crimson-text-vietnamese-400-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-vietnamese-400-normal.woff2') format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* crimson-text-latin-ext-400-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-ext-400-normal.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* crimson-text-latin-400-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-400-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* crimson-text-vietnamese-600-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-vietnamese-600-italic.woff2') format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* crimson-text-latin-ext-600-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-ext-600-italic.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* crimson-text-latin-600-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-600-italic.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* crimson-text-vietnamese-600-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-vietnamese-600-normal.woff2') format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* crimson-text-latin-ext-600-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-ext-600-normal.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* crimson-text-latin-600-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-600-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* crimson-text-vietnamese-700-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-vietnamese-700-italic.woff2') format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* crimson-text-latin-ext-700-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-ext-700-italic.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* crimson-text-latin-700-italic*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-700-italic.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* crimson-text-vietnamese-700-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-vietnamese-700-normal.woff2') format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* crimson-text-latin-ext-700-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-ext-700-normal.woff2') format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* crimson-text-latin-700-normal*/
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('https://pagecdn.io/lib/easyfonts/files/crimson-text-latin-700-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
 
 
-.font-crimson-text{font-family:'crimson text'}
+
+.font-crimson-text{font-family:'Crimson Text'}
 .w400{font-weight:400;font-style:normal}
-.w700i{font-weight:700;font-style:italic}
-.w600i{font-weight:600;font-style:italic}
 .w400i{font-weight:400;font-style:italic}
-.w700{font-weight:700;font-style:normal}
 .w600{font-weight:600;font-style:normal}
+.w600i{font-weight:600;font-style:italic}
+.w700{font-weight:700;font-style:normal}
+.w700i{font-weight:700;font-style:italic}
