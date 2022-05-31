@@ -812,13 +812,10 @@
 }
 
 
-.font-montserrat{font-family:montserrat}
-.w900i{font-weight:900;font-style:italic}
-.w800{font-weight:800;font-style:normal}
-.w500i{font-weight:500;font-style:italic}
-.w700{font-weight:700;font-style:normal}
-.w300{font-weight:300;font-style:normal}
-.w800i{font-weight:800;font-style:italic}
+
+.font-montserrat{font-family:'Montserrat'}
+.w100{font-weight:100;font-style:normal}
+.w100i{font-weight:100;font-style:italic}
 .w200{font-weight:200;font-style:normal}
 .w200i{font-weight:200;font-style:italic}
 .w300{font-weight:300;font-style:normal}
